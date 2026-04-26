@@ -1,15 +1,15 @@
-# Rime schema: teochew_puj
+# Rime schema: teochew_dp
 # Generated from merged.csv - do not edit manually
 
 schema:
-  schema_id: teochew_puj
-  name: 潮州白話字
+  schema_id: teochew_dp
+  name: 潮州話拼音
   version: "20260426.203949"
   author:
     - Hokkien Writing Project
   dependencies:
-    - teochew_puj_en
-    - teochew_puj_zh
+    - teochew_dp_en
+    - teochew_dp_zh
     - luna_pinyin
 
 switches:
@@ -25,7 +25,7 @@ engine:
   processors:
     - ascii_composer
     - recognizer
-    - lua_processor@puj_caps_tracker
+    - lua_processor@dp_caps_tracker
     - speller
     - punctuator
     - selector
@@ -48,7 +48,7 @@ engine:
     - table_translator@zh_lookup
   filters:
     - simplifier
-    - lua_filter@puj_filter
+    - lua_filter@dp_filter
     - uniquifier
 
 speller:
@@ -56,10 +56,25 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
   delimiter: " -"
   algebra:
+    - xform/^g/gh/
+    - xform/^b/bh/
+    - xform/^j/r/
+    - xform/^chh/c/
+    - xform/^ch/z/
+    - xform/^k(?=[^h])/g/
+    - xform/^kh/k/
+    - xform/^p(?=[^h])/b/
+    - xform/^ph/p/
+    - xform/^t(?=[^h])/d/
+    - xform/^th/t/
+    - xform/ur/v/
+    - xform/p(\d)$/b$1/
+    - xform/t(\d)$/d$1/
+    - xform/k(\d)$/g$1/
     - derive/ /-/
     - derive/[1-8]//
-    - derive/ch/ts/
-    - derive/chh/tsh/
+    - derive/d/g/
+    - derive/([aeiu])n$/$1ng/
     - derive/oinn/ainn/
     - derive/nn//
     - derive/a/A/
@@ -116,7 +131,7 @@ style:
   candidate_format: "%@"
 
 translator:
-  dictionary: teochew_puj
+  dictionary: teochew_dp
   enable_completion: true
   enable_sentence: true
   enable_user_dict: true
@@ -131,14 +146,14 @@ reverse_lookup:
 
 en_lookup:
   tag: en_lookup
-  dictionary: teochew_puj_en
+  dictionary: teochew_dp_en
   prefix: "~"
   suffix: "'"
   tips: "〔English〕"
 
 zh_lookup:
   tag: zh_lookup
-  dictionary: teochew_puj_zh
+  dictionary: teochew_dp_zh
   enable_completion: true
   prefix: "!"
   suffix: "'"

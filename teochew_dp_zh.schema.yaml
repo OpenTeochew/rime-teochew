@@ -1,0 +1,45 @@
+# Rime schema: teochew_dp_zh
+# Generated from merged.csv - do not edit manually
+
+schema:
+  schema_id: teochew_dp_zh
+  name: 潮州話拼音-普通話
+  version: "20260426.203949"
+  author:
+    - Hokkien Writing Project
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - matcher
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyz'"
+  initials: "abcdefghijklmnopqrstuvwxyz"
+  delimiter: " '"
+  use_space: false
+  auto_select: false
+  algebra:
+    - derive/[1-5]//
+
+translator:
+  dictionary: teochew_dp_zh
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/

@@ -1,0 +1,6222 @@
+# Rime dictionary: teochew_dp
+# Generated from merged.csv - do not edit manually
+---
+name: teochew_dp
+version: "20260426.203949"
+sort: by_weight
+import_tables:
+  - teochew_chars
+  - teochew
+  - teochew_dp_syllables
+...
+
+a¹	a1	4199
+a¹ai⁵	a1 ai5	199
+a¹bho²	a1 bo2	99
+a¹bho⁵	a1 bo5	99
+a¹zê²	a1 che2	99
+a¹zêg⁴	a1 chek4	299
+a¹zong²	a1 chong2	99
+a¹hiaⁿ¹	a1 hiann1	99
+a¹i⁵	a1 i5	199
+a¹gim⁶	a1 kim6	199
+a¹gong¹	a1 kong1	199
+a¹gou¹	a1 kou1	99
+a¹gu⁶	a1 ku6	199
+a¹m²	a1 m2	99
+a¹ma²	a1 ma2	199
+a¹muêⁿ⁷	a1 muenn7	99
+a¹naiⁿ²	a1 nainn2	99
+a¹nêⁿ¹	a1 nenn1	149
+a¹ni¹	a1 ni1	199
+a¹niêⁿ⁵	a1 nienn5	99
+a¹niêⁿ⁵giaⁿ²	a1 nienn5 kiann2	149
+a¹nng⁵	a1 nng5	149
+a¹nouⁿ¹	a1 nounn1	99
+a¹nouⁿ⁵	a1 nounn5	299
+a¹nouⁿ⁵ do⁶ kau³	a1 nounn5 to6 khau3	99
+a¹ba¹	a1 pa1	99
+a¹bê⁶	a1 pe6	199
+a¹bêh⁴	a1 peh4	299
+a¹si⁶	a1 si6	99
+a¹sia³	a1 sia3	199
+a¹sim²	a1 sim2	99
+a¹so²	a1 so2	99
+a¹di⁶	a1 ti6	99
+a¹dia¹	a1 tia1	199
+a¹diêⁿ⁶	a1 tienn6	199
+a¹duaⁿ³	a1 tuann3	99
+a²	a2	599
+a²zih⁸	a2 chih8	99
+a²uan¹	a2 uan1	99
+a³	a3	2149
+a⁶	a6	599
+a⁷	a7	799
+ah⁴	ah4	1299
+ah⁴ bho² liêm³	ah4 bo2 liem3	99
+ah4 bho2 liêm³	ah4 bo2 liem3	98
+ah⁴ bho² nim³	ah4 bo2 nim3	99
+ah4 bho2 nim³	ah4 bo2 nim3	98
+ah⁴nih⁴	ah4 nih4	99
+ai¹	ai1	1199
+ai²	ai2	5999
+ai⁵	ai5	599
+ai⁷	ai7	1199
+aiⁿ³	ainn3	3099
+aiⁿ³ ki²cu³ diêh⁸ u⁶ di⁷ka¹	ainn3 khi2 chhu3 tieh8 u6 ti7 kha1	186
+aiⁿ³ dog⁴muêh⁸ diêh⁸ naⁿ⁷ diam¹dêng²	ainn3 tok4 mueh8 tieh8 nann7 tiam1 teng2	149
+aiⁿ³bhoi⁷gai⁵	ainn3 boi7  kai5	99
+aiⁿ³ke³bai³ maⁿ²zou²	ainn3 khur3 pai3 mann2 chou2	99
+aiⁿ³loh⁸ lau⁵tui¹ maiⁿ³ bin⁶bong⁶giê³	ainn3 loh8 lau5 thui1 mainn3 pin6 pong6 kie3	149
+aiⁿ³si²	ainn3 si2	99
+aiⁿ³su³	ainn3 su3	99
+aiⁿ³to³dng⁵lo⁷	ainn3 tho3 tng5  lo7	99
+aiⁿ³tou³	ainn3 thou3	99
+aiⁿ⁵	ainn5	399
+ag⁴	ak4	3199
+ag⁴zui²	ak4 chui2	99
+ag⁴diêh⁸hou⁶	ak4 tieh8 hou6	99
+ag⁸	ak8	199
+am¹	am1	1649
+am²	am2	199
+am³	am3	2599
+am³zêⁿ⁶	am3 chenn6	299
+am³zêⁿ⁶daⁿ³	am3 chenn6 tann3	99
+am³ho⁷	am3 ho7	99
+am⁶	am6	699
+am⁶muaⁿ¹	am6 muann1	99
+am⁶niaⁿ²	am6 niann2	199
+am⁶puan⁵	am6 phuan5	99
+an¹gêⁿ¹	an1 kenn1	99
+an³	an3	99
+an³cad⁴	an3 chhat4	99
+ang¹	ang1	4599
+ang¹ zia²	ang1 chia2	199
+ang1 zia²	ang1 chia2	198
+ang¹zia²	ang1 chia2	99
+ang¹zia²giaⁿ²	ang1 chia2 kiann2	99
+ang¹giaⁿ²	ang1 kiann2	299
+ang³	ang3	4199
+ang⁵	ang5	1299
+ang⁵zng¹	ang5 chng1	99
+ang⁵zo⁵	ang5 cho5	99
+ang⁵huê¹nng²	ang5 hue1 nng2	199
+ang⁵iêh⁸	ang5 ieh8	99
+ang⁵sim¹	ang5 sim1	99
+ang⁵dang⁵	ang5 tang5	99
+ang⁵tau⁵zun⁵	ang5 thau5 chun5	99
+ang⁶	ang6	99
+aⁿ¹mag⁸ zau²diam⁷	ann1 mak8 chau2 tiam7	99
+aⁿ⁵	ann5	99
+aⁿ⁶	ann6	599
+aⁿ⁷	ann7	599
+ab⁴	ap4	1499
+ab⁴siou³	ap4 siou3	199
+ab⁸	ap8	1099
+au¹	au1	7199
+au²	au2	1799
+au²uêh⁴	au2 ueh4	199
+au³	au3	1899
+au³nang⁵	au3 nang5	149
+au⁵	au5	699
+au⁵ da¹	au5 ta1	99
+au⁵lêng⁵	au5 leng5	199
+au⁶	au6	699
+au⁶rid⁸	au6  jit8	99
+au⁶rid⁸ ua² ziu⁶ dng²lai⁵	au6  jit8 ua2 chiu6 tng2  lai5	99
+au⁶i⁶	au6 i6	299
+au⁶bê⁶	au6 pe6	99
+bha¹bhun¹ciê³	ba1 bun1 chhie3	99
+bha³ghê⁵	ba3 ge5	99
+bha⁷	ba7	99
+bha⁷giaⁿ²	ba7 kiann2	149
+bha⁷li⁵	ba7 li5	199
+bhai⁵	bai5	2399
+bhag⁸	bak8	1299
+bhag⁸zui²	bak8 chui2	99
+bhag⁸zui²guan³	bak8 chui2 kuan3	149
+bhag⁸iⁿ⁷	bak8 inn7	99
+bhag⁸re²	bak8 jur2	99
+bhag⁸gang¹ sai¹bê⁶	bak8 kang1 sai1 pe6	99
+bhag⁸li⁶	bak8 li6	99
+bhag⁸sad⁴	bak8 sat4	99
+bhag⁸dau²	bak8 tau2	99
+bhad⁸	bat8	99
+bhau²	bau2	2999
+bhê²	be2	1399
+bhê²cia¹	be2 chhia1	99
+bhê²zi²	be2 chi2	99
+bhê²ga¹	be2 ka1	99
+bhê²giaⁿ²	be2 kiann2	149
+bhê²lêng⁵kia⁵	be2 leng5 khia5	99
+bhê²bang⁵	be2 pang5	99
+bhê²biaⁿ¹	be2 piann1	99
+bhê²biⁿ¹	be2 pinn1	99
+bhê²soh⁴	be2 soh4	199
+bhê²dah⁸dêng³	be2 tah8 teng3	99
+bhê²tau⁵	be2 thau5	199
+bhê²uaⁿ¹	be2 uann1	99
+bhêh⁸	beh8	699
+bhêh⁸hun²guê²	beh8 hun2 kue2	149
+bhêg⁸	bek8	99
+bhi²	bi2	699
+bhi²lo⁵	bi2 lo5	199
+bhi²niêⁿ⁵	bi2 nienn5	149
+bhi²tai¹	bi2 thai1	199
+bhi⁷	bi7	1399
+bhi⁷sou³	bi7 sou3	99
+bhi⁷sou⁷	bi7 sou7	99
+bhiê⁵	bie5	399
+bhiê⁷	bie7	199
+bhih⁴	bih4	99
+bhih⁸	bih8	599
+bhig⁸	bik8	499
+bhio⁵	bio5	799
+bhio⁷	bio7	399
+bhid⁸	bit8	99
+bho²	bo2	1899
+bho²gu⁶	bo2 ku6	99
+bho⁵	bo5	2599
+bho⁵ di⁷ka¹ cu³ bhoi⁶kia⁶	bo5 ti7 kha1 chhu3 boi6 khia6	196
+bho⁵ke³	bo5  khur3	99
+bho⁵bhi⁷	bo5 bi7	99
+bho⁵bhou²	bo5 bou2	99
+bho⁵cai⁵cêng⁵	bo5 chhai5 chheng5	99
+bho⁵cêng⁵li²	bo5 chheng5 li2	99
+bho⁵co³	bo5 chho3	199
+bho⁵zuê⁶	bo5 chue6	99
+bho⁵ze²soi³	bo5 chur2 soi3	299
+bho⁵han⁶	bo5 han6	99
+bho⁵hê⁷ bho⁵loh⁸gai⁵nang⁵	bo5 he7 bo5 loh8  kai5 nang5	149
+bho⁵hêng⁶	bo5 heng6	99
+bho⁵ho²hiam⁵	bo5 ho2 hiam5	149
+bho⁵huê¹guê²	bo5 hue1 kue2	99
+bho⁵iaⁿ²	bo5 iann2	99
+bho⁵iaⁿ²bho⁵ziah⁴	bo5 iann2 bo5 chiah4	99
+bho⁵rin⁵ngi⁶	bo5 jin5 ngi6	99
+bho⁵gan¹siab⁸	bo5 kan1 siap8	99
+bho⁵gê²gai⁵	bo5 ke2  kai5	99
+bho⁵kou² naiⁿ⁶ho⁵	bo5 khou2 nainn6 ho5	99
+bho⁵giaⁿ² bho⁵ri¹	bo5 kiann2 bo5 ji1	149
+bho⁵giu³lo⁷	bo5 kiu3  lo7	99
+bho⁵gui¹ge²	bo5 kui1 kur2	299
+bho⁵lad⁸	bo5 lat8	99
+bho⁵moⁿ⁷	bo5 monn7	99
+bho⁵naiⁿ⁶ho⁵	bo5 nainn6 ho5	99
+bho⁵nang⁵cêng⁵	bo5 nang5 chheng5	149
+bho⁵ban¹bho²	bo5 pan1 bo2	99
+bho⁵bê⁶bho⁵bho²	bo5 pe6 bo5 bo2	99
+bho⁵bun²niaⁿ²	bo5 pun2 niann2	99
+bho⁵bun²se⁷	bo5 pun2 sur7	99
+bho⁵sêng¹li²	bo5 seng1 li2	99
+bho⁵siang¹gan¹se⁷	bo5 siang1 kan1 sur7	99
+bho⁵sim¹	bo5 sim1	99
+bho⁵daⁿ²	bo5 tann2	199
+bho⁵dêng³êng⁷	bo5 teng3 eng7	99
+bho⁵tua¹kiam³	bo5 thua1 khiam3	99
+bho⁵dua⁷ bho⁵soi³	bo5 tua7 bo5 soi3	99
+bho⁵uang²kud⁴ nang⁵	bo5 uang2 khut4 nang5	149
+bho⁵ui⁷ce³	bo5 ui7 chhur3	99
+bho⁷	bo7	999
+bho⁷ziêh⁸	bo7 chieh8	99
+bho⁷zu¹	bo7 chu1	99
+bho⁷giaⁿ²	bo7 kiann2	299
+bho⁷diou³	bo7 tiou3	99
+bhoi²	boi2	899
+bhoi² zêg⁸ziah⁴ goi¹ zo³tng¹	boi2 chek8 chiah4 koi1 cho3 thng1	149
+bhoi²bho⁵	boi2 bo5	99
+bhoi²bhoi⁷	boi2 boi7	99
+bhoi²ziêⁿ⁶buaⁿ⁵	boi2 chienn6 puann5	99
+bhoi²kêh⁴	boi2 kheh4	99
+bhoi²puê³	boi2 phue3	99
+bhoi⁶	boi6	899
+bhoi⁶bho⁵ban¹bho²	boi6 bo5 pan1 bo2	149
+bhoi⁶ziah⁸	boi6 chiah8	149
+bhoi⁶ziam¹	boi6 chiam1	149
+bhoi⁶guê³hun⁷	boi6 kue3 hun7	149
+bhoi⁶mo²	boi6 mo2	199
+bhoi⁶sai²	boi6 sai2	149
+bhoi⁶siou¹	boi6 siou1	149
+bhoi⁶did⁴	boi6 tit4	149
+bhoi⁷	boi7	799
+bhoi⁷ziêⁿ⁶buaⁿ⁵	boi7 chienn6 puann5	99
+bhoi⁷piⁿ¹nang⁵	boi7 phinn1  nang5	149
+bhou²	bou2	1899
+bhou² duaⁿ¹	bou2 tuann1	199
+bhou2 duaⁿ¹	bou2 tuann1	198
+bhou⁷	bou7	599
+bhu²	bu2	4899
+bhu²iⁿ⁷	bu2 inn7	99
+bhu²guaⁿ¹	bu2 kuann1	199
+bhu⁵	bu5	2399
+bhu⁵lua⁷	bu5 lua7	99
+bhu⁶	bu6	2399
+bhu⁷	bu7	699
+bhu⁷zui²	bu7 chui2	99
+bhua²	bua2	99
+bhua⁵	bua5	949
+bhua⁵kou²	bua5 khou2	99
+bhua⁵do¹ziêh⁸	bua5 to1 chieh8	99
+bhuah⁴	buah4	699
+bhuah⁴piⁿ⁷hun¹	buah4 phinn7 hun1	99
+bhuah⁸	buah8	2999
+bhuan⁷si³	buan7 si3	199
+bhuang²	buang2	2999
+bhuang⁵	buang5	1199
+bhuang⁵iêh⁴	buang5 ieh4	99
+bhuang⁵en¹	buang5 urn1	99
+bhuang⁶	buang6	2599
+bhuang⁷	buang7	399
+bhuê²	bue2	899
+bhuê² iah⁸	bue2 iah8	199
+bhuê2 iah⁸	bue2 iah8	198
+bhuê²bhuê²	bue2 bue2	99
+bhuê²iah⁸	bue2 iah8	99
+bhuê⁵	bue5	6699
+bhuê⁵nang⁵	bue5 nang5	149
+bhuê⁵nêg⁸	bue5 nek8	99
+bhuê⁷	bue7	799
+bhuê⁷ziah⁸ soiⁿ¹ziah⁸	bue7 chiah8 soinn1 chiah8	99
+bhuêh⁸	bueh8	299
+bhuêng⁶	bueng6	999
+bhuêng⁷	bueng7	99
+bhui³	bui3	399
+bhun¹	bun1	99
+bhun⁵ziêⁿ¹	bun5 chienn1	99
+bhun⁵guaⁿ¹	bun5 kuann1	99
+bhung¹	bung1	1199
+bhung³	bung3	599
+bhung⁵	bung5	5999
+bhung⁶	bung6	599
+bhung⁷	bung7	1799
+za¹	cha1	12599
+za¹bhou²	cha1 bou2	186
+za¹bhou²guan²	cha1 bou2 kuan2	186
+za¹rid⁸	cha1 jit8	99
+za¹mêⁿ⁵	cha1 menn5	149
+za¹mêⁿ⁵ i¹ cng³si² nang⁵	cha1 menn5 i1 chhng3 si2 nang5	186
+za²	cha2	3199
+za² diang¹si⁵	cha2 tiang1 si5	99
+za²za²	cha2 cha2	99
+za²mêⁿ⁵ saⁿ¹gêⁿ¹ sih⁸	cha2 menn5 sann1 kenn1 sih8	149
+za²sin⁵	cha2 sin5	99
+za³	cha3	7799
+zah⁴	chah4	599
+zah⁸	chah8	2499
+zah⁸lou⁷	chah8 lou7	99
+zai¹	chai1	3099
+zai¹a¹	chai1  a1	99
+zai¹guan¹	chai1 kuan1	99
+zai¹nang⁵cêng⁵	chai1 nang5 chheng5	149
+zai²	chai2	2399
+zai²siang³	chai2 siang3	99
+zai³	chai3	1299
+zai³huê³	chai3 hue3	99
+zai⁵	chai5	599
+zai⁶	chai6	1799
+zai⁷	chai7	1299
+zaiⁿ⁵	chainn5	199
+zag⁴	chak4	10799
+zag⁴diêh⁸	chak4  tieh8	99
+zag⁸	chak8	399
+zam¹	cham1	1099
+zam²	cham2	1999
+zam²tau⁵	cham2 thau5	199
+zam³	cham3	999
+zam⁶	cham6	1099
+zan³bang⁵	chan3 pang5	99
+zan⁵	chan5	99
+zang¹	chang1	5199
+zang¹sêg⁴	chang1 sek4	99
+zang¹sui¹	chang1 sui1	99
+zang²	chang2	999
+zang³	chang3	7699
+zang³bang⁵	chang3 pang5	99
+zang⁵	chang5	1399
+zang⁶	chang6	3199
+zang⁷	chang7	599
+zab⁴	chap4	8099
+zab⁸	chap8	2099
+zab⁸bhuan⁷	chap8 buan7	199
+zab⁸cid⁴	chap8 chhit4	199
+zab⁸zib⁸	chap8 chip8	99
+zab⁸huê³	chap8 hue3	99
+zab⁸id⁴	chap8 it4	299
+zab⁸id⁴ loi²bai³	chap8 it4 loi2 pai3	99
+zab⁸ri⁶	chap8 ji6	299
+zab⁸ri⁷gê³	chap8 ji7 ke3	99
+zab⁸gai³	chap8 kai3	99
+zab⁸gau²	chap8 kau2	199
+zab⁸lag⁸	chap8 lak8	199
+zab⁸lag⁸ liab⁸ luah⁴ buaⁿ³cêⁿ¹ sêg⁸	chap8 lak8 liap8 luah4 puann3 chhenn1 sek8	99
+zab⁸muêh⁸	chap8 mueh8	199
+zab⁸ngou⁶	chap8 ngou6	199
+zab⁸boih⁴	chap8 poih4	199
+zab⁸saⁿ¹	chap8 sann1	199
+zab⁸si³	chap8 si3	199
+zad⁴	chat4	199
+zad⁴dou⁷	chat4 tou7	99
+zad⁸	chat8	99
+zau¹	chau1	2399
+zau²	chau2	2599
+zau²bhê²lau⁵	chau2 be2 lau5	99
+zau²bhê²lau⁵ gai⁵ liam⁵ bang³loh⁸lai⁵	chau2 be2 lau5 kai5 liam5 pang3  loh8 lai5	99
+zau²bhun⁵ze¹	chau2 bun5 chur1	99
+zau²hiang³	chau2 hiang3	299
+zau²ki²	chau2 khi2	99
+zau²ke³diam³	chau2 khur3 tiam3	99
+zau²giaⁿ²	chau2 kiann2	299
+zau²gui²	chau2 kui2	199
+zau²sun¹	chau2 sun1	99
+zau³	chau3	1499
+zau³kang¹ gai⁵ huê²hu¹ bud⁴diou³	chau3 khang1 kai5 hue2 hu1 put4 tiou3	149
+zau³tau⁵	chau3 thau5	99
+zau⁶	chau6	4799
+zau⁶huê³	chau6 hue3	199
+zê¹	che1	599
+zê²	che2	1699
+zê²muêⁿ⁷giaⁿ²	che2 muenn7 kiann2	149
+zê³	che3	699
+zê³zu²	che3 chu2	199
+zê⁷	che7	1199
+zêh⁴	cheh4	6699
+zêh⁴zuê⁷	cheh4 chue7	99
+zêh⁴ham⁵	cheh4 ham5	99
+zêh⁴rim⁶	cheh4 jim6	199
+zêg⁴	chek4	5199
+zêk⁴ ag⁴	chek4 ak4	199
+zêk4 ag⁴	chek4 ak4	198
+zêg⁴ag⁴	chek4 ak4	199
+zêg⁴li⁷	chek4 li7	99
+zêg⁴dai⁵	chek4 tai5	99
+zêg⁴diou⁵	chek4 tiou5	99
+zêg⁸	chek8	2899
+zêg⁸bhuan⁷	chek8 buan7	199
+zêg⁸bhuê² ang⁵zo⁵ aiⁿ³ noⁿ⁶bêh⁴ziⁿ⁵	chek8 bue2 ang5 cho5 ainn3 nonn6 peh4 chinn5	99
+zêg⁸zai⁷	chek8 chai7	99
+zêg⁸coiⁿ¹	chek8 chhoinn1	199
+zêg⁸coiⁿ¹ lan⁵ id⁴zab⁸	chek8 chhoinn1 lan5 it4 chap8	199
+zêg⁸coiⁿ¹ lan⁵ id⁴zab⁸id⁴	chek8 chhoinn1 lan5 it4 chap8 it4	199
+zêg⁸coiⁿ¹ lan⁵ id⁴zab⁸ri⁶	chek8 chhoinn1 lan5 it4 chap8 ji6	199
+zêg⁸coiⁿ¹ lan⁵ri⁶	chek8 chhoinn1 lan5 ji6	199
+zêg⁸coiⁿ¹ lan⁵duaⁿ¹id⁴	chek8 chhoinn1 lan5 tuann1 it4	199
+zêg⁸coiⁿ¹ lan⁵duaⁿ¹ri⁶	chek8 chhoinn1 lan5 tuann1 ji6	199
+zêg⁸zuê⁷ zêg⁸zuê⁷	chek8 chue7 chek8 chue7	99
+zêg⁸hu³	chek8 hu3	99
+zêg⁸hun¹zêng¹	chek8 hun1 cheng1	99
+zêg⁸rid⁸ ziah⁸ saⁿ¹dng³	chek8 jit8 chiah8 sann1 tng3	99
+zêg⁸rid⁸ ziah⁸saⁿ¹dng³	chek8 jit8 chiah8 sann1 tng3	99
+zêg⁸gai⁵ ghuêh⁸ suê³ zêg⁸bêh⁴ gai⁵ ngen⁵	chek8 kai5 gueh8 sue3 chek8 peh4 kai5 ngurn5	99
+zêg⁸kai³	chek8 khai3	149
+zêg⁸kêg⁴zêng¹	chek8 khek4 cheng1	99
+zêg⁸kun³giaⁿ²	chek8 khun3 kiann2	149
+zêg⁸gi¹	chek8 ki1	99
+zêg⁸guêh⁸	chek8 kueh8	99
+zêg⁸niⁿ⁵ u⁶ si³kui³	chek8 ninn5 u6 si3 khui3	99
+zêg⁸bê²	chek8 pe2	99
+zêg⁸bê²huê¹	chek8 pe2 hue1	99
+zêg⁸bêh⁴	chek8 peh4	199
+zêg⁸bêh⁴ id⁴zab⁸	chek8 peh4 it4 chap8	199
+zêg⁸bêh⁴ id⁴zab⁸id⁴	chek8 peh4 it4 chap8 it4	199
+zêg⁸bêh⁴ id⁴zab⁸ri⁶	chek8 peh4 it4 chap8 ji6	199
+zêg⁸bêh⁴ ri⁶zab⁸	chek8 peh4 ji6 chap8	199
+zêg⁸bêh⁴ duaⁿ¹id⁴	chek8 peh4 tuann1 it4	199
+zêg⁸bêh⁴ duaⁿ¹ri⁶	chek8 peh4 tuann1 ji6	199
+zêg⁸bêh⁴bhuan⁷	chek8 peh4 buan7	199
+zêg⁸pid⁴	chek8 phit4	99
+zêg⁸boiⁿ⁵	chek8 poinn5	149
+zêg⁸buaⁿ³	chek8 puann3	99
+zêg⁸sang¹	chek8 sang1	99
+zêg⁸siu¹	chek8 siu1	99
+zêg⁸siu⁷	chek8 siu7	99
+zêg⁸daⁿ³ gaⁿ²si⁶ ngou⁶kou¹ a⁶	chek8 tann3 kann2 si6 ngou6 khou1 a6	186
+zêg⁸tiab⁴	chek8 thiap4	99
+zêg⁸diam²	chek8 tiam2	299
+zêg⁸dng³ ziah⁸ zêg⁸bau¹	chek8 tng3 chiah8 chek8 pau1	99
+zêg⁸dui³	chek8 tui3	199
+zêg⁸dun¹	chek8 tun1	99
+zêng¹	cheng1	24199
+zêng¹zau²sun¹	cheng1 chau2 sun1	99
+zêng¹sêⁿ¹	cheng1 senn1	149
+zêng¹sun¹	cheng1 sun1	99
+zêng²	cheng2	1799
+zêng³	cheng3	3899
+zêng³zoh⁴	cheng3 choh4	199
+zêng³zu¹	cheng3 chu1	199
+zêng³ge⁶	cheng3 kur6	99
+zêng³nang⁵	cheng3 nang5	373
+zêng³sêⁿ⁵	cheng3 senn5	99
+zêng³dau⁷	cheng3 tau7	99
+zêng⁵	cheng5	1299
+zêng⁶	cheng6	2399
+zêⁿ¹	chenn1	699
+zêⁿ²	chenn2	1799
+zêⁿ⁵	chenn5	599
+zêⁿ⁶	chenn6	1299
+zêⁿ⁶zêⁿ⁶	chenn6 chenn6	199
+ca¹	chha1	5399
+ca¹co³	chha1 chho3	99
+ca¹m⁶do¹	chha1 m6 to1	149
+ca¹bud⁴do¹	chha1 put4 to1	199
+ca²	chha2	699
+ca³	chha3	3599
+ca⁵	chha5	1199
+ca⁵cin³	chha5 chhin3	99
+ca⁵gho⁵	chha5 go5	99
+ca⁵gong³	chha5 kong3	99
+ca⁵mag⁸	chha5 mak8	99
+ca⁵oi⁵	chha5 oi5	99
+ca⁵puê³tiu¹	chha5 phue3 thiu1	99
+ca⁵siu¹	chha5 siu1	99
+ca⁵tau⁵	chha5 thau5	199
+ca⁵tui⁵	chha5 thui5	199
+cah⁴	chhah4	2699
+cah⁴can⁶	chhah4 chhan6	99
+cai¹	chhai1	599
+cai²	chhai2	3499
+cai³	chhai3	699
+cai³bou²	chhai3 pou2	99
+cai³dau⁷	chhai3 tau7	99
+cai³dau⁷ dng⁵nang⁵ ca²	chhai3 tau7 tng5 nang5 chha2	149
+cai³tau⁵	chhai3 thau5	199
+cai³tau⁵ ze²he⁵ diam⁵	chhai3 thau5 chur2 hur5 tiam5	99
+cai³tau⁵kau²	chhai3 thau5 khau2	99
+cai⁵	chhai5	3599
+cai⁵cêng⁵	chhai5 chheng5	99
+cai⁵zu²	chhai5 chu2	99
+cai⁵zu² do⁶ he²lai⁶	chhai5 chu2 to6 hur2 lai6	99
+cai⁵hong⁵	chhai5 hong5	99
+cai⁵hu³	chhai5 hu3	199
+cai⁵ki³	chhai5 khi3	299
+cai⁵lang⁵	chhai5 lang5	99
+caiⁿ¹	chhainn1	399
+caiⁿ²	chhainn2	599
+caiⁿ⁵	chhainn5	199
+cag⁴	chhak4	4899
+cag⁸	chhak8	1799
+cag⁸giaⁿ²	chhak8 kiann2	299
+cam¹	chham1	3099
+cam¹miaⁿ⁵	chham1 miann5	99
+cam¹siang⁵	chham1 siang5	99
+cam²	chham2	999
+cam³	chham3	1999
+cam³cui³	chham3 chhui3	199
+cam⁵	chham5	2499
+cam⁷	chham7	499
+can¹	chhan1	99
+can⁵	chhan5	149
+can⁵zu²	chhan5 chu2	149
+can⁵hng⁵	chhan5 hng5	299
+can⁵lo⁵	chhan5 lo5	149
+can⁵di⁷	chhan5 ti7	149
+can⁶dui⁷	chhan6 tui7	99
+cang¹	chhang1	9699
+cang¹bêh⁸	chhang1 peh8	99
+cang¹tau⁵	chhang1 thau5	99
+cang²	chhang2	1999
+cang³	chhang3	3399
+cang³iaⁿ⁵	chhang3 iann5	199
+cang³guê³	chhang3 kue3	99
+cang⁵	chhang5	2899
+cang⁷	chhang7	99
+cab⁴hong⁶ga³	chhap4 hong6 ka3	99
+cab⁴huê⁶	chhap4 hue6	149
+cab⁴nang⁵gai⁵se⁷	chhap4 nang5 kai5 sur7	186
+cad⁴	chhat4	199
+cad⁴ki³	chhat4 khi3	99
+cad⁸	chhat8	99
+cau¹	chhau1	3199
+cau¹liên⁷	chhau1 lien7	199
+cau²	chhau2	699
+cau² gau⁵	chhau2 kau5	199
+cau2 gau⁵	chhau2 kau5	198
+cau² mê²	chhau2 me2	199
+cau2 mê²	chhau2 me2	198
+cau²bho⁷	chhau2 bo7	99
+cau²ciêh⁸	chhau2 chhieh8	99
+cau²liou²	chhau2 liou2	99
+cau²mêⁿ²	chhau2 menn2	99
+cau²ngan²	chhau2 ngan2	199
+cau²oi⁵	chhau2 oi5	99
+cau²bou¹	chhau2 pou1	199
+cau²bou¹ long²zong² si⁶ ciu⁷hiêh⁸	chhau2 pou1 long2 chong2 si6 chhiu7 hieh8	99
+cau²diêⁿ⁵	chhau2 tienn5	149
+cau³	chhau3	7399
+cau³co¹	chhau3 chho1	99
+cau³nang⁵	chhau3 nang5	299
+cau³tau⁵	chhau3 thau5	99
+cau⁵	chhau5	3599
+cê¹	chhe1	3099
+cê¹hiah⁸	chhe1 hiah8	99
+cê²	chhe2	599
+cê³	chhe3	599
+cê³gng¹	chhe3 kng1	99
+cê⁵	chhe5	799
+cê⁵toiⁿ²	chhe5 thoinn2	149
+cê⁶	chhe6	99
+cêh⁴	chheh4	1199
+cêh⁴he⁵	chheh4 hur5	99
+cêh⁴gê³	chheh4 ke3	99
+cêh⁴puê⁵	chheh4 phue5	99
+cêh⁴du⁵	chheh4 tu5	199
+cêg⁴	chhek4	7299
+cêg⁴cng¹	chhek4 chhng1	99
+cêng¹	chheng1	3999
+cêng¹co²	chheng1 chho2	149
+cêng¹kih⁴	chheng1 khih4	299
+cêng¹kih⁴siêⁿ³	chheng1 khih4 sienn3	149
+cêng¹mêng⁵ diêh⁸ke³ guê³zua²	chheng1 meng5 tieh8 khur3 kue3 chua2	149
+cêng³	chheng3	3799
+cêng³zi²	chheng3 chi2	299
+cêng³zi² huê²iêh⁸	chheng3 chi2 hue2 ieh8	99
+cêng³iêh⁸	chheng3 ieh8	199
+cêng³kang¹	chheng3 khang1	99
+cêng⁵	chheng5	2699
+cêng⁷	chheng7	399
+cêng⁷ saⁿ¹kou³	chheng7 sann1 khou3	99
+cêⁿ¹	chhenn1	5999
+cêⁿ¹ iab⁸iab⁸sih⁴	chhenn1 iap8 iap8 sih4	99
+cêⁿ¹cai³	chhenn1 chhai3	99
+cêⁿ¹cêⁿ¹	chhenn1 chhenn1	299
+cêⁿ¹huan¹	chhenn1 huan1	149
+cêⁿ¹huan⁵	chhenn1 huan5	99
+cêⁿ¹hun⁷nang⁵	chhenn1 hun7 nang5	349
+cêⁿ¹m²	chhenn1 m2	99
+cêⁿ¹mêⁿ⁵	chhenn1 menn5	399
+cêⁿ¹bou³	chhenn1 pou3	149
+cêⁿ¹tih⁴	chhenn1 thih4	99
+cêⁿ¹tiⁿ¹	chhenn1 thinn1	149
+cêⁿ²	chhenn2	699
+cêⁿ²ki²lai⁵	chhenn2  khi2 lai5	99
+ci¹	chhi1	9799
+ci¹cam²	chhi1 chham2	299
+ci¹gu⁶	chhi1 ku6	99
+ci¹liang⁵	chhi1 liang5	99
+ci²	chhi2	599
+ci³	chhi3	2999
+ci³naⁿ⁵pê³	chhi3 nann5 phe3	99
+ci³toiⁿ²	chhi3 thoinn2	299
+ci⁵	chhi5	4199
+ci⁵kag⁴	chhi5 khak4	99
+ci⁶	chhi6	1299
+ci⁶ mêng⁵ki² bho⁵he⁵	chhi6 meng5 khi2 bo5 hur5	99
+ci⁷	chhi7	799
+cia¹	chhia1	2799
+cia¹zou¹	chhia1 chou1	99
+cia¹suê³	chhia1 sue3	99
+ciah⁴	chhiah4	799
+ciah⁴huê¹	chhiah4 hue1	99
+ciah⁴ka¹	chhiah4 kha1	373
+ciah⁴nêg⁸	chhiah4 nek8	99
+ciah⁴tng⁵	chhiah4 thng5	99
+ciag⁴	chhiak4	4099
+ciam¹	chhiam1	1699
+ciam¹miaⁿ⁵	chhiam1 miann5	399
+ciam³	chhiam3	399
+ciam⁵	chhiam5	1599
+ciang¹	chhiang1	7699
+ciang²	chhiang2	4099
+ciang³	chhiang3	2599
+ciang⁵	chhiang5	4599
+ciaⁿ²	chhiann2	1599
+ciaⁿ² huê⁵siêⁿ³ lai⁵ tag⁸gêng¹	chhiann2 hue5 sienn3 lai5 thak8 keng1	149
+ciaⁿ² le² ga³ ua²	chhiann2 lur2 ka3 ua2	149
+ciaⁿ² le² gah⁴ ua² daⁿ³	chhiann2 lur2 kah4 ua2 tann3	149
+ciaⁿ² le² siu¹	chhiann2 lur2 siu1	149
+ciaⁿ²dan²	chhiann2 tan2	99
+ciaⁿ²uaⁿ¹	chhiann2 uann1	99
+ciab⁴	chhiap4	799
+ciau¹	chhiau1	399
+ciau²	chhiau2	3199
+ciau⁵	chhiau5	799
+ciê³	chhie3	499
+ciê³kêg⁴	chhie3 khek4	99
+ciê³gua¹	chhie3 kua1	99
+ciêh⁴	chhieh4	699
+ciêh⁴ciêh⁴	chhieh4 chhieh4	99
+ciêh⁴muêⁿ⁵	chhieh4 muenn5	99
+ciêh⁸	chhieh8	399
+ciêg⁴	chhiek4	299
+ciêm¹	chhiem1	399
+ciêm³	chhiem3	99
+ciêm⁵	chhiem5	399
+ciên²	chhien2	199
+ciêng¹	chhieng1	499
+ciêng²	chhieng2	99
+ciêⁿ¹	chhienn1	649
+ciêⁿ¹he⁵	chhienn1 hur5	99
+ciêⁿ¹he⁵ siang⁶giam² zêg⁸bhuê² aiⁿ³ bêh⁴ngou⁶ziⁿ⁵	chhienn1 hur5 siang6 kiam2 chek8 bue2 ainn3 peh4 ngou6 chinn5	99
+ciêⁿ²	chhienn2	499
+ciêⁿ²bag⁴	chhienn2 pak4	199
+ciêⁿ⁵	chhienn5	299
+ciêⁿ⁶	chhienn6	699
+ciêⁿ⁶ghê⁵	chhienn6 ge5	99
+ciêⁿ⁷	chhienn7	399
+ciêⁿ⁷mag⁸	chhienn7 mak8	99
+ciêb⁴	chhiep4	199
+ciêd⁴ciêd⁴	chhiet4 chhiet4	99
+ciêd⁴iou³	chhiet4 iou3	99
+cih⁴	chhih4	599
+cih⁸	chhih8	599
+cig⁴	chhik4	2199
+cim¹	chhim1	699
+cim¹kêⁿ¹	chhim1 khenn1	99
+cim¹dui¹ zong¹ziah⁴	chhim1 tui1 chong1 chiah4	99
+cim²	chhim2	999
+cim³	chhim3	1499
+cim⁵	chhim5	3499
+cin¹	chhin1	99
+cin¹cêg⁴	chhin1 chhek4	199
+cin¹ciêⁿ⁶	chhin1 chhienn6	399
+cin¹ziaⁿ⁵	chhin1 chiann5	99
+cin¹ziaⁿ⁶	chhin1 chiann6	99
+cin¹gê¹	chhin1 ke1	99
+cin¹mag⁸ toiⁿ²giⁿ³	chhin1 mak8 thoinn2 kinn3	149
+cin¹nang⁵	chhin1 nang5	299
+cin³	chhin3	299
+cin³ ciaⁿ³	chhin3 chhiann3	99
+cin³ siam²	chhin3 siam2	99
+cin³cai²	chhin3 chhai2	199
+cin³tui⁵	chhin3 thui5	99
+cin⁵	chhin5	99
+cing¹	chhing1	599
+cing²	chhing2	199
+cing³	chhing3	3299
+cing⁵	chhing5	2199
+ciⁿ¹	chhinn1	799
+ciⁿ²	chhinn2	2399
+cio³	chhio3	399
+cioh⁴	chhioh4	799
+cioh⁸	chhioh8	799
+cioⁿ¹	chhionn1	799
+cioⁿ²	chhionn2	399
+cioⁿ⁵	chhionn5	399
+cioⁿ⁶	chhionn6	1199
+cioⁿ⁷	chhionn7	799
+ciou¹	chhiou1	399
+ciou²	chhiou2	1599
+ciou³	chhiou3	99
+ciou⁵	chhiou5	499
+ciou⁵têng⁵	chhiou5 theng5	199
+cib⁴	chhip4	3199
+cid⁴	chhit4	399
+cid⁴ka¹ gai⁵ sui¹	chhit4 kha1 kai5 sui1	186
+ciu¹	chhiu1	10399
+ciu¹id⁴	chhiu1 it4	99
+ciu¹ri⁶	chhiu1 ji6	99
+ciu¹saⁿ¹	chhiu1 sann1	99
+ciu²	chhiu2	2199
+ciu² maiⁿ³tang⁶diêh⁸	chhiu2 mainn3 thang6  tieh8	99
+ciu² ng²	chhiu2 nk2	99
+ciu2 ng²	chhiu2 nk2	98
+ciu² ung²	chhiu2 ung2	99
+ciu2 ung²	chhiu2 ung2	98
+ciu²zi²	chhiu2 chi2	199
+ciu²zoiⁿ²	chhiu2 choinn2	99
+ciu²ê⁶	chhiu2 e6	99
+ciu²huan⁵	chhiu2 huan5	199
+ciu²gen¹	chhiu2 kurn1	99
+ciu²lab⁴	chhiu2 lap4	99
+ciu²bou³	chhiu2 pou3	99
+ciu²tng⁶	chhiu2 thng6	199
+ciu²diu⁵	chhiu2 tiu5	99
+ciu²doi²	chhiu2 toi2	99
+ciu²uan²	chhiu2 uan2	99
+ciu³	chhiu3	499
+ciu³ ki²	chhiu3 khi2	199
+ciu3 ki²	chhiu3 khi2	198
+ciu⁵	chhiu5	4199
+ciu⁵nang⁵	chhiu5 nang5	149
+ciu⁷	chhiu7	699
+ciu⁷ bho⁵ lou⁷zui² bhoi⁶uah⁸	chhiu7 bo5 lou7 chui2 boi6 uah8	149
+ciu⁷ bhoi⁶huad⁴	chhiu7 boi6 huat4	149
+ciu⁷gi¹	chhiu7 ki1	299
+ciu⁷niⁿ⁵	chhiu7 ninn5	199
+ciu⁷ba³	chhiu7 pa3	99
+ciu⁷puê⁵	chhiu7 phue5	199
+cng¹	chhng1	1699
+cng³	chhng3	799
+cng³kang¹	chhng3 khang1	99
+cng⁵	chhng5	449
+cng⁵ loh⁸ dang³ziêh⁸	chhng5 loh8 tang3 chieh8	149
+cng⁵ bai² bhuê⁷ho²	chhng5 pai2 bue7 ho2	149
+cng⁵guiⁿ⁷	chhng5 kuinn7	149
+cng⁵bou³	chhng5 pou3	149
+cng⁵bou³ gah⁴ ciu²gen¹ nah⁴sab⁴ ho²uaⁿ⁷	chhng5 pou3 kah4 chhiu2 kurn1 nah4 sap4 ho2 uann7	149
+co¹	chho1	999
+co¹tau⁵ê⁷	chho1 thau5 e7	99
+co²	chho2	1799
+co²ciang³	chho2 chhiang3	99
+co²ri⁷	chho2 ji7	99
+co²go²	chho2 ko2	99
+co²liag⁸	chho2 liak8	99
+co³	chho3	2499
+co⁵	chho5	4799
+co⁷	chho7	199
+co⁷ zui²	chho7 chui2	99
+co⁷ goi¹tng¹ gai⁵ au¹	chho7 koi1 thng1 kai5 au1	149
+co⁷ saⁿ¹kou³ gai⁵ kêng¹	chho7 sann1 khou3 kai5 kheng1	99
+coh⁴	chhoh4	799
+coiⁿ¹	chhoinn1	799
+coiⁿ¹ li²bhê²	chhoinn1 li2 be2	99
+coiⁿ¹ bêh⁴ id⁴zab⁸id⁴	chhoinn1 peh4 it4 chap8 it4	199
+coiⁿ¹ bêh⁴ id⁴zab⁸ri⁶	chhoinn1 peh4 it4 chap8 ji6	199
+coiⁿ¹ bêh⁴id⁴	chhoinn1 peh4 it4	199
+coiⁿ¹ bêh⁴ri⁶	chhoinn1 peh4 ji6	199
+coiⁿ¹ bêh⁴duaⁿ¹id⁴	chhoinn1 peh4 tuann1 it4	199
+coiⁿ¹ bêh⁴duaⁿ¹ri⁶	chhoinn1 peh4 tuann1 ji6	199
+coiⁿ¹id⁴	chhoinn1 it4	199
+coiⁿ¹ri⁶	chhoinn1 ji6	199
+coiⁿ¹li²giaⁿ³	chhoinn1 li2 kiann3	99
+coiⁿ²	chhoinn2	1199
+coiⁿ²ho² kiêh⁸lai⁵	chhoinn2 ho2 khieh8  lai5	99
+coiⁿ⁵	chhoinn5	499
+cog⁴	chhok4	8399
+cong¹	chhong1	7299
+cong¹gong¹	chhong1 kong1	299
+cong¹gun¹	chhong1 kun1	149
+cong³	chhong3	599
+cong⁵	chhong5	1899
+cong⁵gim¹ iⁿ²au⁶	chhong5 kim1 inn2 au6	99
+cou¹	chhou1	1499
+cou¹kng¹	chhou1 khng1	99
+cou³	chhou3	3699
+cou⁵	chhou5	599
+cu¹	chhu1	2499
+cu²	chhu2	2899
+cu³	chhu3	2799
+cu³ lau⁷	chhu3 lau7	99
+cu³bhi⁷	chhu3 bi7	299
+cu³zu²	chhu3 chu2	199
+cu³hia⁶	chhu3 hia6	99
+cu³gêg⁸	chhu3 kek8	99
+cu³giaⁿ²	chhu3 kiann2	149
+cu³biⁿ¹	chhu3 pinn1	99
+cu³suê³	chhu3 sue3	99
+cu³dêng²	chhu3 teng2	99
+cu³dou⁵	chhu3 tou5	99
+cu⁵	chhu5	2599
+cua²	chhua2	599
+cua³	chhua3	599
+cua⁷	chhua7	99
+cua⁷bhou²	chhua7 bou2	199
+cua⁷zau²	chhua7 chau2	99
+cua⁷cin¹	chhua7 chhin1	99
+cua⁷zui²	chhua7 chui2	99
+cuah⁴	chhuah4	299
+cuag⁴	chhuak4	5099
+cuan²	chhuan2	99
+cuan⁵	chhuan5	199
+cuan⁵ru²	chhuan5 ju2	99
+cuan⁵kuan⁵	chhuan5 khuan5	99
+cuang¹	chhuang1	1499
+cuang²	chhuang2	1599
+cuang³	chhuang3	4699
+cuang⁵	chhuang5	4999
+cuaⁿ³	chhuann3	699
+cuaⁿ³mng⁵	chhuann3 mng5	99
+cuê¹	chhue1	1499
+cuê²	chhue2	599
+cuê⁵	chhue5	1399
+cuê⁷	chhue7	499
+cuê⁷diêh⁸	chhue7  tieh8	149
+cuêg⁴	chhuek4	999
+cuêng¹	chhueng1	299
+cuêng²	chhueng2	199
+cuêng³	chhueng3	899
+cuêng⁵	chhueng5	999
+cui¹	chhui1	4399
+cui¹gin²	chhui1 kin2	99
+cui¹bêg⁴	chhui1 pek4	99
+cui¹biaⁿ³	chhui1 piann3	99
+cui²	chhui2	4199
+cui³	chhui3	5549
+cui³lim⁵puê⁵	chhui3 lim5 phue5	149
+cug⁴	chhuk4	1199
+cun¹	chhun1	199
+cun³	chhun3	99
+cun³ciêh⁴	chhun3 chhieh4	99
+cun³zin³	chhun3 chin3	99
+cun⁵	chhun5	99
+cun⁵ zab⁸si³ liab⁸ zo³guê²	chhun5 chap8 si3 liap8 cho3 kue2	149
+cung¹	chhung1	1199
+cung²	chhung2	2399
+cung³	chhung3	1199
+cung⁵	chhung5	599
+ce¹	chhur1	599
+ce²	chhur2	2499
+ce³	chhur3	1599
+ce⁵	chhur5	7099
+ceng¹	chhurng1	1699
+ceng³	chhurng3	299
+ceng⁵	chhurng5	299
+cud⁴	chhut4	199
+cud⁴ke³	chhut4  khur3	99
+cud⁴ciam¹	chhut4 chhiam1	99
+cud⁴zu¹	chhut4 chu1	99
+cud⁴ghua⁷nang⁵	chhut4 gua7 nang5	149
+cud⁴huê³	chhut4 hue3	99
+cud⁴ri⁷bêh⁸	chhut4 ji7 peh8	99
+cud⁴kau²huê³	chhut4 khau2 hue3	99
+cud⁴lad⁸	chhut4 lat8	99
+cud⁴miaⁿ⁵	chhut4 miann5	199
+cud⁴mng⁵	chhut4 mng5	99
+cud⁴piê³	chhut4 phie3	99
+cud⁴si³	chhut4 si3	99
+cud⁴so²hui³	chhut4 so2 hui3	199
+cud⁴suaⁿ¹	chhut4 suann1	99
+cud⁴dau⁷	chhut4 tau7	99
+zi¹	chi1	599
+zi²	chi2	13099
+zi² saⁿ¹diêⁿ¹ kiêh⁸ ke³ sin³guan¹	chi2 sann1 tienn1 khieh8 khur3 sin3 kuan1	149
+zi²gai⁵ ziêh⁴ ua²	chi2  kai5 chieh4 ua2	99
+zi²gai⁵ ziu⁶si⁶ siang⁶dua⁷ gai⁵	chi2  kai5 chiu6 si6 siang6 tua7 kai5	99
+zi²gai⁵ iou²dua⁷	chi2  kai5 iou2 tua7	99
+zi²gai⁵ gêng³dng⁵ guê³ he²gai⁵	chi2  kai5 keng3 tng5 kue3 hur2 kai5	99
+zi²gai⁵ kiêh⁸ke³ ze²	chi2  kai5 khieh8 khur3 chur2	99
+zi²gai⁵ kiêh⁸ke³ hoiⁿ⁵ i¹	chi2  kai5 khieh8 khur3 hoinn5 i1	99
+zi²gai⁵ kiêh⁸ke³ kng³	chi2  kai5 khieh8 khur3 khng3	99
+zi²gai⁵ muêh⁸cêng¹kih⁴	chi2  kai5 mueh8 chheng1 khih4	149
+zi²gai⁵ sang³ le²	chi2  kai5 sang3 lur2	149
+zi²ziah⁴zun⁵ ho²sai²	chi2 chiah4 chun5 ho2 sai2	99
+zi²zuaⁿ³gai⁵	chi2 chuann3 kai5	99
+zi²zuaⁿ³gai⁵ m⁶si⁶	chi2 chuann3 kai5 m6 si6	149
+zi²zuaⁿ³si⁵ bho⁵ sêng¹li²	chi2 chuann3 si5 bo5 seng1 li2	99
+zi²gai⁵	chi2 kai5	99
+zi²gai⁵ ang¹giaⁿ² ngia²zai⁶	chi2 kai5 ang1 kiann2 ngia2 chai6	149
+zi²gai⁵ cad⁸ si⁶ li⁵gêng¹	chi2 kai5 chhat8 si6 li5 keng1	99
+zi²gai⁵ gah⁴ he²gai⁵	chi2 kai5 kah4 hur2 kai5	99
+zi²gai⁵ guaⁿ¹hu² gong¹dau⁶	chi2 kai5 kuann1 hu2 kong1 tau6	99
+zi²gai⁵ nang³ zang³zai⁶	chi2 kai5 nang3 chang3 chai6	149
+zi²gai⁵ nang⁵ bui⁵zai⁶	chi2 kai5 nang5 pui5 chai6	149
+zi²gai⁵ si⁶ ua²gai⁵	chi2 kai5 si6 ua2 kai5	99
+zi²ki² bêⁿ⁷ ui¹ oh⁴ho²	chi2 khi2 penn7 ui1 oh4 ho2	149
+zi²gi¹ tiou⁶ dua⁷gi¹	chi2 ki1 thiou6 tua7 ki1	99
+zi²go³	chi2 ko3	99
+zi²gen⁶rid⁸	chi2 kurn6 jit8	99
+zi²gen⁶si⁵	chi2 kurn6 si5	99
+zi²muêⁿ⁷giaⁿ²	chi2 muenn7 kiann2	149
+zi²niaⁿ² ziⁿ¹ kiêh⁸ ke³ buaⁿ⁶diou³ tou⁵hun²	chi2 niann2 chinn1 khieh8 khur3 puann6 tiou3 thou5 hun2	99
+zi²diêⁿ¹ cêh⁴gê³ lai³ sua² bang³ ziê²;	chi2 tienn1 chheh4 ke3 lai3 sua2 pang3 chie2;	99
+zi²diêⁿ¹ iⁿ⁵cng⁵ lai⁵ sua² bang³ bad⁸go³	chi2 tienn1 inn5 chhng5 lai5 sua2 pang3 pat8 ko3	149
+zi²diêⁿ¹ sin³ kiêh⁸ ke³ hiang³guan¹	chi2 tienn1 sin3 khieh8 khur3 hiang3 kuan1	149
+zi³	chi3	14599
+zi³pin⁵	chi3 phin5	99
+zi⁶	chi6	1299
+zi⁷	chi7	99
+zia¹	chia1	699
+zia²	chia2	2499
+zia² m⁶si⁶	chia2 m6 si6	149
+zia² ua² m⁶hiou² zo³niⁿ⁵ muêh⁸	chia2 ua2 m6 hiou2 cho3 ninn5 mueh8	149
+zia²tiⁿ¹si⁵ zo³ho²giaⁿ⁵	chia2  thinn1 si5 cho3 ho2 kiann5	99
+zia³	chia3	3599
+zia³poh⁴	chia3 phoh4	99
+zia⁶	chia6	1799
+zia⁷	chia7	599
+ziah⁴	chiah4	3199
+ziah⁸	chiah8	999
+ziah⁸a¹piên³	chiah8 a1 phien3	99
+ziah⁸zê¹	chiah8 che1	99
+ziah⁸zêg⁴	chiah8 chek4	99
+ziah⁸cau²	chiah8 chhau2	99
+ziah⁸cng⁵	chiah8 chhng5	149
+ziah⁸co¹	chiah8 chho1	99
+ziah⁸ziⁿ⁵	chiah8 chinn5	99
+ziah⁸ziu²zui³	chiah8 chiu2 chui3	99
+ziah⁸hun¹	chiah8 hun1	199
+ziah⁸iêh⁸	chiah8 ieh8	99
+ziah⁸gêh⁴	chiah8 keh4	99
+ziah⁸liang⁵	chiah8 liang5	99
+ziah⁸liou² kiêh⁸ soi²ciu²buê¹ lai²	chiah8 liou2 khieh8 soi2 chhiu2 pue1 lai2	99
+ziah⁸m⁶loh⁸	chiah8 m6 loh8	149
+ziah⁸mêng⁵ki²	chiah8 meng5 khi2	99
+ziah⁸mêⁿ⁵hng¹	chiah8 menn5 hng1	149
+ziah⁸muêⁿ⁵	chiah8 muenn5	99
+ziah⁸muêⁿ⁵ puê³ giam⁵bhuê⁵ ziu⁶ho²	chiah8 muenn5 phue3 kiam5 bue5 chiu6 ho2	99
+ziah⁸bang⁵	chiah8 pang5	99
+ziah⁸bng⁷ bho⁵ giam⁵sng¹ ziah⁸ m⁶loh⁸	chiah8 png7 bo5 kiam5 sng1 chiah8 m6 loh8	149
+ziah⁸bou²	chiah8 pou2	99
+ziah⁸si²nang⁵	chiah8 si2 nang5	299
+ziah⁸sia³	chiah8 sia3	99
+ziah⁸dau⁷	chiah8 tau7	99
+ziah⁸doh⁴	chiah8 toh4	149
+ziah⁸du⁵	chiah8 tu5	99
+ziag⁴	chiak4	7099
+ziag⁸	chiak8	599
+ziam¹	chiam1	3399
+ziam¹ bhi²	chiam1 bi2	99
+ziam1 bhi²	chiam1 bi2	98
+ziam³	chiam3	799
+ziam³guê³	chiam3 kue3	99
+ziam⁶	chiam6	899
+ziam⁶ziam⁶	chiam6 chiam6	99
+ziam⁶si⁵	chiam6 si5	99
+ziang¹	chiang1	14699
+ziang¹gun¹	chiang1 kun1	99
+ziang¹lai⁵	chiang1 lai5	99
+ziang²	chiang2	10199
+ziang²guan²	chiang2 kuan2	99
+ziang²guiⁿ⁷	chiang2 kuinn7	99
+ziang³	chiang3	7399
+ziang⁶	chiang6	2599
+ziang⁶hu¹	chiang6 hu1	99
+ziang⁷di⁷	chiang7 ti7	99
+ziaⁿ¹	chiann1	1799
+ziaⁿ¹ghuêh⁸	chiann1  gueh8	99
+ziaⁿ¹nêg⁸	chiann1 nek8	99
+ziaⁿ²	chiann2	2099
+ziaⁿ²li²	chiann2 li2	299
+ziaⁿ³	chiann3	1299
+ziaⁿ³ciu²	chiann3 chhiu2	99
+ziaⁿ³gêng¹	chiann3 keng1	99
+ziaⁿ³did⁸	chiann3 tit8	99
+ziaⁿ⁵	chiann5	599
+ziab⁴	chiap4	599
+ziab⁸	chiap8	2499
+ziab⁸ziab⁸	chiap8 chiap8	99
+ziau¹	chiau1	5599
+ziau²	chiau2	799
+ziau²mêⁿ⁵	chiau2 menn5	99
+ziau³	chiau3	399
+ziê¹	chie1	699
+ziê¹gaⁿ¹	chie1 kann1	99
+ziê¹bai⁵	chie1 pai5	99
+ziê²	chie2	499
+ziê² bai⁵mêng⁵ki²za² ruah⁸zai⁶	chie2 pai5 meng5 khi2 cha2 juah8 chai6	149
+ziê²u⁶	chie2 u6	99
+ziê³	chie3	799
+ziê³lud⁸	chie3 lut8	99
+ziêh⁴	chieh4	1199
+ziêh⁴mng⁷	chieh4 mng7	99
+ziêh⁸	chieh8	699
+ziêh⁸ce²	chieh8 chhur2	99
+ziêh⁸huê¹	chieh8 hue1	99
+ziêh⁸go¹	chieh8 ko1	99
+ziêh⁸lou⁷	chieh8 lou7	99
+ziêh⁸bi¹	chieh8 pi1	99
+ziêh⁸bou⁶	chieh8 pou6	99
+ziêh⁸dêng⁵	chieh8 teng5	99
+ziêg⁴	chiek4	199
+ziêm¹	chiem1	799
+ziêm¹ bhi²	chiem1 bi2	99
+ziêm1 bhi²	chiem1 bi2	98
+ziêm³	chiem3	199
+ziêm⁶	chiem6	199
+ziên¹	chien1	99
+ziên³	chien3	99
+ziên³zun⁵	chien3 chun5	99
+ziên³iaⁿ⁵	chien3 iann5	199
+ziên³su¹	chien3 su1	199
+ziêng¹	chieng1	1299
+ziêng²	chieng2	1799
+ziêng³	chieng3	199
+ziêⁿ¹	chienn1	899
+ziêⁿ¹ca⁵	chienn1 chha5	99
+ziêⁿ¹lo²	chienn1 lo2	99
+ziêⁿ²	chienn2	1399
+ziêⁿ²iêⁿ⁵gai⁵nang⁵	chienn2 ienn5  kai5 nang5	149
+ziêⁿ²gêⁿ¹gai⁵nang⁵ za¹mêⁿ⁵ bho⁵ ziêⁿ²	chienn2 kenn1  kai5 nang5 cha1 menn5 bo5 chienn2	186
+ziêⁿ³	chienn3	199
+ziêⁿ³sêⁿ¹	chienn3 senn1	99
+ziêⁿ⁶	chienn6	499
+ziêⁿ⁶gua³	chienn6 kua3	99
+ziêⁿ⁶mag⁸	chienn6 mak8	99
+ziêⁿ⁶siou³	chienn6 siou3	99
+ziêb⁴	chiep4	99
+ziêb⁸	chiep8	599
+zih⁴	chih4	2699
+zih⁴zuê⁷	chih4 chue7	99
+zih⁸	chih8	1399
+zig⁴	chik4	3799
+zig⁸	chik8	999
+zim¹	chim1	1099
+zim²	chim2	499
+zim²tau⁵	chim2 thau5	99
+zim²tau⁵ ia⁷ diêh⁸ pag⁸	chim2 thau5 ia7 tieh8 phak8	99
+zim²tau⁵long⁵	chim2 thau5 long5	99
+zim²tau⁵long⁵ ia⁷ diêh⁸ bai⁵gai⁵ loi²bai³ uaⁿ⁷	chim2 thau5 long5 ia7 tieh8 pai5 kai5 loi2 pai3 uann7	99
+zim³	chim3	1099
+zin¹	chin1	449
+zin¹sid⁸	chin1 sit8	449
+zin³	chin3	99
+zing¹	ching1	5199
+zing²	ching2	2099
+zing³	ching3	3499
+zing⁶	ching6	1999
+ziⁿ¹	chinn1	3899
+ziⁿ¹bho⁷	chinn1 bo7	99
+ziⁿ²	chinn2	1299
+ziⁿ³	chinn3	1299
+ziⁿ³ba²	chinn3 pa2	99
+ziⁿ⁵	chinn5	999
+ziⁿ⁵cang¹	chinn5 chhang1	99
+ziⁿ⁵zua²	chinn5 chua2	99
+ziⁿ⁵lêng⁵	chinn5 leng5	99
+ziⁿ⁵ngen⁵	chinn5 ngurn5	99
+zio¹	chio1	1199
+zio²	chio2	399
+zio³	chio3	1199
+zioh⁴	chioh4	1199
+zioh⁸	chioh8	799
+zioⁿ¹	chionn1	1199
+zioⁿ²	chionn2	1999
+zioⁿ³	chionn3	399
+zioⁿ⁶	chionn6	499
+ziou¹	chiou1	2799
+ziou¹hu¹	chiou1 hu1	99
+ziou²	chiou2	499
+ziou²cui³	chiou2 chhui3	149
+ziou³	chiou3	199
+zib⁴	chip4	1399
+zib⁴i³	chip4 i3	99
+zib⁴piah⁴	chip4 phiah4	99
+zib⁸	chip8	1099
+ziu¹	chiu1	6599
+ziu¹liu⁵	chiu1 liu5	99
+ziu²	chiu2	599
+ziu²zêng¹	chiu2 cheng1	99
+ziu²ziⁿ⁵	chiu2 chinn5	99
+ziu²gui²	chiu2 kui2	99
+ziu²biaⁿ²	chiu2 piann2	99
+ziu²buê¹	chiu2 pue1	99
+ziu³	chiu3	699
+ziu³zua⁷	chiu3 chua7	199
+ziu⁶	chiu6	1899
+ziu⁶si⁶	chiu6 si6	99
+ziu⁶si⁶ ziêⁿ³sêⁿ¹	chiu6 si6 chienn3 senn1	99
+ziuh⁴	chiuh4	599
+zng¹	chng1	2099
+zng¹iê⁵	chng1 ie5	149
+zng¹gê¹	chng1 ke1	99
+zng²gah⁴	chng2 kah4	99
+zng²tau⁵gong¹	chng2 thau5 kong1	99
+zng³	chng3	1099
+zng³kang¹	chng3 khang1	99
+zng³giaⁿ²	chng3 kiann2	299
+zng⁷	chng7	299
+zo²	cho2	3299
+zo³	cho3	1099
+zo³bun¹nang⁵	cho3  pun1 nang5	149
+zo³cad⁸	cho3 chhat8	99
+zo³cin¹	cho3 chhin1	99
+zo³cid⁴	cho3 chhit4	99
+zo³ziaⁿ⁵	cho3 chiann5	99
+zo³ziêⁿ⁶buaⁿ⁵	cho3 chienn6 puann5	99
+zo³zoih⁴	cho3 choih4	199
+zo³ze¹	cho3 chur1	99
+zo³hab⁸dang⁵	cho3 hap8 tang5	99
+zo³gang¹	cho3 kang1	99
+zo³ka¹ciu²	cho3 kha1 chhiu2	99
+zo³gong¹cin¹	cho3 kong1 chhin1	99
+zo³niⁿ⁵	cho3 ninn5	199
+zo³niⁿ⁵ bhoi⁶ziah⁸	cho3 ninn5 boi6 chiah8	149
+zo³ba²hi³	cho3 pa2 hi3	99
+zo³bu⁵	cho3 pu5	99
+zo³saⁿ¹kou³	cho3 sann1 khou3	99
+zo³sêⁿ¹rid⁸	cho3 senn1 jit8	99
+zo³suaⁿ³	cho3 suann3	99
+zo³tau⁵	cho3 thau5	99
+zo³doh⁴	cho3 toh4	149
+zo⁵	cho5	599
+zo⁵tau⁵nêg⁸	cho5 thau5 nek8	99
+zo⁶	cho6	1999
+zo⁶ nguang⁵	cho6 nguang5	99
+zo6 nguang⁵	cho6 nguang5	98
+zo⁶ nguêng⁵	cho6 ngueng5	99
+zo6 nguêng⁵	cho6 ngueng5	98
+zo⁶zun⁵	cho6 chun5	99
+zo⁶hoh⁴gu²lo⁷	cho6 hoh4 ku2  lo7	99
+zo⁶dng⁵	cho6 tng5	99
+zo⁶ui⁷	cho6 ui7	199
+zo⁷	cho7	699
+zoh⁴	choh4	1299
+zoh⁴can⁵nang⁵	choh4 chhan5 nang5	186
+zoh⁴huê¹gang¹	choh4 hue1 kang1	99
+zoh⁴gang¹	choh4 kang1	99
+zoh⁴kang¹kuê³	choh4 khang1 khue3	99
+zoh⁸	choh8	599
+zoi⁷	choi7	299
+zoih⁴	choih4	699
+zoih⁴ ki³	choih4 khi3	199
+zoih4 ki³	choih4 khi3	198
+zoih⁴ lêng⁶	choih4 leng6	199
+zoih4 lêng⁶	choih4 leng6	198
+zoih⁸	choih8	799
+zoiⁿ²	choinn2	199
+zoiⁿ⁵	choinn5	599
+zoiⁿ⁵au⁶	choinn5 au6	99
+zoiⁿ⁵ki²	choinn5 khi2	99
+zog⁴	chok4	4799
+zog⁸	chok8	3299
+zong¹	chong1	6599
+zong¹gu²	chong1 ku2	299
+zong²	chong2	1799
+zong²pou⁶	chong2 phou6	99
+zong²dog⁴	chong2 tok4	99
+zong³	chong3	1599
+zong³si⁶	chong3 si6	99
+zong⁶	chong6	599
+zou¹	chou1	3199
+zou¹zun⁵	chou1 chun5	99
+zou²	chou2	599
+zou²bho²	chou2 bo2	99
+zou²gê¹sin³	chou2 ke1 sin3	99
+zou²gong¹	chou2 kong1	99
+zou²bê⁶	chou2 pe6	99
+zou⁶	chou6	599
+zu¹	chu1	21499
+zu¹bou³	chu1 pou3	99
+zu¹sa¹	chu1 sa1	99
+zu²	chu2	2499
+zu²i³	chu2 i3	99
+zu³	chu3	4199
+zu³tih⁴	chu3 thih4	99
+zu⁵	chu5	99
+zu⁶	chu6	5099
+zua¹	chua1	599
+zua²	chua2	1199
+zua²bhuê⁵	chua2 bue5	99
+zua²huê¹	chua2 hue1	99
+zua²ri⁷	chua2 ji7	99
+zua²luan²dêng¹	chua2 luan2 teng1	99
+zua²bai⁵	chua2 pai5	99
+zua⁵	chua5	699
+zua⁷zua⁷	chua7 chua7	99
+zuah⁸	chuah8	99
+zuag⁴	chuak4	2899
+zuag⁸	chuak8	1799
+zuan¹sim¹	chuan1 sim1	99
+zuang¹	chuang1	5599
+zuang²	chuang2	999
+zuang³	chuang3	999
+zuang⁶	chuang6	3899
+zuaⁿ¹	chuann1	599
+zuaⁿ²	chuann2	1199
+zuaⁿ⁵	chuann5	799
+zuaⁿ⁷	chuann7	599
+zuê³	chue3	599
+zuê⁶	chue6	799
+zuê⁷	chue7	199
+zuêg⁴	chuek4	599
+zuêng¹	chueng1	499
+zuêng²	chueng2	199
+zuêng³	chueng3	199
+zuêng⁶	chueng6	299
+zuh⁴	chuh4	699
+zuh⁸	chuh8	99
+zui¹	chui1	4799
+zui²	chui2	699
+zui²zuaⁿ⁵	chui2 chuann5	199
+zui²ghu⁵	chui2 gu5	99
+zui²in¹	chui2 in1	149
+zui²gau¹	chui2 kau1	199
+zui²gng¹	chui2 kng1	99
+zui²gng¹ gai⁵ zui² do³diou³;	chui2 kng1 kai5 chui2 to3 tiou3;	99
+zui²goi¹	chui2 koi1	149
+zui²gou²	chui2 kou2	99
+zui²guan³	chui2 kuan3	149
+zui²ngen⁵	chui2 ngurn5	99
+zui²niⁿ⁵	chui2 ninn5	99
+zui²pa¹	chui2 pha1	99
+zui²siu²	chui2 siu2	99
+zui²se¹ ti⁵dog⁴	chui2 sur1 thi5 tok4	99
+zui²tang²	chui2 thang2	99
+zui²tiu¹	chui2 thiu1	99
+zui²tou²	chui2 thou2	99
+zui³	chui3	599
+zui⁶	chui6	7899
+zui⁶hud⁸	chui6 hut8	99
+zug⁴	chuk4	2999
+zug⁸	chuk8	1799
+zun¹gui³	chun1 kui3	99
+zun²	chun2	99
+zun⁵	chun5	99
+zun⁵ aiⁿ³giaⁿ³	chun5 ainn3 kiann3	99
+zun⁵ bhoi⁶giaⁿ⁵	chun5 boi6 kiann5	149
+zun⁵ kau¹huang¹	chun5 khau1 huang1	99
+zun⁵ kua⁷diêh⁸	chun5 khua7  tieh8	99
+zun⁵ giaⁿ³lo⁷	chun5 kiann3  lo7	99
+zun⁵ gua¹ hang⁵	chun5 kua1 hang5	99
+zun⁵ buah⁸diou³	chun5 puah8 tiou3	99
+zun⁵ siê¹zuang⁶diêh⁸	chun5 sie1 chuang6 tieh8	99
+zun⁵bhuê²	chun5 bue2	99
+zun⁵bhuê²lau⁵	chun5 bue2 lau5	99
+zun⁵zou¹	chun5 chou1	399
+zun⁵zu²	chun5 chu2	199
+zun⁵giaⁿ²	chun5 kiann2	149
+zun⁵dêng²	chun5 teng2	99
+zun⁵tau⁵	chun5 thau5	99
+zun⁵din³dang¹	chun5 tin3 tang1	149
+zun⁶	chun6	99
+zun⁶diou³	chun6 tiou3	99
+zung¹	chung1	4199
+zung²	chung2	1799
+zung³	chung3	10799
+zung⁵	chung5	1199
+ze¹	chur1	15999
+ze¹zê¹	chur1 che1	99
+ze¹cêh⁴	chur1 chheh4	99
+ze¹iⁿ⁷	chur1 inn7	99
+ze¹gim¹	chur1 kim1	99
+ze¹niêⁿ⁵	chur1 nienn5	449
+ze¹niêⁿ⁵giaⁿ²	chur1 nienn5 kiann2	391
+ze¹du⁵	chur1 tu5	99
+ze²	chur2	3199
+ze²ziah⁸	chur2 chiah8	99
+ze²soi³	chur2 soi3	299
+ze³	chur3	2499
+ze⁵	chur5	499
+ze⁶	chur6	499
+ze⁶zin⁶	chur6 chin6	199
+ze⁶riên⁵	chur6 jien5	99
+ze⁶lai⁵huê²	chur6 lai5 hue2	99
+zeh⁸	churh8	499
+zeng¹	churng1	1999
+zeng³	churng3	899
+zeng⁷	churng7	299
+ê¹	e1	2299
+ê²	e2	799
+ê⁵	e5	599
+ê⁵rid⁸ le² m⁶moⁿ² ud⁸gau³hiêⁿ³ uaⁿ³	e5 jit8 lur2 m6 monn2 ut8 kau3 hienn3 uann3	186
+ê⁶	e6	1899
+ê⁶zua⁷zun⁵ ua² ziu⁶aiⁿ³ke³	e6 chua7 chun5 ua2 chiu6 ainn3 khur3	99
+ê⁶zui²	e6 chui2	99
+ê⁶hai⁵	e6 hai5	299
+ê⁶rid⁸	e6 jit8	99
+ê⁶rid⁸ i¹ ziaⁿ³m⁶gaⁿ²	e6 jit8 i1 chiann3 m6 kann2	149
+ê⁶gua³	e6 kua3	99
+ê⁷ê⁷	e7 e7	199
+êh⁴	eh4	3599
+êg⁴	ek4	2799
+êg⁸	ek8	14399
+êg⁸bou³	ek8 pou3	99
+êng¹	eng1	12249
+êng¹go¹	eng1 ko1	99
+êng¹gog⁴nang⁵ ziu⁶hiou²	eng1 kok4 nang5 chiu6 hiou2	149
+êng¹bo⁵	eng1 po5	99
+êng¹dêng⁵	eng1 teng5	149
+êng²	eng2	599
+êng³	eng3	699
+êng³gai¹	eng3 kai1	99
+êng³gai¹did⁴	eng3 kai1 tit4	99
+êng⁵	eng5	1899
+êng⁵di¹	eng5 ti1	99
+êng⁷	eng7	899
+êng⁷ ca⁵ tong¹goiⁿ¹lai⁶ hun¹	eng7 chha5 thong1 koinn1 lai6 hun1	149
+êng⁷ goi¹moⁿ⁵ bhuah⁴	eng7 koi1 monn5 buah4	149
+êng⁷ ngou²sêⁿ¹ lai⁵hong⁶	eng7 ngou2 senn1 lai5 hong6	99
+êⁿ⁵	enn5	699
+ghai⁷	gai7	599
+ghau²	gau2	149
+ghau⁵	gau5	399
+ghau⁵a¹niêⁿ⁵	gau5 a1 nienn5	149
+ghau⁵nang⁵	gau5 nang5	186
+ghauh⁸	gauh8	599
+ghê²	ge2	599
+ghê⁵	ge5	3299
+ghê⁵ gang¹	ge5 kang1	199
+ghê5 gang¹	ge5 kang1	198
+ghê⁵gang¹	ge5 kang1	99
+ghê⁵mng⁵	ge5 mng5	199
+ghê⁵tau⁵ki²	ge5 thau5 khi2	199
+ghê⁷	ge7	599
+ghêg⁸	gek8	1999
+ghi¹	gi1	99
+ghi²	gi2	399
+ghi⁵	gi5	1299
+ghia³	gia3	1199
+ghia⁵	gia5	599
+gho⁵	go5	699
+gho⁷	go7	699
+ghoi⁵	goi5	599
+ghoi⁷	goi7	1799
+ghou⁵	gou5	1199
+ghou⁵ gong¹	gou5 kong1	199
+ghou5 gong¹	gou5 kong1	198
+ghou⁷	gou7	599
+ghou⁷diêh⁸ nang⁵gai⁵se⁷	gou7  tieh8 nang5 kai5 sur7	149
+ghu²	gu2	99
+ghu⁵	gu5	699
+ghu⁵bhah⁴	gu5 bah4	99
+ghu⁵iêⁿ⁵	gu5 ienn5	99
+ghu⁵gag⁴	gu5 kak4	99
+ghu⁵nêg⁸	gu5 nek8	99
+ghu⁵ng⁵	gu5 ng5	99
+ghu⁵niⁿ⁶iu⁵	gu5 ninn6 iu5	99
+ghu⁵niⁿ⁶guan³	gu5 ninn6 kuan3	149
+ghu⁵puê⁵	gu5 phue5	99
+ghu⁵sai²	gu5 sai2	99
+ghu⁵daⁿ¹uan¹	gu5 tann1 uan1	149
+ghu⁶	gu6	299
+ghu⁷	gu7	99
+ghua⁷	gua7	599
+ghua⁷zau²sun¹	gua7 chau2 sun1	99
+ghua⁷gê¹	gua7 ke1	99
+ghua⁷gog⁴nang⁵	gua7 kok4 nang5	149
+ghua⁷gong¹	gua7 kong1	99
+ghua⁷maⁿ²	gua7 mann2	99
+ghua⁷sêng¹	gua7 seng1	99
+ghua⁷sêng¹nng²	gua7 seng1 nng2	99
+ghua⁷sun¹	gua7 sun1	99
+ghuêh⁸	gueh8	1799
+ghuêh⁸ bho⁵ rid⁸ hiêⁿ³gng¹	gueh8 bo5 jit8 hienn3 kng1	99
+ghuêh⁸ siê²	gueh8 sie2	99
+ghuêh⁸ sih⁸	gueh8 sih8	99
+ghuêh⁸ do⁶ pu⁵	gueh8 to6 phu5	99
+ghuêh⁸ dua⁷	gueh8 tua7	99
+ghuêh⁸ghuêh⁸	gueh8 gueh8	99
+ghuêh⁸gi³	gueh8 ki3	99
+ghuêh⁸giaⁿ²	gueh8 kiann2	149
+ghui⁷	gui7	499
+ghe²	gur2	499
+ghe⁶	gur6	1499
+ghe⁷	gur7	499
+ha¹	ha1	599
+ha³	ha3	599
+ha⁵	ha5	99
+hah⁴	hah4	1799
+hah⁸	hah8	1499
+hah⁸bhua⁵	hah8 bua5	149
+hai¹	hai1	1799
+hai²	hai2	1299
+hai²cad⁸	hai2 chhat8	99
+hai²huang¹diê⁵	hai2 huang1 tie5	99
+hai²rong⁵	hai2 jong5	99
+hai²giⁿ⁵	hai2 kinn5	299
+hai²giⁿ⁵ u⁶ nang⁵ giaⁿ²	hai2 kinn5 u6 nang5 kiann2	149
+hai²se⁶	hai2 sur6	99
+hai²dou⁵	hai2 tou5	99
+hai⁵	hai5	3599
+hai⁶	hai6	7199
+hai⁶i⁶	hai6 i6	99
+hai⁷	hai7	699
+hai⁷lo⁷	hai7  lo7	99
+haiⁿ²	hainn2	199
+haiⁿ⁵	hainn5	99
+haiⁿ⁷	hainn7	199
+hag⁴	hak4	9599
+hag⁸	hak8	1299
+hag⁸sêng¹	hak8 seng1	199
+hag⁸sib⁸	hak8 sip8	99
+ham¹	ham1	2099
+ham²	ham2	99
+ham²diou³	ham2 tiou3	99
+ham³	ham3	699
+ham³ i¹ mêⁿ²mêⁿ² lai⁵ ag⁴huê¹	ham3 i1 menn2 menn2 lai5 ak4 hue1	149
+ham³ i¹ diêh⁸ diam⁷diam⁷	ham3 i1 tieh8 tiam7 tiam7	99
+ham⁵	ham5	4999
+ham⁵lam⁵sud⁸	ham5 lam5 sut8	99
+ham⁶	ham6	999
+ham⁷	ham7	499
+han²did⁴	han2 tit4	99
+han²did⁴ u⁶	han2 tit4 u6	99
+han⁵su²zam¹	han5 su2 cham1	99
+han⁶	han6	99
+hang¹	hang1	1699
+hang¹gu¹	hang1 ku1	99
+hang²	hang2	5999
+hang³	hang3	1299
+hang⁵	hang5	11699
+hang⁵cêng⁵	hang5 chheng5	199
+hang⁵hog⁸	hang5 hok8	99
+hang⁶	hang6	1499
+hang⁷	hang7	799
+hang⁷giaⁿ²	hang7 kiann2	149
+haⁿ²hun¹	hann2 hun1	99
+hab⁸	hap8	599
+hab⁸iêh⁴	hap8 ieh4	99
+hab⁸dang²	hap8 tang2	99
+hab⁸dang⁵	hap8 tang5	199
+hau¹	hau1	9099
+hau²	hau2	3599
+hau³	hau3	599
+hau⁵	hau5	2399
+hau⁶	hau6	599
+hau⁶sêⁿ¹	hau6 senn1	199
+hau⁷	hau7	2399
+hau⁷kag⁴siⁿ³	hau7 khak4 sinn3	99
+hau⁷bêh⁴cêh⁴	hau7 peh4 chheh4	99
+hauⁿ³	haunn3	1199
+hauⁿ³hehⁿ²gai⁵nang⁵	haunn3 hehnn2  kai5 nang5	149
+hê⁵	he5	699
+hê⁵bhi²	he5 bi2	99
+hê⁶	he6	299
+hê⁶huê³	he6 hue3	99
+hê⁶nguan⁶	he6 nguan6	99
+hê⁷	he7	1299
+hê⁷tiⁿ¹ ziu⁶ruah⁸	he7  thinn1 chiu6 juah8	149
+hê⁷zi³	he7 chi3	99
+hêh⁴	heh4	1299
+hêh⁴giaⁿ¹	heh4 kiann1	99
+hehⁿ¹zê⁷giê³	hehnn1  che7 kie3	149
+hêg⁴	hek4	5999
+hêg⁸	hek8	299
+hêng¹	heng1	4699
+hêng¹sêng⁶	heng1 seng6	99
+hêng¹uang⁶	heng1 uang6	99
+hêng²	heng2	799
+hêng³	heng3	599
+hêng⁵	heng5	5599
+hêng⁵li²	heng5 li2	199
+hêng⁶	heng6	3599
+hêng⁶zi²	heng6 chi2	99
+hi¹	hi1	13199
+hi¹giaⁿ²	hi1 kiann2	149
+hi²	hi2	1199
+hi³	hi3	1999
+hi³giêh⁴	hi3 kieh4	99
+hi³bêⁿ⁵	hi3 penn5	99
+hi³duaⁿ³	hi3 tuann3	99
+hi⁵	hi5	4099
+hi⁶	hi6	5399
+hia¹	hia1	799
+hia²	hia2	99
+hia² ziu⁶si⁶	hia2 chiu6 si6	99
+hia² kiêh⁸bun¹ ua²	hia2 khieh8 pun1 ua2	99
+hia³	hia3	1199
+hia⁵	hia5	1799
+hia⁶	hia6	1599
+hia⁷	hia7	699
+hiah⁴	hiah4	1199
+hiah⁴ hêg⁸	hiah4 hek8	199
+hiah4 hêg⁸	hiah4 hek8	198
+hiah⁴ gia²	hiah4 kia2	199
+hiah4 gia²	hiah4 kia2	198
+hiah⁴ mê⁵	hiah4 me5	199
+hiah4 mê⁵	hiah4 me5	198
+hiah⁴diam⁷	hiah4 tiam7	99
+hiah⁸	hiah8	1099
+hiah⁸mng⁵sin⁵	hiah8 mng5 sin5	99
+hiah⁸sin³	hiah8 sin3	99
+hiah⁸tau⁵	hiah8 thau5	99
+hiag⁴	hiak4	499
+hiag⁴diêh⁸su²	hiak4 tieh8 su2	99
+hiag⁸	hiak8	1299
+hiam¹	hiam1	99
+hiam¹ziê¹	hiam1 chie1	199
+hiam¹ziê¹ si⁶ huan¹boiⁿ⁵ lai⁵gai⁵	hiam1 chie1 si6 huan1 poinn5 lai5  kai5	186
+hiam¹guê³ hou⁵ziê¹	hiam1 kue3 hou5 chie1	99
+hiam²	hiam2	399
+hiam²hiam²	hiam2 hiam2	99
+hiam⁵	hiam5	949
+hiang¹	hiang1	1099
+hiang¹ kau² ga¹	hiang1 khau2 ka1	199
+hiang1 kau2 ga¹	hiang1 khau2 ka1	198
+hiang¹gang² u⁶ dua⁷hang⁵	hiang1 kang2 u6 tua7 hang5	99
+hiang²	hiang2	3199
+hiang³	hiang3	7399
+hiang³guan¹	hiang3 kuan1	149
+hiang³niêⁿ⁵	hiang3 nienn5	149
+hiang³bai⁵	hiang3 pai5	99
+hiang⁵	hiang5	6499
+hiang⁷	hiang7	399
+hiaⁿ¹	hiann1	599
+hiaⁿ¹di⁶	hiann1 ti6	199
+hiaⁿ¹di⁶giaⁿ²	hiann1 ti6 kiann2	149
+hiaⁿ⁵	hiann5	1299
+hiaⁿ⁵ca⁵	hiann5 chha5	99
+hiaⁿ⁵huê²	hiann5 hue2	99
+hiaⁿ⁵huê²gai⁵nang⁵	hiann5 hue2  kai5 nang5	149
+hiaⁿ⁵huê²sid⁸	hiann5 hue2 sit8	99
+hiaⁿ⁵tou⁵tuaⁿ³	hiann5 thou5 thuann3	99
+hiaⁿ⁷	hiann7	599
+hiab⁸	hiap8	5199
+hiab⁸diab⁸	hiap8 tiap8	99
+hiau¹	hiau1	2399
+hiau²	hiau2	399
+hiau⁵	hiau5	399
+hiauⁿ¹	hiaunn1	99
+hiê²	hie2	99
+hiêh⁸	hieh8	599
+hiêg⁴	hiek4	99
+hiêm²	hiem2	99
+hiêm⁵	hiem5	199
+hiên²muiⁿ⁵giaⁿ³	hien2 muinn5 kiann3	199
+hiên⁷	hien7	99
+hiên⁷ziⁿ⁵	hien7 chinn5	99
+hiêng¹	hieng1	99
+hiêng²	hieng2	99
+hiêng³	hieng3	799
+hiêng⁵	hieng5	1199
+hiêⁿ¹	hienn1	599
+hiêⁿ¹ca⁵	hienn1 chha5	99
+hiêⁿ¹ê⁶nang⁵	hienn1 e6 nang5	373
+hiêⁿ¹gou¹	hienn1 kou1	99
+hiêⁿ¹li²	hienn1 li2	299
+hiêⁿ¹liou⁷	hienn1 liou7	99
+hiêⁿ¹lou⁵	hienn1 lou5	99
+hiêⁿ³sêⁿ¹	hienn3 senn1	99
+hiêb⁸	hiep8	1299
+hiêd⁴giaⁿ²	hiet4 kiann2	149
+hig⁴	hik4	199
+him¹	him1	1099
+him⁵	him5	499
+hin⁵	hin5	199
+hin⁵zun⁵	hin5 chun5	99
+hin⁷zai⁶	hin7 chai6	199
+hin⁷si⁵ do⁶ dai⁵uan⁵go⁷ u⁶ siê¹tai⁵	hin7 si5 to6 tai5 uan5  ko7 u6 sie1 thai5	99
+hing¹	hing1	1299
+hing²	hing2	199
+hing⁵	hing5	1099
+hing⁶	hing6	99
+hing⁷	hing7	799
+hing⁷ zai⁶	hing7 chai6	199
+hing7 zai⁶	hing7 chai6	198
+hiⁿ³diou³	hinn3 tiou3	99
+hiⁿ⁵	hinn5	1299
+hiⁿ⁵suaⁿ³	hinn5 suann3	99
+hiⁿ⁶	hinn6	399
+hiⁿ⁶ lang⁵	hinn6 lang5	99
+hiⁿ⁶lang⁵	hinn6  lang5	199
+hiⁿ⁶huan⁵	hinn6 huan5	99
+hiⁿ⁶gau¹	hinn6 kau1	99
+hiⁿ⁶kang¹	hinn6 khang1	99
+hioh⁸	hioh8	799
+hiog⁴	hiok4	7199
+hiong¹	hiong1	2999
+hiong³	hiong3	99
+hiong⁵	hiong5	699
+hioⁿ¹	hionn1	799
+hiou¹	hiou1	1299
+hiou¹cêng⁵ zoh⁸ngi⁶	hiou1 chheng5 choh8 ngi6	99
+hiou¹sim¹	hiou1 sim1	199
+hiou²	hiou2	399
+hiou²cêng⁵li²	hiou2 chheng5 li2	99
+hiou⁵	hiou5	199
+hiouⁿ¹	hiounn1	99
+hib⁴	hip4	1399
+hib⁴si²	hip4 si2	199
+hiuⁿ¹	hiunn1	5899
+hiuⁿ²	hiunn2	599
+hiuⁿ³	hiunn3	2999
+hiuⁿ⁵	hiunn5	299
+hng¹	hng1	4799
+hng¹can¹	hng1 chhan1	99
+hng²	hng2	1799
+hng⁵	hng5	599
+hng⁵li⁵	hng5 li5	199
+hng⁶	hng6	599
+hng⁷	hng7	599
+hngh⁴	hngh4	199
+hngh⁴piⁿ⁷hun¹	hngh4 phinn7 hun1	99
+ho¹	ho1	1199
+ho²	ho2	1299
+ho²guê³	ho2  kue3	99
+ho²lo⁷	ho2  lo7	99
+ho²gê³	ho2 ke3	99
+ho²si⁶si⁶	ho2 si6 si6	99
+ho²sim¹	ho2 sim1	199
+ho²tan³	ho2 than3	99
+ho²toiⁿ²	ho2 thoinn2	299
+ho³	ho3	2399
+ho⁵	ho5	2299
+ho⁵lan⁵ze⁵	ho5 lan5 chur5	99
+ho⁵lan⁵sê¹ gai⁵biaⁿ¹ lai⁵ bhuê⁷zoi⁵	ho5 lan5 se1 kai5 piann1 lai5 bue7 choi5	99
+ho⁵lan⁵dau⁷	ho5 lan5 tau7	99
+ho⁵bau¹	ho5 pau1	99
+ho⁶	ho6	1199
+ho⁷	ho7	1399
+ho⁷tau⁵	ho7 thau5	99
+hoh⁴	hoh4	99
+hoh⁴zoi⁷ rid⁸ bho⁵ag⁴	hoh4 choi7 jit8 bo5 ak4	99
+hoh⁴gu² nan²ziê² m⁶bad⁴ u⁶ loh⁸pag⁸	hoh4 ku2 nan2  chie2 m6 pat4 u6 loh8 phak8	195
+hoh⁴siou²iaⁿ²	hoh4 siou2 iann2	99
+hoh⁸	hoh8	1299
+hoi⁶	hoi6	699
+hoiⁿ²	hoinn2	399
+hoiⁿ⁵	hoinn5	299
+hoiⁿ⁶	hoinn6	99
+hoiⁿ⁷	hoinn7	399
+hog⁴	hok4	3599
+hog⁴ki³	hok4 khi3	199
+hog⁸	hok8	9999
+hog⁸sêg⁴	hok8 sek4	199
+hog⁸dng²	hok8 tng2	99
+hong¹	hong1	7899
+hong¹hiam²	hong1 hiam2	199
+hong¹siaⁿ¹	hong1 siann1	99
+hong¹sog⁸	hong1 sok8	99
+hong²	hong2	2399
+hong²log⁸	hong2 lok8	99
+hong³	hong3	4199
+hong⁵	hong5	5199
+hong⁶	hong6	1399
+hong⁶iang²	hong6 iang2	99
+hong⁶ga³	hong6 ka3	99
+hong⁷	hong7	599
+hou¹	hou1	199
+hou³	hou3	599
+hou⁵	hou5	3599
+hou⁵ziê¹	hou5 chie1	99
+hou⁵ki⁵	hou5 khi5	99
+hou⁵lai⁵	hou5 lai5	99
+hou⁵sin⁵	hou5 sin5	149
+hou⁵sin⁵sai²gi³	hou5 sin5 sai2 ki3	99
+hou⁶	hou6	2999
+hou⁶ aiⁿ³lai⁵	hou6 ainn3 lai5	99
+hou⁶ zia¹	hou6 chia1	199
+hou6 zia¹	hou6 chia1	198
+hou⁶ zui²	hou6 chui2	199
+hou6 zui²	hou6 chui2	198
+hou⁶ diaⁿ⁷diêh⁸ si⁶ dua⁷	hou6 tiann7 tieh8 si6 tua7	99
+hou⁶giaⁿ²	hou6 kiann2	149
+hou⁶suaⁿ³	hou6 suann3	99
+houⁿ²	hounn2	3099
+houⁿ²lo⁵	hounn2 lo5	99
+hu¹	hu1	16099
+hu¹rin⁵	hu1 jin5	99
+hu²	hu2	6399
+hu²diêh⁸	hu2  tieh8	99
+hu²diêh⁸ nah⁴sab⁴	hu2  tieh8 nah4 sap4	99
+hu²tai³ia⁵	hu2 thai3 ia5	99
+hu²diêh⁸ nah⁴sab⁴	hu2 tieh8 nah4 sap4	199
+hu³	hu3	7399
+hu³toh⁴	hu3 thoh4	99
+hu⁵	hu5	11199
+hu⁶	hu6	11399
+hu⁷	hu7	1199
+hua¹	hua1	3599
+hua⁵	hua5	3899
+hua⁵iêh⁴	hua5 ieh4	99
+hua⁶	hua6	599
+huah⁴	huah4	1199
+huah⁴hi³	huah4 hi3	99
+huah⁸	huah8	199
+huai⁵	huai5	2399
+huai⁶	huai6	599
+huag⁴	huak4	1799
+huag⁸	huak8	3999
+huam³	huam3	1199
+huam⁵	huam5	299
+huam⁶	huam6	2399
+huam⁶zuê⁶	huam6 chue6	199
+huam⁶rin⁵	huam6 jin5	99
+huam⁶lud⁸	huam6 lut8	199
+huam⁶lud⁸gai⁵nang⁵ diêh⁸ siu⁶huad⁸	huam6 lut8  kai5 nang5 tieh8 siu6 huat8	149
+huan¹	huan1	449
+huan¹ze⁵	huan1 chur5	149
+huan¹êg⁸	huan1 ek8	99
+huan¹gang²	huan1 kang2	149
+huan¹gang² do⁶ soi²min⁷ gai⁵ cng⁵gêh⁴doi²	huan1 kang2 to6 soi2 min7 kai5 chhng5 keh4 toi2	186
+huan¹guah⁴	huan1 kuah4	149
+huan¹guê¹	huan1 kue1	149
+huan¹lai⁵	huan1 lai5	149
+huan¹nang⁵	huan1 nang5	373
+huan¹boiⁿ⁵	huan1 poinn5	186
+huan¹bou³	huan1 pou3	149
+huan²	huan2	99
+huan²dng²	huan2 tng2	199
+huan⁵liou²	huan5 liou2	199
+huan⁵liou² bhuê⁷zai¹	huan5 liou2 bue7 chai1	199
+huan⁵liou² u⁶	huan5 liou2 u6	99
+huan⁵lo²	huan5 lo2	499
+huang¹	huang1	13999
+huang¹ kim⁵	huang1 khim5	199
+huang1 kim⁵	huang1 khim5	198
+huang¹ lai⁵	huang1 lai5	99
+huang1 lai⁵	huang1 lai5	98
+huang¹ lou⁵	huang1 lou5	199
+huang1 lou⁵	huang1 lou5	198
+huang¹ tai¹	huang1 thai1	199
+huang1 tai¹	huang1 thai1	198
+huang¹ dua⁷	huang1 tua7	99
+huang¹zui²	huang1 chui2	99
+huang¹hou⁶zam¹	huang1 hou6 cham1	99
+huang¹kim⁵	huang1 khim5	99
+huang¹lou⁵	huang1 lou5	99
+huang¹puê⁵	huang1 phue5	99
+huang¹siⁿ³	huang1 sinn3	99
+huang¹dang⁵	huang1 tang5	99
+huang¹tai¹	huang1 thai1	99
+huang¹tai¹ si⁶ hong¹hiam²	huang1 thai1 si6 hong1 hiam2	99
+huang¹tiaⁿ³	huang1 thiann3	99
+huang²	huang2	8899
+huang²se⁶	huang2 sur6	299
+huang³	huang3	5199
+huang³se³	huang3 sur3	199
+huang⁵	huang5	21699
+huang⁵ lo²	huang5 lo2	99
+huang5 lo²	huang5 lo2	98
+huang⁵ nau²	huang5 nau2	99
+huang5 nau²	huang5 nau2	98
+huang⁵di³	huang5 ti3	199
+huang⁶	huang6	3099
+huaⁿ¹	huann1	399
+huaⁿ¹hi²	huann1 hi2	299
+huaⁿ⁵	huann5	99
+huaⁿ⁷	huann7	1899
+huab⁴	huap4	1699
+huab⁴lud⁸	huap4 lut8	99
+huad⁴	huat4	199
+huad⁴siê¹	huat4 sie1	99
+huad⁴siê¹ ui³cin³	huat4 sie1 ui3 chhin3	99
+huad⁴sun²	huat4 sun2	99
+huad⁸	huat8	199
+huad⁸ngen⁵	huat8 ngurn5	99
+huê¹	hue1	2899
+huê¹ long²zong² riou⁵riou⁵	hue1 long2 chong2 jiou5 jiou5	99
+huê¹cui³	hue1 chhui3	99
+huê¹hng⁵	hue1 hng5	99
+huê¹huê⁶	hue1 hue6	99
+huê¹gan¹	hue1 kan1	99
+huê¹gi⁵hang⁵ do²diêⁿ³lo⁷	hue1 ki5 hang5 to2 tienn3  lo7	99
+huê¹lou⁷zui²	hue1 lou7 chui2	99
+huê¹lui²	hue1 lui2	99
+huê¹niêⁿ⁵	hue1 nienn5	99
+huê¹oi⁵	hue1 oi5	99
+huê¹bou³	hue1 pou3	99
+huê¹tou⁵	hue1 thou5	99
+huê¹diaⁿ⁵	hue1 tiann5	99
+huê¹diaⁿ⁵ ia⁷ diêh⁸ soi²	hue1 tiann5 ia7 tieh8 soi2	99
+huê²	hue2	2399
+huê²ca⁵	hue2 chha5	99
+huê²cia¹	hue2 chhia1	99
+huê²ziêh⁸	hue2 chieh8	99
+huê²zih⁸	hue2 chih8	99
+huê²zun⁵	hue2 chun5	99
+huê²zun⁵ min²êng⁷ sai²huang¹ oi⁶giaⁿ⁵	hue2 chun5 min2 eng7 sai2 huang1 oi6 kiann5	149
+huê²zun⁵giaⁿ²	hue2 chun5 kiann2	149
+huê²hu¹	hue2 hu1	99
+huê²hun¹dang⁵	hue2 hun1 tang5	99
+huê²iam⁷	hue2 iam7	199
+huê²iêh⁸	hue2 ieh8	99
+huê²gi³	hue2 ki3	99
+huê²goi¹	hue2 koi1	149
+huê²lou⁵	hue2 lou5	199
+huê²lou⁵ ki²huê²	hue2 lou5 khi2 hue2	99
+huê²naⁿ⁷	hue2 nann7	99
+huê²bai⁵	hue2 pai5	99
+huê²sid⁸bang⁵	hue2 sit8 pang5	99
+huê²suaⁿ¹	hue2 suann1	99
+huê²suh⁸	hue2 suh8	99
+huê²tau⁵	hue2 thau5	299
+huê²tuaⁿ³	hue2 thuann3	199
+huê²tui²	hue2 thui2	99
+huê²tui² ke³ gau¹cai³guan² kiêh⁸	hue2 thui2 khur3 kau1 chhai3 kuan2 khieh8	99
+huê²tun⁵	hue2 thun5	99
+huê²diêⁿ²	hue2 tienn2	199
+huê²diêⁿ² ki²ke³	hue2 tienn2 khi2 khur3	99
+huê³	hue3	3899
+huê³ uaⁿ⁷ huê³	hue3 uann7 hue3	99
+huê³duaⁿ¹	hue3 tuann1	99
+huê⁵	hue5	4349
+huê⁵gê¹	hue5 ke1	149
+huê⁵poi¹	hue5 phoi1	149
+huê⁵siêⁿ³	hue5 sienn3	99
+huê⁵sin³	hue5 sin3	149
+huê⁵uê⁷	hue5 ue7	449
+huê⁶	hue6	2499
+huê⁶min⁷	hue6 min7	99
+huê⁷	hue7	599
+huêh⁴	hueh4	699
+huêh⁴mehⁿ²	hueh4 mehnn2	299
+huêg⁴	huek4	199
+huêg⁸	huek8	1799
+huêng¹	hueng1	999
+huêng¹ lai⁵	hueng1 lai5	99
+huêng1 lai⁵	hueng1 lai5	98
+huêng²	hueng2	299
+huêng³	hueng3	799
+huêng⁵	hueng5	1999
+huêng⁵ lo²	hueng5 lo2	99
+huêng5 lo²	hueng5 lo2	98
+huêng⁵ nau²	hueng5 nau2	99
+huêng5 nau²	hueng5 nau2	98
+huêng⁶	hueng6	399
+huêⁿ⁵	huenn5	599
+huêⁿ⁵ui⁵	huenn5 ui5	99
+huh⁴	huh4	599
+huh⁴zê⁷giê³	huh4  che7 kie3	149
+hui¹	hui1	12649
+hui¹lin³dng²	hui1 lin3 tng2	149
+hui¹dng²lai⁵	hui1 tng2  lai5	149
+hui²	hui2	1199
+hui²diou³	hui2 tiou3	99
+hui³	hui3	6099
+hui³diou⁷	hui3 tiou7	99
+hui⁵	hui5	899
+hui⁶	hui6	4299
+huiⁿ²	huinn2	5399
+huiⁿ⁵	huinn5	299
+hug⁴	huk4	13199
+hug⁸	huk8	1799
+hun¹	hun1	199
+hun¹mêng⁵	hun1 meng5	99
+hun¹biêd⁸	hun1 piet8	99
+hun¹sai²	hun1 sai2	99
+hun¹dang⁵	hun1 tang5	99
+hun²	hun2	99
+hun²ziou²	hun2 chiou2	199
+hun⁵	hun5	299
+hun⁶	hun6	199
+hun⁷	hun7	199
+hung¹	hung1	12999
+hung¹ guah⁴	hung1 kuah4	199
+hung1 guah⁴	hung1 kuah4	198
+hung²	hung2	2399
+hung² ciam¹	hung2 chhiam1	99
+hung2 ciam¹	hung2 chhiam1	98
+hung² ciêm¹	hung2 chhiem1	99
+hung2 ciêm¹	hung2 chhiem1	98
+hung³	hung3	1199
+hung⁵	hung5	2999
+hung⁶	hung6	3599
+hung⁷	hung7	1199
+he¹	hur1	2499
+he²	hur2	499
+he²zang⁵ si⁶ bêh⁸huad⁴gai⁵	hur2  chang5 si6 peh8 huat4  kai5	99
+he²zang⁵ du⁷a¹ciu⁷ koih⁴ huang¹ cuê¹ do²ke³	hur2 chang5 tu7 a1 chhiu7 khoih4 huang1 chhue1 to2  khur3	99
+he²zuaⁿ³gai⁵	hur2 chuann3 kai5	99
+he²gai⁵	hur2 kai5	99
+he²gai⁵ kiêh⁸lai⁵	hur2 kai5 khieh8  lai5	99
+he²gai⁵ ua² maiⁿ³	hur2 kai5 ua2 mainn3	99
+he²go³	hur2 ko3	99
+he²diang¹si⁵	hur2 tiang1 si5	99
+he⁵	hur5	1099
+he⁵ci¹	hur5 chhi1	99
+he⁵cun¹	hur5 chhun1	199
+he⁵zi²	hur5 chi2	199
+he⁵ri⁷	hur5 ji7	99
+he⁵ga¹	hur5 ka1	99
+he⁵giaⁿ²	hur5 kiann2	149
+he⁵goi⁵	hur5 koi5	99
+he⁵guaⁿ¹	hur5 kuann1	99
+he⁵lan⁵	hur5 lan5	99
+he⁵nng⁶	hur5 nng6	99
+he⁵piê⁶	hur5 phie6	99
+he⁵bou²	hur5 pou2	99
+he⁵sid⁸	hur5 sit8	199
+he⁵dou⁶	hur5 tou6	99
+heng¹	hurng1	1899
+heng²	hurng2	399
+heng⁶	hurng6	199
+hud⁸	hut8	299
+hud⁸zou²	hut8 chou2	199
+hud⁸ga³	hut8 ka3	99
+i¹	i1	7599
+i¹ aiⁿ³	i1 ainn3	99
+i¹ aiⁿ³ lau⁵ciu¹	i1 ainn3 lau5 chhiu1	99
+i¹ aiⁿ³a³	i1 ainn3 a3	149
+i¹ aiⁿ³hib⁴ huan¹guah⁴	i1 ainn3 hip4 huan1 kuah4	149
+i¹ aiⁿ³gau¹sêng¹lo⁷	i1 ainn3 kau1 seng1  lo7	99
+i¹ aiⁿ³ke³	i1 ainn3 khur3	99
+i¹ aiⁿ³dng²ke³	i1 ainn3 tng2  khur3	99
+i¹ bho⁵ siu¹tau⁵	i1 bo5 siu1 thau5	99
+i¹ bho⁵mih⁴ oi⁶siu⁵	i1 bo5 mih4 oi6 siu5	149
+i¹ bhoi⁶ bun¹nang⁵ piên³	i1 boi6 pun1  nang5 phien3	186
+i¹ bhoi⁶si²	i1 boi6  si2	149
+i¹ bhoi⁶zau²	i1 boi6 chau2	149
+i¹ bhoi⁶ziah⁸	i1 boi6 chiah8	149
+i¹ bhuê⁷ lai⁵	i1 bue7 lai5	99
+i¹ za¹rid⁸ lai⁵	i1 cha1 jit8 lai5	99
+i¹ ciaⁿ²nang⁵ pang⁵pai³ zai⁶	i1 chhiann2 nang5 phang5 phai3 chai6	186
+i¹ ziang¹lai⁵ oi⁶ zo³dua⁷	i1 chiang1 lai5 oi6 cho3 tua7	99
+i¹ ziaⁿ³lai⁵	i1 chiann3 lai5	99
+i¹ ziu⁶ ke³bun¹ guaⁿ¹hu² sim²	i1 chiu6 khur3 pun1 kuann1 hu2 sim2	99
+i¹ zo³se⁷ iaⁿ⁵ le²	i1 cho3 sur7 iann5 lur2	149
+i¹ zoh⁴ u⁶ zêg⁸gai⁵ ghuêh⁸	i1 choh4 u6 chek8 kai5 gueh8	99
+i¹ zong¹gu² si⁶ ziêⁿ³sêⁿ¹	i1 chong1 ku2 si6 chienn3 senn1	99
+i¹ hauⁿ³iam²giaⁿ³	i1 haunn3 iam2 kiann3	99
+i¹ huan⁵liou² bhuê⁷ke³	i1 huan5 liou2 bue7 khur3	99
+i¹ gai² kang¹kuê³ si⁶ dang³zai⁶	i1 kai2 khang1 khue3 si6 tang3 chai6	99
+i¹ gai⁵ huê²tau⁵ oi⁶zai⁶	i1 kai5 hue2 thau5 oi6 chai6	99
+i¹ gai⁵ lai⁶ bho⁵mih⁴ gê¹si¹	i1 kai5 lai6 bo5 mih4 ke1 si1	99
+i¹ gai⁵ miaⁿ⁵siaⁿ¹ koih⁴nang⁵ o¹lo²	i1 kai5 miann5 siann1 khoih4  nang5 o1 lo2	149
+i¹ gai⁵ si⁶ ziêⁿ³sêⁿ¹	i1 kai5 si6 chienn3 senn1	99
+i¹ gai⁵ tau⁵moⁿ⁵ re⁵re⁵	i1 kai5 thau5 monn5 jur5 jur5	99
+i¹ gai⁵ uaⁿ³ aiⁿ³an³gau³ maⁿ³ki²	i1 kai5 uann3 ainn3 an3 kau3 mann3 khi2	99
+i¹ gau²ziah⁴ ziên³zun⁵ ziu⁶ ke³ bhu⁷ hog⁴ziu¹	i1 kau2 chiah4 chien3 chun5 chiu6 khur3 bu7 hok4 chiu1	99
+i¹ kia⁶diam⁷ ziaⁿ³aiⁿ³lai⁵	i1 khia6 tiam7 chiann3 ainn3 lai5	99
+i¹ kia⁶diam⁷ ziu⁶ loh⁸lai⁵	i1 khia6 tiam7 chiu6 loh8  lai5	99
+i¹ koih⁴ ua² liah⁸diêh⁸	i1 khoih4 ua2 liah8  tieh8	99
+i¹ lai⁵lo⁷	i1 lai5  lo7	99
+i¹ lai⁵sun⁵ le²	i1 lai5 sun5 lur2	149
+i¹ m⁶hauⁿ³ ke³	i1 m6 haunn3 khur3	149
+i¹ m⁶in³	i1 m6 in3	149
+i¹ m⁶gaⁿ²	i1 m6 kann2	149
+i¹ m⁶lai⁵	i1 m6 lai5	149
+i¹ maⁿ³ki² aiⁿ³lai⁵	i1 mann3 khi2 ainn3 lai5	99
+i¹ oi⁶zau²	i1 oi6 chau2	99
+i¹ oi⁶zau² mêⁿ²guê³ ua²	i1 oi6 chau2 menn2 kue3 ua2	99
+i¹ oi⁶siu⁵	i1 oi6 siu5	149
+i¹ buah⁸ gau³ ka¹ zih⁸ke³	i1 puah8 kau3 kha1 chih8  khur3	186
+i¹ bun¹ lui⁵gong¹ ka³si²	i1 pun1 lui5 kong1 kha3 si2	99
+i¹ bun¹ ua²	i1 pun1 ua2	99
+i¹ bun¹nang⁵ tai⁵	i1 pun1  nang5 thai5	149
+i¹ si²lo⁷	i1 si2  lo7	99
+i¹ si⁶ sin¹gau³gai⁵nang⁵	i1 si6 sin1 kau3  kai5 nang5	149
+i¹ daⁿ³ hiaⁿ³ziaⁿ³zoi⁷ uê⁷	i1 tann3 hiann3 chiann3 choi7 ue7	99
+i¹ daⁿ³ i¹ aiⁿ³lai⁵	i1 tann3 i1 ainn3 lai5	99
+i¹ do⁶ sim² zêg⁸diou⁵ tai⁵nang⁵ uaⁿ³	i1 to6 sim2 chek8 tiou5 thai5 nang5 uann3	149
+i¹ u⁶ ru²zoi⁷ ua²	i1 u6 ju2 choi7 ua2	99
+i¹nang⁵	i1  nang5	199
+i¹gai⁵ bêⁿ⁷ dang⁶	i1 kai5 penn7 tang6	99
+i¹nguan⁵	i1 nguan5	99
+i²	i2	3599
+i³	i3	8299
+i³se³	i3 sur3	99
+i⁵	i5	14799
+i⁵diêⁿ⁶	i5 tienn6	99
+i⁶	i6	2999
+ia¹	ia1	699
+ia²	ia2	1299
+ia²iêⁿ⁷	ia2 ienn7	199
+ia⁵	ia5	1799
+ia⁵sou¹	ia5 sou1	99
+ia⁵sou¹ga³	ia5 sou1 ka3	99
+ia⁷	ia7	1299
+ia⁷ bho⁵ ziah⁸ nang⁵ gai⁵ ziⁿ⁵	ia7 bo5 chiah8 nang5 kai5 chinn5	149
+ia⁷zêng²	ia7 cheng2	99
+iah⁴	iah4	699
+iah⁸	iah8	1299
+iah⁸ciu²	iah8 chhiu2	99
+iag⁴	iak4	6599
+iag⁴bho²liang⁶ boih⁴nang⁵	iak4 bo2 liang6 poih4 nang5	149
+iag⁴liang⁶	iak4 liang6	99
+iag⁸	iak8	799
+iam¹	iam1	4099
+iam¹goi¹	iam1 koi1	149
+iam²	iam2	4399
+iam³	iam3	1199
+iam⁵	iam5	499
+iam⁵siou¹	iam5 siou1	99
+iam⁵dih⁸	iam5 tih8	99
+iam⁷	iam7	3199
+iang¹	iang1	9699
+iang²	iang2	3899
+iang²iog⁸	iang2 iok8	99
+iang²giaⁿ²	iang2 kiann2	149
+iang³	iang3	1399
+iang³mag⁸	iang3 mak8	99
+iang⁵	iang5	9699
+iang⁵cia¹ huê²zun⁵	iang5 chhia1 hue2 chun5	99
+iang⁶	iang6	5699
+iang⁷	iang7	1299
+iaⁿ²	iann2	699
+iaⁿ⁵	iann5	1399
+iaⁿ⁵guê³	iann5  kue3	99
+iaⁿ⁵guê³	iann5 kue3	99
+iaⁿ⁵lau⁶ia⁵	iann5 lau6 ia5	99
+iaⁿ⁵buaⁿ⁵	iann5 puann5	199
+iab⁴	iap4	1599
+iab⁸	iap8	799
+iab⁸iab⁸sih⁴	iap8 iap8 sih4	99
+iau¹	iau1	4199
+iau²	iau2	399
+iau³	iau3	399
+iau⁵	iau5	4399
+iau⁶	iau6	1199
+iê¹	ie1	399
+iê¹ziah⁴gud⁴	ie1 chiah4 kut4	199
+iê¹gu¹	ie1 ku1	299
+iê¹gud⁴	ie1 kut4	99
+iê¹lêng⁵gud⁴	ie1 leng5 kut4	99
+iê²	ie2	199
+iê² goi¹tng¹ gai⁵ si⁵	ie2 koi1 thng1 kai5 si5	149
+iê²diou⁷zui²	ie2 tiou7 chui2	99
+iê⁵	ie5	799
+iê⁵zêng¹	ie5 cheng1	99
+iê⁵gou²	ie5 kou2	99
+iê⁵naⁿ⁵	ie5 nann5	99
+iê⁶	ie6	199
+iêh⁴	ieh4	499
+iêh⁴ri⁷	ieh4 ji7	99
+iêh⁸	ieh8	399
+iêh⁸bhuah⁸	ieh8 buah8	99
+iêh⁸hng¹	ieh8 hng1	99
+iêh⁸hun²	ieh8 hun2	99
+iêh⁸iⁿ²	ieh8 inn2	99
+iêh⁸gui²	ieh8 kui2	99
+iêh⁸gen¹	ieh8 kurn1	99
+iêh⁸duaⁿ¹	ieh8 tuann1	99
+iêm¹	iem1	999
+iêm²	iem2	1099
+iêm³	iem3	299
+iêm⁵	iem5	99
+iêm⁷	iem7	799
+iên³	ien3	99
+iên³cai³	ien3 chhai3	99
+iên³o¹	ien3 o1	99
+iêng¹	ieng1	999
+iêng²	ieng2	199
+iêng³	ieng3	99
+iêng⁵	ieng5	599
+iêng⁶	ieng6	799
+iêng⁷	ieng7	99
+iêⁿ¹	ienn1	199
+iêⁿ⁵	ienn5	2399
+iêⁿ⁵bhah⁴	ienn5 bah4	99
+iêⁿ⁵bhuê⁵	ienn5 bue5	99
+iêⁿ⁵zun⁵	ienn5 chun5	99
+iêⁿ⁵moⁿ⁵	ienn5 monn5	99
+iêⁿ⁵nêg⁸	ienn5 nek8	99
+iêⁿ⁵do⁵	ienn5 to5	99
+iêⁿ⁷	ienn7	1099
+iêⁿ⁷iêⁿ⁷ i¹ ze²lai⁵ ho²zai⁶	ienn7 ienn7 i1 chur2 lai5 ho2 chai6	99
+iêb⁴	iep4	399
+iêb⁸	iep8	199
+ig⁴	ik4	2499
+ig⁸	ik8	3699
+im¹	im1	2599
+im²	im2	499
+im³	im3	1999
+im⁵	im5	1499
+im⁵se⁷	im5 sur7	99
+in¹	in1	249
+in¹ bhuê⁷ ke³	in1 bue7 khur3	99
+in¹ gau³lo⁷	in1 kau3  lo7	99
+in¹ si⁶ ghua⁷nang⁵; i¹nang⁵ si⁶ ghua⁷nang⁵	in1 si6 gua7 nang5; i1  nang5 si6 gua7 nang5	149
+in¹zi¹	in1 chi1	99
+in¹gê³	in1 ke3	99
+in¹ng⁷	in1 ng7	99
+in¹niⁿ⁵	in1 ninn5	99
+in¹dang⁵	in1 tang5	449
+in¹uan¹ kid⁴kêg⁴	in1 uan1 khit4 khek4	99
+in¹ui⁵	in1 ui5	99
+in¹ui⁵ ua² m⁶ke³	in1 ui5 ua2 m6 khur3	149
+in²	in2	99
+in²zin³	in2 chin3	199
+in²iu²	in2 iu2	99
+in³	in3	499
+in³boiⁿ²	in3 poinn2	99
+in³sêg⁴	in3 sek4	99
+in³sêng⁵	in3 seng5	99
+in⁵	in5	299
+in⁵zi²	in5 chi2	199
+in⁵bid⁴	in5 pit4	99
+in⁵di⁵	in5 ti5	99
+ing¹	ing1	7399
+ing²	ing2	1799
+ing³	ing3	899
+ing⁵	ing5	2299
+ing⁷	ing7	499
+iⁿ²	inn2	3699
+iⁿ²giaⁿ²	inn2 kiann2	149
+iⁿ²tau⁵	inn2 thau5	99
+iⁿ³	inn3	699
+iⁿ³ziou²	inn3 chiou2	99
+iⁿ⁵	inn5	2699
+iⁿ⁵cng⁵ lai⁵sai⁷ bang³hiê²…	inn5 chhng5 lai5 sai7 pang3 hie2…	149
+iⁿ⁷	inn7	1399
+io¹	io1	399
+io²	io2	399
+io⁵	io5	1599
+ioh⁴	ioh4	399
+ioh⁸	ioh8	399
+iog⁸	iok8	5399
+iong¹	iong1	4799
+iong²	iong2	4599
+iong²ziang³	iong2 chiang3	199
+iong³	iong3	4299
+iong⁵	iong5	12799
+iong⁵su³	iong5 su3	99
+iong⁶	iong6	599
+ioⁿ¹	ionn1	399
+ioⁿ⁵	ionn5	4399
+ioⁿ⁷	ionn7	399
+iou¹	iou1	2199
+iou²	iou2	199
+iou²ho²	iou2 ho2	99
+iou³	iou3	199
+iou⁵	iou5	2199
+iou⁵ngan⁵	iou5 ngan5	99
+iou⁶	iou6	599
+ib⁴	ip4	2499
+ib⁴za³	ip4 cha3	99
+id⁴	it4	99
+id⁴ho²	it4 ho2	99
+id⁴did⁴	it4 tit4	199
+id⁸	it8	99
+iu¹	iu1	3099
+iu²	iu2	7799
+iu⁵	iu5	12899
+iu⁵zua²	iu5 chua2	99
+iu⁵suêh⁴	iu5 sueh4	99
+iu⁶	iu6	5299
+iu⁷	iu7	699
+iuⁿ³	iunn3	699
+iuⁿ³bhi²	iunn3 bi2	99
+iuⁿ³iuⁿ³	iunn3 iunn3	99
+iuⁿ⁵	iunn5	99
+rêg⁸	jek8	99
+rêng²	jeng2	99
+rêng⁵	jeng5	799
+rêng⁶	jeng6	899
+rêng⁷	jeng7	99
+ri⁵	ji5	599
+ri⁵sai³	ji5 sai3	99
+ri⁶	ji6	99
+ri⁶ghuêh⁸	ji6  gueh8	99
+ri⁶ghuêh⁸ huan⁵liou² si⁶ cin³	ji6  gueh8 huan5 liou2 si6 chhin3	99
+ri⁶zab⁴	ji6 chap4	199
+ri⁶zab⁸id⁴	ji6 chap8 it4	199
+ri⁶zab⁸ri⁶	ji6 chap8 ji6	199
+ri⁶ciu²	ji6 chhiu2	99
+ri⁶huê²	ji6 hue2	99
+ri⁶gê¹	ji6 ke1	99
+ri⁶gêⁿ¹	ji6 kenn1	99
+ri⁶nang⁵	ji6 nang5	149
+ri⁷	ji7	4999
+ri⁷bho²	ji7 bo2	99
+ri⁷ho⁷	ji7 ho7	199
+ri⁷bêh⁸	ji7 peh8	99
+ri⁷boiⁿ²	ji7 poinn2	99
+ri⁷diên²	ji7 tien2	99
+ria²	jia2	1799
+riag⁸	jiak8	3699
+riam²	jiam2	2399
+riang²	jiang2	5599
+riang⁵	jiang5	3199
+riang⁶	jiang6	599
+riab⁸	jiap8	799
+riau²	jiau2	1599
+riau³	jiau3	1199
+riau⁵	jiau5	1199
+riê⁵	jie5	299
+riê⁷	jie7	299
+riê⁷hu⁵	jie7 hu5	99
+riê⁷pa¹	jie7 pha1	199
+riêh⁸	jieh8	99
+riêg⁸	jiek8	99
+riêm²	jiem2	599
+riêng⁵	jieng5	399
+riêb⁸	jiep8	199
+riêd⁸	jiet8	449
+rih⁴	jih4	699
+rih⁸	jih8	1299
+rig⁸	jik8	599
+rim²	jim2	6799
+rim⁶	jim6	1999
+rim⁶i³	jim6 i3	99
+rim⁷	jim7	499
+rin⁵	jin5	99
+rin⁵ce⁵	jin5 chhur5	99
+rin⁵siam¹	jin5 siam1	99
+rin⁷	jin7	499
+rin⁷co³	jin7 chho3	99
+rin⁷cud⁴	jin7 chhut4	99
+rin⁷zuê⁶	jin7 chue6	99
+ring²	jing2	1499
+ring⁵	jing5	999
+ring⁶	jing6	399
+ring⁷	jing7	599
+rio⁵	jio5	399
+rio⁷	jio7	399
+riong²	jiong2	599
+riong⁵	jiong5	1799
+riou²	jiou2	899
+riou³	jiou3	599
+riou³sê¹	jiou3 se1	99
+riou⁵	jiou5	599
+riou⁷	jiou7	299
+riou⁷ m⁶diêh⁸	jiou7 m6 tieh8	149
+rib⁸	jip8	699
+rib⁸lai⁵	jip8  lai5	99
+rib⁸huê⁶	jip8 hue6	99
+rib⁸ga³	jip8 ka3	99
+rib⁸kau²huê³	jip8 khau2 hue3	99
+rib⁸bin²	jip8 pin2	99
+rib⁸siu³zai⁵	jip8 siu3 chai5	99
+rib⁸diaⁿ⁵	jip8 tiann5	99
+rid⁸	jit8	199
+rid⁸ am³	jit8 am3	99
+rid⁸ am³ diêh⁸ ke³ud⁸	jit8 am3 tieh8 khur3 ut8	99
+rid⁸ bhuê⁷am³	jit8 bue7 am3	99
+rid⁸ zêg⁸ê⁷ cud⁴ mong⁵in¹ ziu⁶suaⁿ³	jit8 chek8 e7 chhut4 mong5 in1 chiu6 suann3	149
+rid⁸ sih⁸	jit8 sih8	99
+rid⁸ uaⁿ³	jit8 uann3	99
+rid⁸gua³	jit8  kua3	99
+rid⁸cêng¹	jit8 chheng1	149
+rid⁸zi²	jit8 chi2	99
+rid⁸rid⁸	jit8 jit8	99
+rid⁸gui¹	jit8 kui1	99
+rid⁸dau³	jit8 tau3	199
+rid⁸dog⁸	jit8 tok8	99
+riu²	jiu2	599
+riu³	jiu3	599
+riu⁵	jiu5	2999
+riu⁵he⁵	jiu5 hur5	199
+rog⁸	jok8	3099
+rog⁸ kiêh⁸ ke³ pag⁸	jok8 khieh8 khur3 phak8	99
+rong²	jong2	1199
+rong⁵	jong5	2699
+ru²	ju2	5199
+ru²bho²	ju2 bo2	99
+ru²zoi⁷ ru²ho²	ju2 choi7 ju2 ho2	99
+ru²ho²	ju2 ho2	199
+ru²m⁶moⁿ²	ju2 m6 monn2	149
+ru⁵	ju5	19399
+ru⁶	ju6	3999
+ru⁷	ju7	99
+ruah⁸	juah8	499
+ruah⁸bou³	juah8 pou3	149
+ruah⁸saⁿ¹	juah8 sann1	149
+ruag⁸	juak8	1099
+ruan²lou⁵	juan2 lou5	99
+ruan⁶ dou¹ho²	juan6 tou1 ho2	99
+ruang²	juang2	1099
+ruê⁵	jue5	599
+ruê⁶	jue6	1799
+ruê⁷	jue7	1799
+ruêg⁸	juek8	199
+ruêng²	jueng2	299
+ruh⁸	juh8	599
+rui²	jui2	599
+rui⁵	jui5	2399
+rui⁶	jui6	1199
+run⁷	jun7	199
+run⁷ghuêh⁸	jun7 gueh8	99
+run⁷ngou⁶	jun7 ngou6	99
+rung²	jung2	1799
+rung⁶	jung6	599
+rung⁷	jung7	599
+re²	jur2	3999
+re⁵	jur5	799
+re⁵re⁵	jur5 jur5	199
+re⁶	jur6	1999
+re⁷	jur7	499
+ga¹	ka1	1699
+ga¹ gi⁷	ka1 ki7	199
+ga1 gi⁷	ka1 ki7	198
+ga¹ gi⁷ nang⁵	ka1 ki7 nang5	199
+ga1 gi7 nang⁵	ka1 ki7 nang5	198
+ga¹ mo⁵	ka1 mo5	199
+ga1 mo⁵	ka1 mo5	198
+ga¹ do¹	ka1 to1	199
+ga1 do¹	ka1 to1	198
+ga¹zau²	ka1 chau2	199
+ga¹ziah⁴	ka1 chiah4	199
+ga¹zuah⁸	ka1 chuah8	99
+ga¹gi⁷	ka1 ki7	199
+ga¹gi⁷nang⁵	ka1 ki7 nang5	99
+ga¹lauh⁸	ka1 lauh8	99
+ga¹li⁵	ka1 li5	299
+ga¹li⁵ maiⁿ³ze² kah⁴hiam¹	ka1 li5 mainn3 chur2 khah4 hiam1	99
+ga¹li⁵bhuah⁸	ka1 li5 buah8	99
+ga¹bou³	ka1 pou3	99
+ga¹bua³	ka1 pua3	99
+ga¹saⁿ¹kou³	ka1 sann1 khou3	99
+ga¹sau³	ka1 sau3	99
+ga¹do¹	ka1 to1	199
+ga²	ka2	1699
+ga²tiaⁿ³	ka2 thiann3	99
+ga³	ka3	4199
+ga³ze¹ sin¹sêⁿ¹	ka3 chur1 sin1 senn1	99
+ga³oi⁶sêg⁸	ka3 oi6 sek8	99
+ga⁶	ka6	799
+ga⁷	ka7	599
+ga⁷ga⁷giê³	ka7 ka7 kie3	149
+gah⁴	kah4	2799
+gah⁴ i¹ daⁿ³ ua² zi²go³ aiⁿ³zo³ lan⁵gan¹	kah4 i1 tann3 ua2 chi2 ko3 ainn3 cho3 lan5 kan1	99
+gah⁴ kiêh⁸ zêg⁸diêⁿ¹ zua²	kah4 khieh8 chek8 tienn1 chua2	99
+gah⁴giaⁿ²	kah4 kiann2	149
+gai¹	kai1	7199
+gai³	kai3	10799
+gai³luah⁸	kai3 luah8	99
+gai⁵	kai5	699
+gai⁵gai⁵ loi²bai³ diêh⁸ soi² cêng¹kih⁴ cêng¹kih⁴	kai5 kai5 loi2 pai3 tieh8 soi2 chheng1 khih4 chheng1 khih4	149
+gai⁵gai⁵ bou¹tau⁵ dou¹ u⁶ ci⁶	kai5 kai5 pou1 thau5 tou1 u6 chhi6	99
+gai⁵ngen⁵ kiêh⁸ke³ dau²ziⁿ⁵	kai5 ngurn5 khieh8 khur3 tau2 chinn5	99
+gaiⁿ¹	kainn1	599
+gaiⁿ²	kainn2	799
+gaiⁿ³	kainn3	199
+gag⁴	kak4	3999
+gag⁴guê¹	kak4 kue1	99
+gag⁴nang⁵	kak4 nang5	149
+gag⁴tau⁵	kak4 thau5	99
+gag⁸	kak8	199
+gag⁸diou³	kak8 tiou3	199
+gam¹	kam1	3299
+gam¹bhid⁸	kam1 bit8	99
+gam¹zêg⁴	kam1 chek4	99
+gam¹cau²	kam1 chhau2	99
+gam¹nguan⁶	kam1 nguan6	199
+gam¹tang⁵	kam1 thang5	149
+gam²	kam2	599
+gam²sia⁷	kam2 sia7	299
+gam²en¹	kam2 urn1	99
+gam³	kam3	2999
+gan¹ na²	kan1 na2	199
+gan1 na²	kan1 na2	198
+gan¹zêng³	kan1 cheng3	199
+gan¹hu¹	kan1 hu1	149
+gan¹im⁵	kan1 im5	149
+gan¹kou²	kan1 khou2	599
+gang¹	kang1	14699
+gang¹ hu¹ dê⁵	kang1 hu1 te5	199
+gang1 hu1 dê⁵	kang1 hu1 te5	198
+gang¹ziⁿ⁵	kang1 chinn5	199
+gang¹ze¹	kang1 chur1	199
+gang¹he⁵	kang1 hur5	99
+gang²	kang2	6899
+gang²giu³	kang2 kiu3	99
+gang²lun⁶	kang2 lun6	99
+gang³	kang3	6599
+gang³kib⁴	kang3 khip4	199
+gang⁷	kang7	699
+gaⁿ¹	kann1	599
+gaⁿ¹naⁿ²	kann1 nann2	99
+gaⁿ²	kann2	1499
+gaⁿ³	kann3	699
+gaⁿ³bho²	kann3 bo2	99
+gab⁴	kap4	1499
+gab⁴ze¹cêh⁴	kap4 chur1 chheh4	99
+gab⁴ban²	kap4 pan2	99
+gab⁴bo⁵	kap4 po5	99
+gad⁴	kat4	299
+gad⁴did⁸	kat4 tit8	99
+gad⁴uaⁿ³	kat4 uann3	99
+gau¹	kau1	11799
+gau¹ i¹ bun¹ cê¹hiah⁸ gai² ciu²	kau1 i1 pun1 chhe1 hiah8 kai2 chhiu2	99
+gau¹ dai³	kau1 tai3	199
+gau1 dai³	kau1 tai3	198
+gau¹cab⁴	kau1 chhap4	299
+gau¹ziên³	kau1 chien3	199
+gau¹iⁿ²	kau1 inn2	299
+gau¹gua³	kau1 kua3	99
+gau¹guan¹	kau1 kuan1	149
+gau¹guan¹gai⁵nang⁵	kau1 kuan1  kai5 nang5	186
+gau¹li⁵	kau1 li5	99
+gau¹sêng¹	kau1 seng1	99
+gau²	kau2	7999
+gau²bho²	kau2 bo2	99
+gau²goih⁴	kau2 koih4	99
+gau³	kau3	4099
+gau³zai⁷	kau3 chai7	99
+gau³cai²guan²	kau3 chhai2 kuan2	99
+gau³zui²	kau3 chui2	99
+gau³niêⁿ⁵	kau3 nienn5	199
+gau⁵	kau5	1399
+gau⁶	kau6	699
+gau⁶lag⁸	kau6 lak8	199
+gau⁶uêh⁸	kau6 ueh8	99
+gau⁷	kau7	99
+gauh⁴	kauh4	99
+gauh⁴ki²	kauh4  khi2	99
+gê¹	ke1	2799
+gê¹ zêg⁸ê⁷ ziu⁶ aiⁿ³giaⁿ⁵	ke1 chek8 e7 chiu6 ainn3 kiann5	99
+gê¹ m⁶gu² ziu⁶ ziaⁿ¹ghuêh⁸	ke1 m6 ku2 chiu6 chiann1  gueh8	149
+gê¹ si¹	ke1 si1	199
+gê1 si¹	ke1 si1	198
+gê¹zu²	ke1 chu2	99
+gê¹ze¹	ke1 chur1	99
+gê¹huê²	ke1 hue2	399
+gê¹guan³	ke1 kuan3	99
+gê¹lai⁶	ke1 lai6	99
+gê¹mêⁿ⁵	ke1 menn5	149
+gê¹mêⁿ⁵ i¹ m⁶do⁶	ke1 menn5 i1 m6 to6	186
+gê¹ngiab⁸	ke1 ngiap8	199
+gê¹nouⁿ¹	ke1 nounn1	99
+gê¹si¹	ke1 si1	199
+gê¹sin⁵	ke1 sin5	99
+gê¹se⁷	ke1 sur7	199
+gê¹diêⁿ²	ke1 tienn2	199
+gê²	ke2	999
+gê²ciu²bid⁴	ke2 chhiu2 pit4	99
+gê²in³	ke2 in3	99
+gê³	ke3	3199
+gê³ziⁿ⁵	ke3 chinn5	199
+gê³ziⁿ⁵ gê¹ zêg⁸uê⁵	ke3 chinn5 ke1 chek8 ue5	99
+gê³ziⁿ⁵ daⁿ³diaⁿ⁷diêh⁸	ke3 chinn5 tann3 tiann7 tieh8	99
+gê⁵	ke5	1299
+gê⁶	ke6	299
+gê⁶zng¹	ke6 chng1	149
+gê⁶bin²	ke6 pin2	99
+gêh⁴	keh4	4499
+gêh⁴niⁿ⁶	keh4 ninn6	99
+gêh⁸	keh8	599
+gêg⁴	kek4	8499
+gêg⁴ziu²	kek4 chiu2	99
+gêg⁴huê¹	kek4 hue1	99
+gêg⁴si²	kek4 si2	99
+gêg⁴sim¹	kek4 sim1	99
+gêg⁸	kek8	2399
+gêng¹	keng1	5799
+gêng¹ ziê¹	keng1 chie1	99
+gêng1 ziê¹	keng1 chie1	98
+gêng¹ zio¹	keng1 chio1	99
+gêng1 zio¹	keng1 chio1	98
+gêng¹ dêg⁸	keng1 tek8	199
+gêng1 dêg⁸	keng1 tek8	198
+gêng¹bhiê⁷	keng1 bie7	99
+gêng¹ziê¹	keng1 chie1	149
+gêng²	keng2	4299
+gêng³	keng3	1799
+gêng³ho²	keng3 ho2	199
+gêng³dong⁶	keng3 tong6	199
+gêng⁵	keng5	199
+gêng⁶	keng6	1899
+gêⁿ¹	kenn1	4199
+gêⁿ¹zoh⁴	kenn1 choh4	99
+gêⁿ¹bou³	kenn1 pou3	99
+gêⁿ²	kenn2	3599
+gêⁿ²diêh⁸	kenn2  tieh8	149
+gêⁿ²diêh⁸au⁵	kenn2 tieh8 au5	149
+gêⁿ³	kenn3	4599
+ka¹	kha1	1073
+ka¹au⁶dêⁿ¹	kha1 au6 tenn1	186
+ka¹ciu² zoi⁷	kha1 chhiu2 choi7	186
+ka¹ciu² maiⁿ³zoi⁷	kha1 chhiu2 mainn3 choi7	186
+ka¹cng¹boiⁿ⁵	kha1 chhng1 poinn5	149
+ka¹zoiⁿ²	kha1 choinn2	186
+ka¹kau³	kha1 khau3	186
+ka¹giau²	kha1 kiau2	99
+ka¹liam⁵	kha1 liam5	186
+ka¹mag⁸	kha1 mak8	186
+ka¹niam⁵	kha1 niam5	99
+ka¹buaⁿ⁵	kha1 puann5	99
+ka¹dah⁸iⁿ²	kha1 tah8 inn2	186
+ka¹tang²	kha1 thang2	186
+ka¹tang² co⁷zui²	kha1 thang2 chho7 chui2	186
+ka¹tau⁵u¹	kha1 thau5 u1	186
+ka¹tui²	kha1 thui2	373
+ka¹dng⁵dou²	kha1 tng5 tou2	99
+ka¹doi²	kha1 toi2	186
+ka²	kha2	2999
+ka³	kha3	1999
+ka³loi⁷long¹	kha3 loi7 long1	149
+ka³pua³	kha3 phua3	99
+ka³sng³buaⁿ⁵	kha3 sng3 puann5	149
+ka³diên⁶bo³	kha3 tien6 po3	99
+kah⁴	khah4	199
+kah⁴kuah⁴	khah4 khuah4	149
+kah⁴gin²	khah4 kin2	99
+kah⁴oih⁸	khah4 oih8	99
+kai¹	khai1	1799
+kai¹ ngang⁵	khai1 ngang5	99
+kai1 ngang⁵	khai1 ngang5	98
+kai¹bang³	khai1 pang3	99
+kai²	khai2	5399
+kai³	khai3	3599
+kag⁴	khak4	14099
+kam¹	kham1	2499
+kam¹gai¹	kham1 kai1	199
+kam²	kham2	3199
+kam³	kham3	1249
+kam⁵kiad⁸	kham5 khiat8	99
+kam⁶	kham6	99
+kan¹	khan1	99
+kan¹bhê²soh⁴	khan1 be2 soh4	99
+kan¹sêng⁵	khan1 seng5	99
+kan¹tua¹	khan1 thua1	99
+kang¹	khang1	7599
+kang¹ kuê³	khang1 khue3	199
+kang1 kuê³	khang1 khue3	198
+kang¹kag⁴	khang1 khak4	99
+kang¹kuê³	khang1 khue3	99
+kang¹sim¹dou² ziah⁸	khang1 sim1 tou2 chiah8	99
+kang²	khang2	599
+kang³	khang3	5199
+kang³cng⁵	khang3 chhng5	349
+kang⁵	khang5	399
+kab⁴	khap4	6649
+kab⁴in³	khap4 in3	299
+kad⁴kou²	khat4 khou2	199
+kad⁴kou²lun²	khat4 khou2 lun2	99
+kad⁴kou²naiⁿ⁶	khat4 khou2 nainn6	99
+kau¹	khau1	1299
+kau²	khau2	3999
+kau²gêng¹	khau2 keng1	199
+kau²gêng¹ siang¹hua⁵	khau2 keng1 siang1 hua5	99
+kau²gêng¹ siang¹huan²	khau2 keng1 siang1 huan2	99
+kau²mng⁷	khau2 mng7	449
+kau³	khau3	3799
+kêh⁴	kheh4	1999
+kêh⁴siang¹	kheh4 siang1	99
+kêh⁴diam³	kheh4 tiam3	99
+kêg⁴	khek4	2199
+kêng¹	kheng1	2199
+kêng²	kheng2	2699
+kêng³	kheng3	2399
+kêng⁵	kheng5	5199
+kêng⁶	kheng6	299
+kêng⁶ u⁶ gê¹gê¹ sêg⁴	kheng6 u6 ke1 ke1 sek4	99
+kêⁿ¹	khenn1	1399
+ki¹	khi1	2999
+ki¹ku¹	khi1 khu1	199
+ki²	khi2	5199
+ki² ciu³	khi2 chhiu3	199
+ki2 ciu³	khi2 chhiu3	198
+ki²lai⁵	khi2  lai5	199
+ki²ciu³	khi2 chhiu3	99
+ki²cu³	khi2 chhu3	99
+ki²huê²	khi2 hue2	99
+ki²huê³	khi2 hue3	199
+ki²gê³	khi2 ke3	99
+ki²giaⁿ⁵	khi2 kiann5	99
+ki²ngen⁵	khi2 ngurn5	199
+ki²sin¹	khi2 sin1	99
+ki²tau⁵	khi2 thau5	199
+ki²tiaⁿ³	khi2 thiann3	99
+ki³	khi3	5699
+ki³bhi⁷	khi3 bi7	199
+ki³gu⁶	khi3 ku6	99
+ki³lad⁸	khi3 lat8	199
+ki⁵	khi5	16499
+ki⁵i⁶	khi5 i6	99
+ki⁵ka²	khi5 kha2	299
+ki⁵ka²muêh⁸	khi5 kha2 mueh8	99
+ki⁵sid⁸	khi5 sit8	99
+ki⁵dau²	khi5 tau2	99
+ki⁵e⁵	khi5 ur5	99
+ki⁷	khi7	599
+kia¹	khia1	199
+kia³	khia3	599
+kia⁵	khia5	699
+kia⁵bhê²	khia5 be2	99
+kia⁶	khia6	1499
+kia⁶ki²lai⁵	khia6  khi2 lai5	99
+kia⁶ki²	khia6 khi2	199
+kia⁶diam⁷ aiⁿ³loh⁸hou⁶	khia6 tiam7 ainn3 loh8 hou6	99
+kia⁶diam⁷ aiⁿ³pu⁵ dua⁷huang¹êng⁵	khia6 tiam7 ainn3 phu5 tua7 huang1 eng5	99
+kia⁶do⁶ka¹tau⁷gai⁵nang⁵	khia6 to6 kha1 thau7  kai5 nang5	196
+kiah⁴	khiah4	599
+kiag⁴	khiak4	16699
+kiam¹	khiam1	399
+kiam²	khiam2	1199
+kiam³	khiam3	699
+kiam³nang⁵gai⁵zê³	khiam3 nang5 kai5 che3	149
+kiam³nang⁵gai⁵ziⁿ⁵	khiam3 nang5 kai5 chinn5	299
+kiam⁵	khiam5	1999
+kiam⁶	khiam6	999
+kiang¹	khiang1	3799
+kiang²	khiang2	4699
+kiang³	khiang3	499
+kiang⁵	khiang5	2199
+kiang⁶	khiang6	199
+kiau¹	khiau1	1599
+kiau³	khiau3	399
+kiau⁵	khiau5	3599
+kiau⁵co²	khiau5 chho2	99
+kiêh⁴	khieh4	99
+kiêh⁴hiang³	khieh4 hiang3	99
+kiêh⁴hen⁶	khieh4 hurn6	99
+kiêh⁴sib⁸	khieh4 sip8	99
+kiêh⁸	khieh8	199
+kiêh⁸ zêg⁸ bo¹li⁵buê¹ cin³zui² koih⁴ ua²	khieh8 chek8 po1 li5 pue1 chhin3 chui2 khoih4 ua2	99
+kiêh⁸ zêg⁸tui²	khieh8 chek8 thui2	99
+kiêh⁸ zêg⁸diou² cêng¹kih⁴ gai⁵ êg⁸bou³ lai⁵	khieh8 chek8 tiou2 chheng1 khih4 kai5 ek8 pou3 lai5	149
+kiêh⁸ lai⁵ bhua⁵	khieh8 lai5 bua5	99
+kiêh⁸ bun³bê⁵ ke³ bê⁵ cêng¹kih⁴	khieh8 pun3 pe5 khur3 pe5 chheng1 khih4	149
+kiêh⁸ ua² gai⁵ siu¹ gah⁴ sad⁴bin³ lai⁵	khieh8 ua2 kai5 siu1 kah4 sat4 pin3 lai5	99
+kiêh⁸lai⁵	khieh8  lai5	199
+kiêh⁸diaⁿ⁷	khieh8  tiann7	99
+kiêh⁸dêng³	khieh8 teng3	99
+kiêg⁴	khiek4	3099
+kiêm¹	khiem1	99
+kiêm²	khiem2	299
+kiêm³	khiem3	99
+kiêm⁵	khiem5	499
+kiêm⁶	khiem6	199
+kiêng¹	khieng1	699
+kiêng²	khieng2	799
+kiêng⁵	khieng5	99
+kiêⁿ¹	khienn1	199
+kih⁴cui³	khih4 chhui3	149
+kig⁴	khik4	899
+kim¹	khim1	3099
+kim¹cê¹	khim1 chhe1	99
+kim²	khim2	499
+kim⁵	khim5	3099
+kim⁵siu³	khim5 siu3	199
+kin¹	khin1	99
+king¹	khing1	2099
+king²	khing2	99
+king⁵	khing5	799
+kiⁿ²	khinn2	99
+kiog⁴	khiok4	2999
+kiong²	khiong2	1199
+kiong⁵	khiong5	3599
+kioⁿ¹	khionn1	399
+kiou¹	khiou1	999
+kiou¹giaⁿ²nang⁵ ziah⁸ muêⁿ⁵ puê³ giam⁵cai³	khiou1 kiann2 nang5 chiah8 muenn5 phue3 kiam5 chhai3	186
+kiou³	khiou3	199
+kiou³bhuê²	khiou3 bue2	99
+kiou³tau⁵si¹	khiou3 thau5 si1	99
+kiou⁵	khiou5	1799
+kiou⁵co²	khiou5 chho2	99
+kib⁴	khip4	3999
+kiu¹	khiu1	3599
+kiu⁵	khiu5	3899
+kiu⁵ked⁴	khiu5 khurt4	99
+kng¹	khng1	699
+kng³	khng3	499
+kng³bhua⁵	khng3 bua5	149
+kng³goi³	khng3 koi3	199
+kng³bang³ guiⁿ⁷doi²	khng3 pang3 kuinn7 toi2	99
+kng⁷	khng7	99
+ko¹	kho1	6599
+ko²	kho2	5399
+ko²liên⁵	kho2 lien5	299
+ko²bi²	kho2 pi2	199
+ko²siêh⁴	kho2 sieh4	99
+ko²tiaⁿ³	kho2 thiann3	99
+ko²u³	kho2 u3	99
+ko³	kho3	599
+ko³si¹	kho3 si1	99
+koh⁸gou⁵	khoh8 kou5	99
+koi¹	khoi1	1399
+koi¹ciu¹	khoi1 chhiu1	99
+koi¹giⁿ⁵	khoi1 kinn5	99
+koi³	khoi3	599
+koi³cau²	khoi3 chhau2	99
+koih⁴	khoih4	699
+koih⁴bou³	khoih4 pou3	99
+koiⁿ³	khoinn3	299
+kog⁴	khok4	5399
+kong¹	khong1	1799
+kong²	khong2	1199
+kong²ciêh⁴	khong2 chhieh4	99
+kong²ze²	khong2 chur2	99
+kong²hu¹ze²	khong2 hu1 chur2	99
+kong³	khong3	1799
+kou¹	khou1	2399
+kou¹siou³	khou1 siou3	99
+kou¹tang²	khou1 thang2	149
+kou¹diou³	khou1 tiou3	149
+kou²	khou2	1399
+kou²gong²	khou2 kong2	99
+kou²guê¹	khou2 kue1	99
+kou²guê¹ ia⁷si⁶ ziah⁸liang⁵	khou2 kue1 ia7 si6 chiah8 liang5	99
+kou²miaⁿ⁷	khou2 miann7	99
+kou³	khou3	3099
+kou³ka¹	khou3 kha1	99
+kou³guêh⁸	khou3 kueh8	99
+kou³bang⁵	khou3 pang5	199
+kou³tau⁵lêng⁵	khou3 thau5 leng5	99
+kou³tau⁵dua⁷	khou3 thau5 tua7	199
+kou³tui²	khou3 thui2	99
+kou³diou³	khou3 tiou3	99
+ku¹	khu1	10799
+ku³	khu3	99
+ku⁵	khu5	1099
+ku⁶	khu6	1299
+ku⁶giaⁿ²	khu6 kiann2	149
+kua¹	khua1	4799
+kua³	khua3	2999
+kua³diêh⁸	khua3  tieh8	99
+kua³le⁶	khua3 lur6	99
+kuah⁴	khuah4	1249
+kuah⁴dag⁸	khuah4 tak8	99
+kuai³	khuai3	1199
+kuag⁴	khuak4	1799
+kuan¹	khuan1	199
+kuan¹tau³	khuan1 thau3	99
+kuan²	khuan2	499
+kuan²tai⁶	khuan2 thai6	99
+kuan⁵	khuan5	199
+kuang¹	khuang1	4299
+kuang¹zo³ zêg⁸kou¹	khuang1 cho3 chek8 khou1	149
+kuang²	khuang2	799
+kuang³	khuang3	4399
+kuang⁵	khuang5	3699
+kuaⁿ¹kuaⁿ¹	khuann1 khuann1	199
+kuaⁿ¹kuaⁿ¹ guiⁿ⁵	khuann1 khuann1 kuinn5	99
+kuaⁿ³	khuann3	99
+kuaⁿ³miaⁿ⁶ sin¹sêⁿ¹	khuann3 miann6 sin1 senn1	99
+kuaⁿ³miaⁿ⁷ sin¹sêⁿ¹	khuann3 miann7 sin1 senn1	99
+kuaⁿ³uah⁸	khuann3 uah8	299
+kuê¹	khue1	4199
+kuê³	khue3	1899
+kuê⁵	khue5	699
+kuêh⁴	khueh4	1899
+kuêng¹	khueng1	599
+kuêng²	khueng2	399
+kuêng⁵	khueng5	1199
+kuh⁴	khuh4	599
+kui¹	khui1	1499
+kui¹ iêh⁸cai⁵pou³	khui1 ieh8 chhai5 phou3	99
+kui¹ iêg⁸gui²	khui1 iek8 kui2	99
+kui¹huê¹	khui1 hue1	99
+kui¹pang⁵	khui1 phang5	99
+kui¹duaⁿ¹	khui1 tuann1	99
+kui²	khui2	2999
+kui³	khui3	799
+kui⁵	khui5	4999
+kui⁶	khui6	6599
+kug⁴	khuk4	5399
+kun²	khun2	299
+kun³	khun3	199
+kun³giaⁿ²	khun3 kiann2	149
+kun⁵	khun5	549
+kun⁵tau⁵	khun5 thau5	99
+kung¹	khung1	5399
+kung²	khung2	7199
+kung³	khung3	1199
+kung⁵	khung5	2399
+ke³	khur3	699
+ke³no⁷	khur3  no7	99
+ke³zêh⁴	khur3 cheh4	99
+ke³cu³	khur3 chhu3	99
+ke⁵	khur5	4999
+keh⁴	khurh4	99
+keg⁴	khurk4	399
+ken⁵cai³	khurn5 chhai3	99
+keng¹	khurng1	599
+keng²	khurng2	799
+keng³	khurng3	299
+keng⁵	khurng5	799
+ked⁴	khurt4	299
+ked⁴ziah⁸	khurt4 chiah8	199
+kud⁴	khut4	99
+gi¹	ki1	17799
+gi¹ boih⁴gai⁵ ziⁿ⁵	ki1 poih4 kai5 chinn5	99
+gi¹hng¹	ki1 hng1	99
+gi¹huê⁶	ki1 hue6	99
+gi¹dog⁴	ki1 tok4	99
+gi²	ki2	5699
+gi³	ki3	5499
+gi³bho²	ki3 bo2	99
+gi³ho⁷	ki3 ho7	99
+gi³kau²gêng¹	ki3 khau2 keng1	99
+gi³liam⁶	ki3 liam6	99
+gi³miaⁿ⁵	ki3 miann5	99
+gi³bê⁶	ki3 pe6	99
+gi³siou³	ki3 siou3	99
+gi³did⁴	ki3 tit4	199
+gi⁵	ki5	2499
+gi⁵guaⁿ¹	ki5 kuann1	99
+gi⁶	ki6	8999
+gia¹	kia1	6599
+gia²	kia2	2399
+gia³	kia3	799
+gia³ke³bhoi²	kia3 khur3 boi2	99
+gia⁶	kia6	599
+gia⁷	kia7	99
+giah⁴	kiah4	1199
+giah⁴sng³buaⁿ⁵	kiah4 sng3 puann5	149
+giah⁸	kiah8	1599
+giag⁴	kiak4	1899
+giag⁸	kiak8	1899
+giam¹	kiam1	1599
+giam²	kiam2	2699
+giam³	kiam3	499
+giam⁵	kiam5	599
+giam⁵cai³	kiam5 chhai3	99
+giam⁵he⁵	kiam5 hur5	99
+giam⁵siab⁴	kiam5 siap4	149
+giam⁵sng¹	kiam5 sng1	99
+giang¹	kiang1	10199
+giang²	kiang2	1799
+giang³	kiang3	2099
+giang⁵	kiang5	99
+giang⁶	kiang6	2999
+giaⁿ¹	kiann1	2699
+giaⁿ¹gau³gong⁵ke³	kiann1 kau3 kong5  khur3	99
+giaⁿ¹siaⁿ⁵	kiann1 siann5	99
+giaⁿ²	kiann2	1349
+giaⁿ²ri⁵ diêh⁸ giaⁿ⁵hau³ bê⁶bho²	kiann2 ji5 tieh8 kiann5 hau3 pe6 bo2	149
+giaⁿ²rid⁸	kiann2 jit8	99
+giaⁿ²rid⁸ am¹bou¹ lau⁶riêd⁸	kiann2 jit8 am1 pou1 lau6 jiet8	186
+giaⁿ²rid⁸ cid⁴ghuêh⁸ ciu¹id⁴	kiann2 jit8 chhit4  gueh8 chhiu1 it4	99
+giaⁿ²rid⁸ bai³id⁴	kiann2 jit8 pai3 it4	99
+giaⁿ²rid⁸ ua² m⁶ oiⁿ²	kiann2 jit8 ua2 m6 oinn2	186
+giaⁿ²sai³	kiann2 sai3	149
+giaⁿ²sun¹	kiann2 sun1	449
+giaⁿ³	kiann3	699
+giaⁿ⁵	kiann5	1099
+giaⁿ⁵zau²	kiann5 chau2	99
+giaⁿ⁵zun⁵nang⁵	kiann5 chun5 nang5	299
+giaⁿ⁵hau³	kiann5 hau3	199
+giaⁿ⁵hua⁵	kiann5 hua5	199
+giaⁿ⁵loi²	kiann5 loi2	99
+giaⁿ⁵mêⁿ²zai⁶	kiann5 menn2 chai6	99
+giaⁿ⁵mua⁵	kiann5 mua5	149
+giaⁿ⁵dah⁸	kiann5 tah8	99
+giaⁿ⁵daⁿ⁷lou⁷	kiann5 tann7 lou7	99
+giaⁿ⁵ui⁵	kiann5 ui5	99
+giaⁿ⁶	kiann6	699
+giaⁿ⁷	kiann7	199
+giab⁴	kiap4	3199
+giau¹	kiau1	1599
+giau²	kiau2	3199
+giau⁶	kiau6	399
+giê³	kie3	1249
+giê³ huê²tau⁵ lai⁵	kie3 hue2 thau5 lai5	149
+giê³ i¹ lai⁵	kie3 i1 lai5	149
+giê³ sai¹bê⁶ lai⁵ bou²	kie3 sai1 pe6 lai5 pou2	149
+giê⁵	kie5	599
+giê⁵ ho²ze² ga¹li⁵	kie5 ho2 chur2 ka1 li5	99
+giê⁶	kie6	199
+giê⁷	kie7	399
+giêh⁴	kieh4	399
+giêg⁴	kiek4	199
+giêg⁸	kiek8	399
+giêm¹	kiem1	399
+giêm²	kiem2	599
+giêm³	kiem3	99
+giêm⁵	kiem5	99
+giên³siou³	kien3 siou3	99
+giên⁶	kien6	99
+giêng¹	kieng1	999
+giêng³	kieng3	399
+giêng⁶	kieng6	599
+giêⁿ¹	kienn1	299
+giêⁿ¹bho² ho²zo³iêh⁸	kienn1 bo2 ho2 cho3 ieh8	99
+giêⁿ⁵	kienn5	199
+giêb⁴	kiep4	799
+gih⁴	kih4	599
+gih⁴gau¹	kih4 kau1	199
+gig⁴	kik4	3599
+gig⁸	kik8	199
+gim¹	kim1	1099
+gim¹gaⁿ¹naⁿ²	kim1 kann1 nann2	99
+gim¹kui³	kim1 khui3	99
+gim¹luan⁵doiⁿ⁷	kim1 luan5 toinn7	99
+gim¹sua¹	kim1 sua1	99
+gim²	kim2	499
+gim³	kim3	1299
+gim³zi²	kim3 chi2	99
+gim³gam¹	kim3 kam1	99
+gim³gang²	kim3 kang2	99
+gim³kau²	kim3 khau2	99
+gim⁶	kim6	499
+gin²	kin2	199
+ging¹	king1	999
+ging²	king2	1599
+ging³	king3	699
+ging⁶	king6	199
+giⁿ³	kinn3	199
+giⁿ⁵	kinn5	299
+gio³	kio3	399
+gio⁵	kio5	799
+gio⁶	kio6	399
+gio⁷	kio7	399
+gioh⁴	kioh4	799
+giog⁴	kiok4	5399
+giong¹	kiong1	2999
+giong¹hi²	kiong1 hi2	99
+giong²	kiong2	1799
+gioⁿ¹	kionn1	399
+gioⁿ⁵	kionn5	399
+giou¹	kiou1	899
+giou¹ a¹nouⁿ²	kiou1 a1 nounn2	99
+giou¹zau²	kiou1 chau2	99
+giou²	kiou2	1599
+giou²bhuê²	kiou2 bue2	99
+giou⁶	kiou6	199
+gib⁴	kip4	999
+gib⁸	kip8	999
+gid⁴	kit4	99
+gid⁴pi²	kit4 phi2	199
+gid⁴dang³	kit4 tang3	99
+giu²	kiu2	4999
+giu³	kiu3	1499
+giu³zu²	kiu3 chu2	99
+giu⁵	kiu5	749
+giu⁶	kiu6	2399
+gng¹	kng1	1199
+gng¹tang³	kng1 thang3	99
+gng²	kng2	299
+gng³	kng3	399
+go¹	ko1	8599
+go¹iêh⁸	ko1 ieh8	99
+go¹lê⁵cai³	ko1 le5 chhai3	99
+go¹bi⁵	ko1 pi5	99
+go¹bi⁵bho⁷	ko1 pi5 bo7	99
+go¹bi⁵guan³	ko1 pi5 kuan3	149
+go²	ko2	1799
+go³	ko3	2199
+go³iaⁿ⁵	ko3 iann5	99
+go³si⁷	ko3 si7	99
+go³su¹	ko3 su1	99
+go⁵	ko5	599
+go⁶	ko6	599
+goh⁴	koh4	599
+goh⁴iêⁿ⁷	koh4 ienn7	99
+goh⁴lang⁵ê⁶	koh4 lang5 e6	99
+goi¹	koi1	2249
+goi¹ ang¹	koi1 ang1	199
+goi1 ang¹	koi1 ang1	198
+goi¹ah⁴	koi1 ah4	149
+goi¹ang¹	koi1 ang1	149
+goi¹ci⁶	koi1 chhi6	99
+goi¹giaⁿ²	koi1 kiann2	186
+goi¹lang⁵ koih⁴ ho⁵lan⁵sê¹ pah⁴ke³lo⁷	koi1 lang5 khoih4 ho5 lan5 se1 phah4  khur3 lo7	186
+goi¹lou⁷	koi1 lou7	99
+goi¹moⁿ⁵coiⁿ²	koi1 monn5 chhoinn2	149
+goi¹nng⁶ bhoi² saⁿ¹zab⁸ liab⁸	koi1 nng6 boi2 sann1 chap8 liap8	149
+goi¹nng⁶guê²	koi1 nng6 kue2	186
+goi¹tng¹ loh⁸ diam²giaⁿ² ken⁵cai³ ziu⁶ pang¹	koi1 thng1 loh8 tiam2 kiann2 khurn5 chhai3 chiu6 phang1	196
+goi²	koi2	1749
+goi²hun¹iⁿ⁵	koi2 hun1 inn5	99
+goi²iêh⁸	koi2 ieh8	99
+goi²biⁿ³	koi2 pinn3	299
+goi²suêh⁴	koi2 sueh4	99
+goi³	koi3	1899
+goi³gang⁷	koi3 kang7	299
+goi³mong⁵	koi3 mong5	99
+goi⁵	koi5	599
+goi⁷	koi7	699
+goih⁴	koih4	1299
+goih⁸	koih8	899
+goih⁸loih⁸	koih8 loih8	99
+goiⁿ¹	koinn1	1399
+goiⁿ¹tau⁵	koinn1 thau5	199
+goiⁿ²	koinn2	1699
+goiⁿ³	koinn3	399
+goiⁿ⁵	koinn5	99
+gog⁴	kok4	7899
+gok⁴ u²	kok4 u2	199
+gok4 u²	kok4 u2	198
+gong¹	kong1	3599
+gong¹zêng³	kong1 cheng3	149
+gong¹cin¹	kong1 chhin1	99
+gong¹zu²	kong1 chu2	99
+gong¹si¹	kong1 si1	99
+gong¹si¹suaⁿ¹	kong1 si1 suann1	99
+gong¹se⁷	kong1 sur7	99
+gong¹dau⁶	kong1 tau6	199
+gong¹dng⁵	kong1 tng5	99
+gong¹en¹	kong1 urn1	99
+gong²	kong2	99
+gong²gong² aiⁿ³ud⁸	kong2 kong2 ainn3 ut8	99
+gong³	kong3	5699
+gong³ hang²	kong3 hang2	199
+gong3 hang²	kong3 hang2	198
+gong³huang⁵di³	kong3 huang5 ti3	99
+gong⁵	kong5	799
+gong⁵ke³	kong5 khur3	99
+gou¹	kou1	7299
+gou¹ziu²	kou1 chiu2	99
+gou¹iu⁵	kou1 iu5	99
+gou¹diêⁿ⁶	kou1 tienn6	99
+gou²	kou2	7199
+gou²za²	kou2 cha2	99
+gou²gê³	kou2 ke3	199
+gou²lau²	kou2 lau2	99
+gou²nang⁵	kou2 nang5	149
+gou²se⁷	kou2 sur7	99
+gou²dad⁸	kou2 tat8	149
+gou²dng⁷	kou2 tng7	99
+gou³	kou3	9199
+gou⁵	kou5	799
+gou⁶	kou6	599
+gu¹	ku1	7599
+gu¹iê¹	ku1 ie1	199
+gu¹lau²	ku1 lau2	99
+gu²	ku2	6299
+gu²gu²	ku2 ku2	99
+gu²guai³	ku2 kuai3	199
+gu³	ku3	5499
+gu³ce²	ku3 chhur2	99
+gu⁶	ku6	6199
+gu⁷	ku7	1399
+gu⁷iêh⁴	ku7 ieh4	99
+gua¹	kua1	1999
+gua¹ cêh⁴	kua1 chheh4	199
+gua1 cêh⁴	kua1 chheh4	198
+gua²	kua2	399
+gua²hu⁶	kua2 hu6	99
+gua²gai⁵	kua2 kai5	99
+gua³	kua3	399
+gua³bhê²uaⁿ¹	kua3 be2 uann1	99
+gua⁵	kua5	599
+guah⁴	kuah4	2499
+guah⁴ghu⁵bhah⁴	kuah4 gu5 bah4	99
+guah⁴huê¹	kuah4 hue1	99
+guah⁴huê¹ sai¹bê⁶	kuah4 hue1 sai1 pe6	99
+guah⁴de¹bhah⁴	kuah4 tur1 bah4	149
+guai¹	kuai1	599
+guai²	kuai2	1199
+guai²ka¹	kuai2 kha1	373
+guai³	kuai3	8399
+guaiⁿ²	kuainn2	199
+guaiⁿ⁷	kuainn7	99
+guag⁴	kuak4	12599
+guan¹gu³	kuan1 ku3	199
+guan²	kuan2	399
+guan²iêh⁸gui²gai⁵nang⁵	kuan2 ieh8 kui2  kai5 nang5	149
+guan²li²	kuan2 li2	199
+guan³ciang⁵	kuan3 chhiang5	99
+guan³biên¹	kuan3 pien1	99
+guan³dng⁵	kuan3 tng5	199
+guan⁷	kuan7	99
+guang¹	kuang1	6999
+guang²	kuang2	9099
+guang³	kuang3	7999
+guang⁶	kuang6	699
+guaⁿ¹	kuann1	5499
+guaⁿ¹bhag⁸	kuann1 bak8	99
+guaⁿ¹ca⁵	kuann1 chha5	99
+guaⁿ¹ziaⁿ³	kuann1 chiann3	199
+guaⁿ¹ham⁵	kuann1 ham5	99
+guaⁿ¹hog⁸	kuann1 hok8	99
+guaⁿ¹hu²	kuann1 hu2	99
+guaⁿ¹i¹	kuann1 i1	99
+guaⁿ¹in³	kuann1 in3	99
+guaⁿ²	kuann2	1999
+guaⁿ⁵diêh⁸	kuann5  tieh8	99
+guaⁿ⁵iêh⁸	kuann5 ieh8	99
+guaⁿ⁶	kuann6	199
+guaⁿ⁶ zêg⁸tang² zui² lai⁵	kuann6 chek8 thang2 chui2 lai5	99
+guaⁿ⁷	kuann7	399
+guê¹	kue1	599
+guê¹cêh⁴	kue1 chheh4	99
+guê²	kue2	2899
+guê²zi²	kue2 chi2	149
+guê²zi² gai⁵ si⁵ aiⁿ³gau³	kue2 chi2 kai5 si5 ainn3 kau3	149
+guê²zi²hng⁵	kue2 chi2 hng5	149
+guê³	kue3	1599
+guê³ke³	kue3  khur3	199
+guê³zêh⁴	kue3 cheh4	99
+guê³ziêⁿ¹	kue3 chienn1	99
+guê³han⁶	kue3 han6	99
+guê³i³	kue3 i3	99
+guê³pang⁵	kue3 phang5	99
+guê³si³	kue3 si3	199
+guê⁵diêh⁸	kue5  tieh8	99
+guê⁵siⁿ³	kue5 sinn3	99
+guêh⁴	kueh4	699
+guêg⁴	kuek4	1799
+guêng¹	kueng1	399
+guêng²	kueng2	2299
+guêng³	kueng3	1599
+guêng⁶	kueng6	99
+guêⁿ¹	kuenn1	649
+guêⁿ¹ iêh⁸gui²	kuenn1 ieh8 kui2	149
+guh⁴	kuh4	99
+gui¹	kui1	7799
+gui¹ge²	kui1 kur2	299
+gui¹nguan⁵	kui1 nguan5	99
+gui¹diou⁵	kui1 tiou5	99
+gui²	kui2	2799
+gui³	kui3	3299
+gui³zai⁶	kui3 chai6	99
+gui³ki³	kui3 khi3	199
+gui³puê⁵	kui3 phue5	99
+gui⁶	kui6	799
+gui⁶loh⁸ke³	kui6  loh8 khur3	99
+guiⁿ³siⁿ³	kuinn3 sinn3	199
+guiⁿ⁵	kuinn5	399
+guiⁿ⁷	kuinn7	1899
+guiⁿ⁷guaⁿ¹	kuinn7 kuann1	99
+gug⁴	kuk4	2399
+gug⁴sig⁸	kuk4 sik8	99
+gug⁸	kuk8	3599
+gun¹ze²	kun1 chur2	199
+gun¹biaⁿ¹	kun1 piann1	99
+gun²	kun2	199
+gun²zui¹	kun2 chui1	99
+gun²diou⁵	kun2 tiou5	99
+gun³	kun3	99
+gun⁵	kun5	99
+gung¹	kung1	1799
+gung²	kung2	5999
+gung³	kung3	1199
+gung⁵	kung5	1199
+gung⁶	kung6	599
+ge¹	kur1	1999
+ge²	kur2	3999
+ge²zin³	kur2 chin3	99
+ge³	kur3	699
+ge³sud⁴	kur3 sut4	99
+ge⁶	kur6	6999
+geh⁴	kurh4	499
+gen¹	kurn1	399
+gen¹bng²	kurn1 png2	199
+gen¹sui⁵	kurn1 sui5	99
+gen²sim¹	kurn2 sim1	199
+gen⁵dang³	kurn5 tang3	99
+gen⁶	kurn6	199
+gen⁶ce³	kurn6 chhur3	199
+gen⁶si⁷	kurn6 si7	99
+geng¹	kurng1	4099
+geng²	kurng2	4699
+geng³	kurng3	2299
+geng⁶	kurng6	399
+ged⁸	kurt8	99
+gud⁴	kut4	99
+gud⁴bai⁵	kut4 pai5	99
+gud⁴tau⁵	kut4 thau5	99
+gud⁸	kut8	399
+gud⁸liou² kiêh⁸ bun³gi¹ bud⁴diou³	kut8 liou2 khieh8 pun3 ki1 put4 tiou3	99
+la¹	la1	4799
+la³	la3	199
+la⁵	la5	799
+la⁶	la6	99
+la⁷cin³	la7 chhin3	99
+la⁷liang⁵	la7 liang5	199
+la⁷lun⁵siê¹	la7 lun5 sie1	99
+la⁷saⁿ¹	la7 sann1	99
+lah⁴	lah4	1799
+lah⁸	lah8	4199
+lah⁸zia³	lah8 chia3	99
+lah⁸rid⁸	lah8 jit8	99
+lai³	lai3	1799
+lai⁵	lai5	3799
+lai⁵ke³ tid⁴to⁵	lai5 khur3 thit4 tho5	199
+lai⁵ngen⁵	lai5 ngurn5	99
+lai⁵pa¹ gê¹gai⁵ dêng³	lai5 pha1 ke1  kai5 teng3	99
+lai⁵uang²	lai5 uang2	299
+lai⁶	lai6	1099
+lai⁶zau²sun¹	lai6 chau2 sun1	99
+lai⁶boiⁿ⁵	lai6 poinn5	149
+lai⁶sun¹	lai6 sun1	99
+lai⁶di⁷	lai6 ti7	99
+lai⁷	lai7	199
+lai⁷ziⁿ⁵	lai7 chinn5	99
+lag⁴	lak4	599
+lag⁸	lak8	3099
+lag⁸gen¹si³	lak8 kurn1 si3	99
+lag⁸bou⁶	lak8 pou6	99
+lam²	lam2	1799
+lam² ring⁵	lam2 jing5	99
+lam2 ring⁵	lam2 jing5	98
+lam⁵	lam5	2399
+lam⁶	lam6	399
+lan⁵gan¹	lan5 kan1	99
+lan⁵lo²	lan5 lo2	199
+lan⁵san¹	lan5 san1	99
+lan⁵san¹bhoi⁷	lan5 san1 boi7	99
+lan⁶hud⁸	lan6 hut8	99
+lan⁶pa¹	lan6 pha1	99
+lan⁷pa¹	lan7 pha1	99
+lang²	lang2	5299
+lang³diou³	lang3 tiou3	99
+lang⁵	lang5	16099
+lang⁶	lang6	2999
+lang⁷	lang7	299
+lab⁴tab⁴	lap4 thap4	99
+lab⁸hiang³	lap8 hiang3	99
+lab⁸niêⁿ⁵	lap8 nienn5	149
+lad⁸	lat8	699
+lau¹	lau1	599
+lau²	lau2	6099
+lau²zi²	lau2 chi2	99
+lau²ziang³	lau2 chiang3	99
+lau²hiêh⁸	lau2 hieh8	99
+lau²giaⁿ²	lau2 kiann2	449
+lau²nang⁵	lau2 nang5	149
+lau²sid⁸	lau2 sit8	199
+lau³	lau3	1199
+lau⁵	lau5	6499
+lau⁵ ko²	lau5 kho2	199
+lau⁵ piⁿ⁷	lau5 phinn7	199
+lau5 piⁿ⁷	lau5 phinn7	198
+lau⁵ diⁿ⁶	lau5 tinn6	99
+lau⁵le²	lau5  lur2	149
+lau⁵zui²	lau5 chui2	99
+lau⁵zui² hiong⁵	lau5 chui2 hiong5	99
+lau⁵zui² bêⁿ⁵	lau5 chui2 penn5	99
+lau⁵huêh⁴	lau5 hueh4	199
+lau⁵guaⁿ⁷	lau5 kuann7	99
+lau⁵mag⁸zab⁴	lau5 mak8 chap4	199
+lau⁵nuaⁿ⁶	lau5 nuann6	99
+lau⁵bang¹	lau5 pang1	99
+lau⁵dêng² lau⁵bang¹ ia⁷ si⁶ ziêⁿ³sêⁿ¹	lau5 teng2 lau5 pang1 ia7 si6 chienn3 senn1	99
+lau⁵tui¹	lau5 thui1	99
+lau⁶	lau6	799
+lau⁶zêg⁴	lau6 chek4	99
+lau⁶hau³	lau6 hau3	99
+lau⁶houⁿ²	lau6 hounn2	99
+lau⁶ia⁵	lau6 ia5	399
+lau⁶ia⁵gêng¹	lau6 ia5 keng1	99
+lau⁶iang⁶	lau6 iang6	99
+lau⁶riêd⁸	lau6 jiet8	149
+lau⁶gong¹	lau6 kong1	99
+lau⁶gou¹	lau6 kou1	99
+lau⁶maⁿ²	lau6 mann2	99
+lau⁶bêh⁴	lau6 peh4	99
+lau⁶pua⁵	lau6 phua5	99
+lau⁶dia¹ giê³ i¹ su³	lau6 tia1 kie3 i1 su3	149
+lau⁶dia¹ daⁿ³aiⁿ³ke³ toiⁿ² si¹	lau6 tia1 tann3 ainn3 khur3 thoinn2 si1	149
+lau⁶dia¹ tiaⁿ¹liou² ziu⁶ dag⁴tau⁵	lau6 tia1 thiann1 liou2 chiu6 tak4 thau5	149
+lau⁶dia¹ di³dêng² ziu⁶ cud⁴lai⁵ zo⁶dng⁵	lau6 tia1 ti3 teng2 chiu6 chhut4  lai5 cho6 tng5	99
+lau⁶dua⁷	lau6 tua7	99
+lau⁷	lau7	1299
+lau⁷ riag⁸	lau7 jiak8	99
+lau7 riag⁸	lau7 jiak8	98
+lau⁷ riêg⁸	lau7 jiek8	99
+lau7 riêg⁸	lau7 jiek8	98
+lau⁷bho²zo⁵	lau7 bo2 cho5	99
+lau⁷sai²	lau7 sai2	99
+lêh⁴	leh4	199
+lêh⁸	leh8	7199
+lêg⁸	lek8	6899
+lêg⁸sog⁴	lek8 sok4	99
+lêng¹	leng1	599
+lêng¹zuaⁿ² gai⁵ huê² guê³ke³	leng1 chuann2 kai5 hue2 kue3  khur3	99
+lêng²	leng2	1399
+lêng⁵	leng5	24399
+lêng⁵zêng¹	leng5 cheng1	99
+lêng⁵hê⁵	leng5 he5	99
+lêng⁵hun⁵	leng5 hun5	199
+lêng⁵lai⁷	leng5 lai7	99
+lêng⁵ngua⁷ bhua⁵ oi⁶lai⁷	leng5 ngua7 bua5 oi6 lai7	149
+lêng⁵ngua⁷ co⁷ cêng¹kih⁴gai⁵	leng5 ngua7 chho7 chheng1 khih4  kai5	186
+lêng⁵ngua⁷ diam²	leng5 ngua7 tiam2	186
+lêng⁵ui⁵	leng5 ui5	99
+lêng⁵ui⁷	leng5 ui7	99
+lêng⁶	leng6	2599
+li²	li2	10099
+li²se⁷	li2 sur7	99
+li³	li3	699
+li⁵	li5	13999
+li⁵ am¹bou¹ bho⁵riêh⁸hng⁶	li5 am1 pou1 bo5 jieh8 hng6	149
+li⁵cin³	li5 chhin3	99
+li⁵gêng¹	li5 keng1	199
+li⁵kui¹	li5 khui1	99
+li⁵biêd⁸	li5 piet8	99
+li⁶	li6	13199
+li⁶zid⁴	li6 chit4	99
+li⁶hai⁷	li6 hai7	199
+li⁷	li7	2499
+liah⁸	liah8	1099
+liah⁸m⁶da²gêng²	liah8 m6 ta2 keng2	149
+liah⁸dua⁶	liah8 tua6	199
+liag⁸	liak8	8099
+liam³	liam3	99
+liam⁵	liam5	1199
+liam⁷	liam7	99
+liam⁷gêng¹	liam7 keng1	99
+liam⁷lou⁷	liam7 lou7	99
+liang²	liang2	3299
+liang⁵	liang5	7299
+liang⁶	liang6	4499
+liang⁷	liang7	2499
+liab⁸	liap8	599
+liab⁸dêng² ziu⁶ tud⁴diou³ bang³ do⁶ cng⁵dêng²	liap8 teng2 chiu6 thut4 tiou3 pang3 to6 chhng5 teng2	149
+liau²	liau2	1599
+liau³	liau3	399
+liau⁵	liau5	7299
+liau⁷	liau7	1199
+liêg⁸	liek8	1399
+liêm¹	liem1	399
+liêm¹ bhu⁷	liem1 bu7	99
+liêm1 bhu⁷	liem1 bu7	98
+liêm²	liem2	499
+liêm³	liem3	99
+liêm⁵	liem5	1099
+liêm⁶	liem6	199
+liêm⁷	liem7	199
+liên⁷	lien7	399
+liêng²	lieng2	199
+liêng⁵	lieng5	599
+liêng⁶	lieng6	299
+liêng⁷	lieng7	499
+liêb⁸	liep8	99
+liêd⁸	liet8	99
+lih⁸	lih8	1299
+lig⁸	lik8	99
+lim¹	lim1	199
+lim²	lim2	799
+lim⁵	lim5	1999
+lim⁵kim⁵	lim5 khim5	99
+lim⁵si⁵	lim5 si5	99
+lin²	lin2	199
+lin³ziⁿ⁵	lin3 chinn5	99
+lin⁵gen⁶	lin5 kurn6	99
+ling²	ling2	499
+ling⁵	ling5	5499
+lioh⁸	lioh8	199
+liou²	liou2	999
+liou³	liou3	199
+liou⁵	liou5	3699
+liou⁷	liou7	599
+liou⁷li²	liou7 li2	99
+lib⁸	lip8	499
+lib⁸iêh⁴	lip8 ieh4	99
+liu²	liu2	1599
+liu²pang⁷	liu2 phang7	99
+liu³	liu3	4299
+liu³loh⁸ke³	liu3  loh8 khur3	99
+liu³buah⁸	liu3 puah8	99
+liu⁵	liu5	7999
+liu⁵ ng⁵	liu5 nk5	199
+liu5 ng⁵	liu5 nk5	198
+liu⁵lian⁵	liu5 lian5	99
+liu⁵ng⁵	liu5 ng5	99
+liu⁵si²	liu5 si2	99
+liu⁵tu⁵	liu5 thu5	99
+liu⁷	liu7	1199
+liu⁷gi⁵	liu7 ki5	99
+liu⁷gim¹	liu7 kim1	99
+liu⁷gim¹ki³	liu7 kim1 khi3	149
+liu⁷ngen⁵ki³	liu7 ngurn5 khi3	149
+lo¹	lo1	599
+lo²	lo2	2999
+lo²dong⁷gai⁵nang⁵	lo2 tong7  kai5 nang5	149
+lo⁵	lo5	9699
+lo⁵gêⁿ¹	lo5 kenn1	199
+lo⁵mang⁶	lo5 mang6	99
+lo⁵si¹ruan²	lo5 si1 juan2	99
+lo⁵si¹dêng¹	lo5 si1 teng1	99
+loh⁸	loh8	2599
+loh⁸bhê²	loh8 be2	99
+loh⁸zun⁵	loh8 chun5	199
+loh⁸iam⁵	loh8 iam5	99
+loh⁸gê³	loh8 ke3	99
+loh⁸ngou²cêⁿ¹ sin¹sêⁿ¹	loh8 ngou2 chhenn1 sin1 senn1	99
+loh⁸bng²	loh8 png2	99
+loh⁸sêg⁴	loh8 sek4	199
+loh⁸sin⁵pua⁵	loh8 sin5 phua5	199
+loh⁸suaⁿ²	loh8 suann2	99
+loh⁸toh⁸	loh8 thoh8	199
+loi²	loi2	499
+loi²bai³	loi2 pai3	99
+loi²bai³rid⁸ ua² aiⁿ³ke³ loi²bai³	loi2 pai3 jit8 ua2 ainn3 khur3 loi2 pai3	99
+loi²bai³dng⁵	loi2 pai3 tng5	299
+loi²siou³	loi2 siou3	99
+loi³	loi3	99
+loi⁵	loi5	699
+loi⁷	loi7	599
+loih⁸	loih8	599
+log⁴	lok4	99
+log⁴ciam¹	lok4 chhiam1	99
+log⁴log⁴	lok4 lok4	99
+log⁸	lok8	16799
+long²	long2	2999
+long²zong²	long2 chong2	299
+long²zong²sng³	long2 chong2 sng3	149
+long⁵	long5	9599
+long⁶	long6	599
+lou²	lou2	1999
+lou²gou²	lou2 kou2	99
+lou³	lou3	599
+lou⁵	lou5	2999
+lou⁶	lou6	699
+lou⁶giam⁵	lou6 kiam5	99
+lou⁷	lou7	1499
+lou⁷zui²	lou7 chui2	99
+lou⁷giaⁿ²	lou7 kiann2	149
+lou⁷piê³	lou7 phie3	199
+lu¹	lu1	1899
+lu²	lu2	8999
+lu⁵	lu5	11699
+lu⁶	lu6	2899
+lua⁵	lua5	599
+lua⁷	lua7	599
+luah⁴	luah4	199
+luah⁸	luah8	599
+luag⁴	luak4	1899
+luang²	luang2	1299
+luang³	luang3	2499
+luang⁵	luang5	3499
+luang⁶	luang6	499
+luêg⁴	luek4	399
+luêng²	lueng2	499
+luêng³	lueng3	499
+luêng⁵	lueng5	699
+luêng⁶	lueng6	99
+lui¹	lui1	599
+lui²	lui2	7499
+lui⁵	lui5	2599
+lui⁵gong¹	lui5 kong1	99
+lui⁵gong¹ dan²	lui5 kong1 tan2	99
+lui⁶	lui6	1799
+lui⁷	lui7	1799
+lui⁷le²	lui7  lur2	149
+lug⁸	luk8	3599
+lun²	lun2	99
+lun⁵diêh⁸di⁵diang⁵	lun5 tieh8 ti5 tiang5	99
+lun⁷dah⁸	lun7 tah8	99
+lung³	lung3	799
+lung⁵	lung5	4199
+lung⁶	lung6	599
+le²	lur2	2549
+le² bho⁵	lur2 bo5	149
+le² bho⁵êng⁷ su¹ i¹	lur2 bo5 eng7 su1 i1	149
+le² za¹rid⁸ bho⁵ gah⁴ ua² daⁿ³	lur2 cha1 jit8 bo5 kah4 ua2 tann3	149
+le² zau² ziu⁶riou⁷ oi⁶diêh⁸	lur2 chau2 chiu6 jiou7 oi6 tieh8	149
+le² zi²lai⁶ u⁶ zêg⁸coh⁴ ki⁵ka²muêh⁸	lur2 chi2 lai6 u6 chek8 chhoh4 khi5 kha2 mueh8	149
+le² ê⁶rid⁸ m⁶moⁿ² ziêⁿ³sêⁿ¹	lur2 e6 jit8 m6 monn2 chienn3 senn1	186
+le² ê⁶gai⁵ bai³id⁴ lai⁵	lur2 e6 kai5 pai3 it4 lai5	149
+le² ho²ke³	lur2 ho2 khur3	149
+le² ia⁷ u⁶	lur2 ia7 u6	149
+le² gai⁵ ciu² cun¹cud⁴lai⁵	lur2 kai5 chhiu2 chhun1  chhut4 lai5	149
+le² gai⁵ mehⁿ² mêⁿ²	lur2 kai5 mehnn2 menn2	186
+le² ke³	lur2 khur3	149
+le² ke³ huê²sid⁸bang⁵ giê³ huê²tau⁵ lai⁵	lur2 khur3 hue2 sit8 pang5 kie3 hue2 thau5 lai5	186
+le² ke³riou⁷ i¹	lur2 khur3 jiou7 i1	149
+le² gi¹ cin³ siam²	lur2 ki1 chhin3 siam2	149
+le² giaⁿ⁵ mêⁿ²guê³ i¹ zau²	lur2 kiann5 menn2 kue3 i1 chau2	149
+le² giê³ sai¹bê⁶ kia⁶diam⁷ lai⁵	lur2 kie3 sai1 pe6 khia6 tiam7 lai5	186
+le² liah⁸i¹	lur2 liah8  i1	149
+le² m⁶moⁿ² ke³	lur2 m6 monn2 khur3	186
+le² m⁶moⁿ² ud⁸gau³ rid⁸ uaⁿ³ ziaⁿ³zau²ki²	lur2 m6 monn2 ut8 kau3 jit8 uann3 chiann3 chau2 khi2	186
+le² maiⁿ³piên³ ua²	lur2 mainn3 phien3 ua2	149
+le² min²êng⁷ lai⁵	lur2 min2 eng7 lai5	186
+le² naⁿ⁷si⁶ aiⁿ³buaⁿ¹ ciaⁿ² le² gah⁴ ua² daⁿ³	lur2 nann7 si6 ainn3 puann1 chhiann2 lur2 kah4 ua2 tann3	149
+le² nêng⁵go³ ke³do²	lur2 neng5 ko3 khur3 to2	149
+le² nêng⁵go³ dah⁴ huê²zun⁵	lur2 neng5 ko3 tah4 hue2 chun5	149
+le² bai³lag⁸ ê⁶gua³ lai⁵	lur2 pai3 lak8 e6 kua3 lai5	149
+le² sia² gai⁵ ri⁷ iaⁿ⁵ ua² gai⁵	lur2 sia2 kai5 ji7 iann5 ua2 kai5	149
+le² diêh⁸ ziêⁿ³sêⁿ¹ muêh⁸	lur2 tieh8 chienn3 senn1 mueh8	149
+le² diêh⁸rin⁷ le² gai⁵ m⁶diêh⁸	lur2 tieh8 jin7 lur2 kai5 m6 tieh8	186
+le² diêh⁸lai⁵	lur2 tieh8 lai5	149
+le² do⁶ he²go³	lur2 to6 hur2 ko3	149
+le² ud⁸gau³ rid⁸ hiêⁿ³uaⁿ³ ziaⁿ³zau²ki²	lur2 ut8 kau3 jit8 hienn3 uann3 chiann3 chau2 khi2	149
+le²gai⁵ m⁶si⁶ ziêⁿ³sêⁿ¹	lur2 kai5 m6 si6 chienn3 senn1	186
+le⁵	lur5	1599
+le⁶	lur6	2499
+le⁶song³hun¹	lur6 song3 hun1	99
+le⁶song³biê¹	lur6 song3 pie1	99
+lud⁴ke³	lut4  khur3	99
+lud⁴diou⁷	lut4 tiou7	99
+lud⁸	lut8	199
+m²	m2	399
+m⁶	m6	949
+m⁶zai¹	m6 chai1	149
+m⁶zai¹ nang⁵cêng⁵	m6 chai1 nang5 chheng5	186
+m⁶zai¹nang⁵	m6 chai1 nang5	373
+m⁶zai¹tau⁵	m6 chai1 thau5	149
+m⁶cêng¹	m6 chheng1	186
+m⁶ziu⁶li²	m6 chiu6 li2	149
+m⁶hah⁸	m6 hah8	149
+m⁶hah⁸huab⁴	m6 hah8 huap4	149
+m⁶hauⁿ³	m6 haunn3	299
+m⁶hiou²	m6 hiou2	299
+m⁶hua⁵	m6 hua5	149
+m⁶id⁴did⁴	m6 it4 tit4	149
+m⁶rin⁷	m6 jin7	149
+m⁶gai¹	m6 kai1	149
+m⁶gaⁿ²giⁿ³nang⁵	m6 kann2 kinn3 nang5	186
+m⁶gau⁶tai⁶	m6 kau6 thai6	149
+m⁶kam¹	m6 kham1	149
+m⁶kam¹gai¹	m6 kham1 kai1	149
+m⁶kam¹dng¹	m6 kham1 tng1	149
+m⁶kêng²	m6 kheng2	299
+m⁶gi³did⁴	m6 ki3 tit4	149
+m⁶giⁿ³	m6 kinn3	299
+m⁶gong¹dau⁶	m6 kong1 tau6	149
+m⁶guan²	m6 kuan2	149
+m⁶moⁿ²	m6 monn2	299
+m⁶moⁿ² zǒ¹cad⁸	m6 monn2 chǒ1 chhat8	149
+m⁶moⁿ² m⁶id⁴did⁴	m6 monn2 m6 it4 tit4	149
+m⁶moⁿ² tau¹kiêh⁸ nang⁵ gai⁵ muêh⁸	m6 monn2 thau1 khieh8 nang5 kai5 mueh8	186
+m⁶moⁿ²ziⁿ⁵	m6 monn2 chinn5	149
+m⁶oiⁿ⁵	m6 oinn5	373
+m⁶bad⁴	m6 pat4	195
+m⁶bêⁿ⁵	m6 penn5	149
+m⁶si⁶	m6 si6	149
+m⁶si⁶ zab⁸id⁴	m6 si6 chap8 it4	149
+m⁶si⁶ hiêⁿ³sêⁿ¹	m6 si6 hienn3 senn1	149
+m⁶si⁶ le²	m6 si6 lur2	186
+m⁶si⁶ le²gai⁵	m6 si6 lur2 kai5	186
+m⁶sun⁶	m6 sun6	149
+m⁶tiaⁿ¹	m6 thiann1	149
+m⁶diêh⁸	m6 tieh8	1049
+m⁶dui³	m6 tui3	149
+ma¹	ma1	2999
+ma²	ma2	2999
+ma³	ma3	1199
+mah⁴	mah4	1199
+mai³	mai3	599
+mai⁵	mai5	1799
+mai⁶	mai6	599
+maiⁿ³	mainn3	99
+maiⁿ³ gah⁴ i¹ siê¹mêⁿ⁷	mainn3 kah4 i1 sie1 menn7	99
+maiⁿ³ciê³	mainn3 chhie3	99
+maiⁿ³ziah⁸ kah⁴zoi⁷	mainn3 chiah8 khah4 choi7	99
+maiⁿ³gau³ buaⁿ³mêⁿ² ziaⁿ³ke³ud⁸	mainn3 kau3 puann3 menn2 chiann3 khur3 ut8	149
+maiⁿ³kau³	mainn3 khau3	99
+maiⁿ³sng³	mainn3 sng3	149
+maiⁿ³têng³ziah⁸	mainn3 theng3 chiah8	99
+mag⁴diêh⁸ nah⁴sab⁴	mak4  tieh8 nah4 sap4	99
+mag⁴diêh⁸nah⁴sab⁴	mak4 tieh8 nah4 sap4	99
+mag⁸	mak8	3099
+mak⁸ ring⁵	mak8 jing5	199
+mak8 ring⁵	mak8 jing5	198
+mak⁸ sai²	mak8 sai2	199
+mak8 sai²	mak8 sai2	198
+mag⁸siab⁴	mak8  siap4	174
+mag⁸tiaⁿ³	mak8  thiann3	99
+mag⁸bhai⁵	mak8 bai5	99
+mag⁸zab⁴	mak8 chap4	199
+mag⁸ci³mo⁵	mak8 chhi3 mo5	99
+mag⁸ci³moⁿ⁵	mak8 chhi3 monn5	99
+mag⁸ziu¹	mak8 chiu1	99
+mag⁸ziu¹huê¹	mak8 chiu1 hue1	99
+mag⁸ziu¹puê⁵	mak8 chiu1 phue5	99
+mag⁸ziu¹siab⁴	mak8 chiu1 siap4	149
+mag⁸rin⁵	mak8 jin5	99
+mag⁸giaⁿ³	mak8 kiann3	99
+mag⁸siab⁴	mak8 siap4	99
+mag⁸sid⁸	mak8 sit8	99
+man²	man2	99
+man⁷	man7	299
+mang²	mang2	2749
+mang²tiên¹	mang2 thien1	99
+mang²diêⁿ³	mang2 tienn3	149
+mang²diêⁿ³gau¹	mang2 tienn3 kau1	149
+mang⁵	mang5	6599
+mang⁶	mang6	599
+mang⁶ gog⁸	mang6 kok8	199
+mang6 gog⁸	mang6 kok8	198
+mang⁷	mang7	1899
+mang⁷hêg⁴	mang7 hek4	99
+mang⁷ga¹	mang7 ka1	99
+mang⁷giⁿ³	mang7 kinn3	199
+maⁿ²zou²	mann2 chou2	99
+maⁿ³ki²	mann3 khi2	99
+maⁿ³ki² aiⁿ³ iaⁿ⁵lau⁶ia⁵	mann3 khi2 ainn3 iann5 lau6 ia5	99
+maⁿ³ki² ziaⁿ³lai⁵	mann3 khi2 chiann3 lai5	99
+maⁿ³ki² i¹ gai⁵ uaⁿ³ zai³sim²	mann3 khi2 i1 kai5 uann3 chai3 sim2	99
+maⁿ³ki² ruan⁶ diang¹si¹	mann3 khi2 juan6 tiang1 si1	99
+maⁿ³ki² ua² m⁶do⁶	mann3 khi2 ua2 m6 to6	149
+maⁿ³mêng⁵ki² rib⁸lai⁵	mann3 meng5 khi2 jip8  lai5	99
+maⁿ³mêng⁵ki² le² diêh⁸ za²za² zau²ki²	mann3 meng5 khi2 lur2 tieh8 cha2 cha2 chau2 khi2	149
+maⁿ³mêⁿ⁵hng¹ ua² aiⁿ³ciaⁿ²nang⁵	mann3 menn5 hng1 ua2 ainn3 chhiann2 nang5	186
+mau²	mau2	599
+mau⁵	mau5	7199
+mau⁶	mau6	3599
+mauⁿ⁷	maunn7	99
+mê²	me2	1199
+mê³	me3	599
+mê⁵	me5	799
+mê⁵ ni⁵	me5 ni5	199
+mê5 ni⁵	me5 ni5	198
+mê⁷	me7	1299
+mêh⁴	meh4	699
+mêh⁸	meh8	1799
+mehⁿ²	mehnn2	149
+mêg⁸	mek8	3899
+mêng²	meng2	2399
+mêng⁵	meng5	9999
+mêng⁵ki²	meng5 khi2	99
+mêng⁵ki²za²gua³	meng5 khi2 cha2  kua3	99
+mêng⁵bêh⁸	meng5 peh8	699
+mêng⁶	meng6	1599
+mêng⁷	meng7	99
+mêⁿ²	menn2	399
+mêⁿ⁵gua³	menn5  kua3	149
+mêⁿ⁵cad⁸	menn5 chhat8	149
+mêⁿ⁵hng¹	menn5 hng1	149
+mêⁿ⁵hng¹ ziaⁿ³dng²lai⁵	menn5 hng1 chiann3 tng2  lai5	149
+mêⁿ⁵hng¹giaⁿ¹ iaiⁿ³lai⁵ ua²go³	menn5 hng1 kiann1 iainn3 lai5 ua2  ko3	186
+mêⁿ⁵hng¹giaⁿ²	menn5 hng1 kiann2	186
+mêⁿ⁵niⁿ⁵	menn5 ninn5	99
+mêⁿ⁷	menn7	299
+mi¹	mi1	1799
+mi²	mi2	3899
+mi⁵	mi5	7199
+mi⁶	mi6	1799
+mi⁷	mi7	1199
+mia⁵	mia5	599
+mia⁷	mia7	599
+miag⁸	miak8	99
+miang²	miang2	10499
+miang⁵	miang5	999
+miaⁿ¹sêg⁴	miann1 sek4	99
+miaⁿ¹tau⁵	miann1 thau5	99
+miaⁿ⁵gê¹	miann5 ke1	199
+miaⁿ⁵siaⁿ¹	miann5 siann1	99
+miaⁿ⁷	miann7	399
+miaⁿ⁷un⁷	miann7 un7	99
+miau¹	miau1	399
+miau²	miau2	3999
+miau⁵	miau5	1599
+miau⁶	miau6	399
+miên²giang²	mien2 kiang2	299
+miêng²	mieng2	2099
+miêng⁵	mieng5	199
+mih⁴	mih4	499
+mih⁴gai⁵	mih4 kai5	99
+mih⁴nang⁵	mih4 nang5	99
+mig⁸	mik8	4399
+min²	min2	149
+min²êng⁷	min2 eng7	149
+min⁵gê¹	min5  ke1	99
+min⁵cng⁵	min5 chhng5	399
+min⁵cng⁵ bêh⁸bou³	min5 chhng5 peh8 pou3	149
+min⁷	min7	199
+min⁷cng⁵ bai⁵mêng⁵ki² diêh⁸ muêh⁸ho²	min7 chhng5 pai5 meng5 khi2 tieh8 mueh8 ho2	149
+min⁷huê⁶	min7 hue6	99
+min⁷liau¹liau¹zêⁿ¹	min7 liau1 liau1 chenn1	99
+min⁷puê⁵	min7 phue5	99
+min⁷pun⁵	min7 phun5	99
+min⁷bou³	min7 pou3	99
+min⁷sêg⁴	min7 sek4	99
+min⁷tang²	min7 thang2	99
+min⁷tang²gê³	min7 thang2 ke3	99
+ming⁵	ming5	2999
+ming⁷	ming7	499
+miⁿ⁵	minn5	299
+miⁿ⁵hiuⁿ⁵	minn5 hiunn5	99
+miⁿ⁵iêⁿ⁵	minn5 ienn5	99
+miⁿ⁵ka¹	minn5 kha1	373
+miⁿ⁶	minn6	99
+miⁿ⁷	minn7	149
+miⁿ⁷bau¹	minn7 pau1	149
+miⁿ⁷suaⁿ³	minn7 suann3	149
+miou¹	miou1	199
+miou²	miou2	1999
+miou⁵	miou5	799
+miou⁶	miou6	199
+miu⁵	miu5	599
+mng²	mng2	299
+mng²can¹	mng2 chhan1	99
+mng⁵	mng5	1099
+mng⁵cêng⁷	mng5 chheng7	99
+mng⁵cuaⁿ³	mng5 chhuann3	99
+mng⁵siⁿ³au⁶	mng5 sinn3 au6	99
+mng⁷	mng7	899
+mng⁷hau⁷	mng7 hau7	99
+mo¹	mo1	1799
+mo²	mo2	599
+mo⁵	mo5	5399
+mo⁶	mo6	3599
+mo⁷	mo7	999
+moh⁴	moh4	1199
+moh⁸	moh8	1799
+mog⁸	mok8	9599
+mog⁸se¹	mok8 sur1	99
+mong²	mong2	1199
+mong³	mong3	399
+mong⁵	mong5	7299
+mong⁵in¹	mong5 in1	149
+mong⁶	mong6	1199
+moⁿ¹	monn1	99
+moⁿ⁵	monn5	199
+moⁿ⁵gui²	monn5 kui2	99
+moⁿ⁵siⁿ³	monn5 sinn3	99
+moⁿ⁷	monn7	199
+mou²	mou2	599
+mou³	mou3	399
+mou⁵	mou5	4899
+mou⁶	mou6	899
+mua²	mua2	599
+mua⁵	mua5	3599
+mua⁵ ng²	mua5 nk2	199
+mua5 ng²	mua5 nk2	198
+muag⁸	muak8	999
+muang⁶	muang6	2999
+muaⁿ⁵	muann5	99
+muaⁿ⁵ziah⁴ziou²	muann5 chiah4 chiou2	99
+muaⁿ⁵puê⁵	muann5 phue5	99
+muaⁿ⁵bou³	muann5 pou3	99
+muê²	mue2	599
+muê⁵	mue5	199
+muê⁶	mue6	2999
+muê⁷	mue7	599
+muêh⁸	mueh8	899
+muêh⁸cêng¹kih⁴	mueh8 chheng1 khih4	149
+muêh⁸ziah⁸	mueh8 chiah8	99
+muêh⁸hiaⁿ⁵	mueh8 hiann5	99
+muêh⁸ho²	mueh8 ho2	99
+muêh⁸giaⁿ⁵	mueh8 kiann5	99
+muêh⁸nang⁵giaⁿ¹	mueh8 nang5 kiann1	149
+muêh⁸ngiab⁸	mueh8 ngiap8	99
+muêh⁸pua³	mueh8 phua3	99
+muêh⁸diou³	mueh8 tiou3	199
+muêh⁸uan¹	mueh8 uan1	99
+muêg⁸	muek8	199
+muêⁿ⁵	muenn5	299
+mui²	mui2	1499
+mui⁵	mui5	1199
+mug⁴	muk4	1199
+mug⁸	muk8	1799
+mung²	mung2	299
+mung⁵	mung5	899
+mung⁷	mung7	599
+na¹	na1	1199
+na²	na2	2999
+na⁵	na5	799
+nah⁴sab⁴	nah4 sap4	399
+nah⁴sab⁴siêⁿ³	nah4 sap4 sienn3	99
+nai²	nai2	4199
+nai⁵	nai5	199
+nai⁶	nai6	7199
+nai⁷	nai7	199
+naiⁿ⁶	nainn6	499
+naiⁿ⁶m⁶ke³	nainn6 m6 khur3	149
+nag⁴	nak4	99
+nag⁸	nak8	1799
+nam²	nam2	2899
+nam² ring⁵	nam2 jing5	99
+nam2 ring⁵	nam2 jing5	98
+nam²gai⁵ zim²tau⁵	nam2  kai5 chim2 thau5	99
+nam²zai⁷ri⁷	nam2 chai7 ji7	99
+nam³tou⁵	nam3 thou5	99
+nam⁵	nam5	3699
+nam⁵diêh⁸	nam5  tieh8	99
+nam⁵boiⁿ⁵	nam5 poinn5	149
+nam⁶	nam6	599
+nan²	nan2	99
+nan² lai⁵ tng⁷ tid⁴to⁵ ziu⁶ho²	nan2 lai5 thng7 thit4 tho5 chiu6 ho2	99
+nan² lai⁵ke³	nan2 lai5 khur3	99
+nan² maiⁿ³ dui³hiê² guê³	nan2 mainn3 tui3 hie2 kue3	99
+nan² so²u⁶ gai⁵ sêg⁴ si⁶ cong⁵ kêng⁶go³ lai⁵	nan2 so2 u6 kai5 sek4 si6 chhong5 kheng6  ko3 lai5	99
+nan²ziê² han²did⁴ u⁶ soh⁴	nan2  chie2 han2  tit4 u6 soh4	99
+nang²	nang2	1699
+nang⁵	nang5	2499
+nang⁵ ruah⁸	nang5 juah8	373
+nang⁵ kun³zai⁶	nang5 khun3 chai6	149
+nang⁵ m⁶moⁿ²	nang5 m6 monn2	373
+nang⁵ do⁶ si³ m⁶gu²	nang5 to6 si3 m6 ku2	186
+nang⁵ dong¹did⁸	nang5 tong1 tit8	149
+nang⁵aiⁿ³hai⁷ ua²	nang5 ainn3 hai7 ua2	149
+nang⁵cêng⁵	nang5 chheng5	499
+nang⁵ciaⁿ⁵	nang5 chhiann5	199
+nang⁵kêh⁴	nang5 kheh4	349
+nang⁵nang⁵ ziah⁸gau³ba²	nang5 nang5 chiah8 kau3 pa2	149
+nang⁵se⁷	nang5 sur7	199
+nang⁵tou²zuan⁶ gai⁵miaⁿ⁵	nang5 thou2 chuan6 kai5 miann5	149
+nang⁶	nang6	199
+nang⁷	nang7	299
+naⁿ¹si⁶ u⁶ hou⁶ hau⁷bêh⁴cêh⁴ ziu⁶ diêh⁸guêⁿ¹	nann1 si6 u6 hou6 hau7 peh4 chheh4 chiu6 tieh8 kuenn1	149
+naⁿ⁶si⁶ oi⁶ziêⁿ⁶ m⁶moⁿ² bê⁵	nann6 si6 oi6 chienn6 m6 monn2 pe5	149
+naⁿ⁷si⁶	nann7 si6	99
+naⁿ⁷si⁶ ho²bou² min²êng⁷ bhoi² sin¹gai⁵	nann7 si6 ho2 pou2 min2 eng7 boi2 sin1  kai5	149
+naⁿ⁷si⁶ kui¹ i¹ gai⁵ huê¹ si⁶ ngia²zai⁶	nann7 si6 khui1 i1 kai5 hue1 si6 ngia2 chai6	99
+naⁿ⁷si⁶ m⁶gau³ zêg⁸lou⁷ ho²bhoi²	nann7 si6 m6 kau3 chek8 lou7 ho2 boi2	149
+nab⁴	nap4	499
+nab⁸	nap8	2999
+nau¹	nau1	3599
+nau²	nau2	2399
+nau⁶	nau6	1799
+nau⁷	nau7	599
+nê¹	ne1	799
+nê²	ne2	599
+nê⁷	ne7	99
+nêg⁸	nek8	4899
+nêg⁸co⁷	nek8 chho7	99
+nêg⁸gui³	nek8 kui3	99
+nêg⁸oiⁿ²	nek8 oinn2	99
+nêg⁸oiⁿ²guaⁿ¹	nek8 oinn2 kuann1	99
+nêng²	neng2	99
+nêng⁵	neng5	199
+ng¹ng¹giê³	ng1 ng1 kie3	149
+ng²	ng2	99
+ng³	ng3	99
+ng⁵	ng5	199
+ng⁵lah⁸	ng5 lah8	99
+ng⁵sng¹	ng5 sng1	99
+ng⁵sng¹sou²san²	ng5 sng1 sou2 san2	99
+ng⁵dang⁵	ng5 tang5	99
+nga³	nga3	199
+ngai⁵	ngai5	3699
+ngai⁶	ngai6	2999
+ngaih⁸	ngaih8	199
+ngag⁸	ngak8	7799
+ngag⁸bho²	ngak8 bo2	99
+ngag⁸he⁵	ngak8 hur5	99
+ngag⁸bê⁶	ngak8 pe6	99
+ngam⁵	ngam5	1999
+ngan²zai⁶	ngan2 chai6	199
+ngan⁵	ngan5	299
+ngang¹	ngang1	599
+ngang²	ngang2	599
+ngang⁵	ngang5	1599
+ngang⁶	ngang6	3599
+ngau¹	ngau1	1099
+ngau⁵	ngau5	10899
+ngau⁶	ngau6	1199
+ngê⁶	nge6	1399
+ngê⁶aiⁿ³	nge6 ainn3	199
+ngê⁶gioh⁴	nge6 kioh4	99
+ngê⁶liah⁸	nge6 liah8	199
+ngêg⁸	ngek8	699
+ngêg⁸huang¹	ngek8 huang1	99
+ngêg⁸lau⁵	ngek8 lau5	99
+ngêg⁸lud⁸	ngek8 lut8	99
+ngêng³	ngeng3	99
+ngêng⁵	ngeng5	1499
+ngh⁸	ngh8	99
+ngi²	ngi2	1399
+ngi²zuê⁶	ngi2 chue6	99
+ngi²lun⁶ nang⁵gai⁵se⁷	ngi2 lun6 nang5 kai5 sur7	149
+ngi³	ngi3	2999
+ngi⁵	ngi5	5399
+ngi⁶	ngi6	3199
+ngi⁷	ngi7	399
+ngia²	ngia2	899
+ngiag⁴	ngiak4	2599
+ngiag⁸	ngiak8	4999
+ngiam²	ngiam2	1199
+ngiam⁵	ngiam5	1299
+ngiam⁷	ngiam7	599
+ngiang¹	ngiang1	999
+ngiang²	ngiang2	899
+ngiang⁵	ngiang5	299
+ngiang⁷	ngiang7	199
+ngiab⁸	ngiap8	799
+ngiau¹	ngiau1	399
+ngiau⁵	ngiau5	1999
+ngiêm²	ngiem2	299
+ngiêm⁵	ngiem5	299
+ngiêm⁷	ngiem7	199
+ngiên³	ngien3	99
+ngiêng¹	ngieng1	199
+ngiêng⁵	ngieng5	199
+ngiêb⁸	ngiep8	199
+ngim⁵	ngim5	3499
+ngim⁵si¹	ngim5 si1	99
+nging³	nging3	99
+nging⁵	nging5	1599
+ngiou¹	ngiou1	299
+ngiou¹tau⁵ziou²	ngiou1 thau5 chiou2	99
+ngiou²ce²	ngiou2 chhur2	99
+ngiou²ce²dag⁴	ngiou2 chhur2 tak4	99
+ngiou⁵	ngiou5	999
+ngo³	ngo3	599
+ngo⁵	ngo5	8999
+ngo⁶	ngo6	3199
+ngo⁶diêh⁸	ngo6  tieh8	99
+ngoiⁿ²	ngoinn2	99
+ngou²	ngou2	4199
+ngou²cêⁿ¹	ngou2 chhenn1	99
+ngou²hun²	ngou2 hun2	99
+ngou²he⁵	ngou2 hur5	99
+ngou²riên⁵	ngou2 jien5	99
+ngou²giaⁿ¹	ngou2 kiann1	99
+ngou²sêⁿ¹	ngou2 senn1	99
+ngou⁶	ngou6	1899
+ngou⁶gag⁴	ngou6 kak4	199
+ngou⁶gêⁿ¹	ngou6 kenn1	99
+ngu⁵	ngu5	299
+nguan⁵gê³	nguan5 ke3	99
+nguan⁵go³	nguan5 ko3	99
+nguan⁵gen¹	nguan5 kurn1	99
+nguan⁵lai⁵	nguan5 lai5	99
+nguan⁵suê³	nguan5 sue3	99
+nguan⁶	nguan6	99
+nguang²	nguang2	1499
+nguang⁵	nguang5	5999
+nguang⁶	nguang6	999
+nguêng²	ngueng2	299
+nguêng⁵	ngueng5	1199
+nguêng⁶	ngueng6	199
+ngui⁵	ngui5	2599
+ngui⁵puê⁵	ngui5 phue5	99
+ngui⁶	ngui6	599
+ngui⁷	ngui7	99
+ngeg⁴	ngurk4	5199
+ngen⁵	ngurn5	199
+ngen⁵zu¹	ngurn5 chu1	99
+ngen⁵zui²	ngurn5 chui2	99
+ngen⁵hang⁵	ngurn5 hang5	99
+ngen⁵kou³	ngurn5 khou3	99
+ngen⁵diaⁿ⁶	ngurn5 tiann6	99
+ngen⁵duaⁿ¹	ngurn5 tuann1	199
+ngeng³	ngurng3	399
+ngeng⁵	ngurng5	2799
+ni¹	ni1	599
+ni¹bho²	ni1 bo2	99
+ni²	ni2	3199
+ni³	ni3	1199
+ni⁵	ni5	4199
+ni⁵niⁿ⁵	ni5 ninn5	99
+ni⁶	ni6	199
+nia¹	nia1	599
+nia²	nia2	1199
+niag⁴	niak4	1599
+niam¹	niam1	1599
+niam¹niⁿ⁵	niam1 ninn5	99
+niam²	niam2	2099
+niam⁵	niam5	3399
+niam⁶	niam6	799
+niam⁷	niam7	999
+niang¹	niang1	399
+niang¹ bhu⁷	niang1 bu7	99
+niang1 bhu⁷	niang1 bu7	98
+niang²	niang2	499
+niang⁵	niang5	1099
+niang⁶	niang6	199
+niang⁷	niang7	199
+niaⁿ²	niann2	299
+niaⁿ²se⁷hu²	niann2 sur7 hu2	199
+niaⁿ²se⁷guaⁿ¹	niann2 sur7 kuann1	99
+niab⁴	niap4	6399
+niau²	niau2	1599
+niau³	niau3	399
+niê²	nie2	199
+niê⁵	nie5	1199
+niêⁿ²	nienn2	199
+niêⁿ⁵	nienn5	249
+niêⁿ⁵cê¹	nienn5 chhe1	149
+niêⁿ⁵di⁷	nienn5 ti7	99
+niêb⁴	niep4	1599
+nih⁴giaⁿ²	nih4 kiann2	149
+nih⁴mag⁸	nih4 mak8	99
+nim²	nim2	1199
+nim³	nim3	99
+nim⁵	nim5	499
+nin²	nin2	99
+nin² lai⁵	nin2 lai5	99
+nin² m⁶moⁿ² a³	nin2 m6 monn2 a3	186
+nin² m⁶moⁿ² bun¹ i¹ ke³	nin2 m6 monn2 pun1 i1 khur3	149
+nin² si⁶ ua² gai⁵ pêng⁵iu²	nin2 si6 ua2 kai5 pheng5 iu2	99
+nin²gai⁵ sêng¹li² hoh⁴riêd⁸	nin2 kai5 seng1 li2 hoh4 jiet8	149
+ning²	ning2	899
+ning⁵	ning5	499
+niⁿ¹bho²	ninn1 bo2	99
+niⁿ¹dang¹	ninn1 tang1	99
+niⁿ²	ninn2	99
+niⁿ²gai⁵bou³	ninn2  kai5 pou3	99
+niⁿ⁵	ninn5	199
+niⁿ⁵gou¹pua⁵	ninn5 kou1 phua5	99
+niⁿ⁶	ninn6	99
+nio²	nio2	399
+nio⁵	nio5	2399
+niou²	niou2	799
+niou³	niou3	199
+niu²	niu2	4199
+niu⁵	niu5	599
+niu⁶	niu6	1199
+ng¹	nk1	1499
+ng²	nk2	999
+ng⁵	nk5	1799
+ng⁶	nk6	599
+ng⁷	nk7	1199
+nng²	nng2	2099
+nng²niⁿ⁵	nng2 ninn5	99
+nng³	nng3	99
+nng⁵	nng5	999
+nng⁶	nng6	399
+nng⁶cêng¹	nng6 chheng1	149
+nng⁶rin⁵	nng6 jin5	99
+no³	no3	3599
+no⁵	no5	4199
+no⁶	no6	1399
+no⁷	no7	599
+noi⁵	noi5	399
+noi⁷	noi7	399
+noi⁷ guaiⁿ²	noi7 kuainn2	199
+noi7 guaiⁿ²	noi7 kuainn2	198
+noiⁿ⁵zi²	noinn5 chi2	99
+noiⁿ⁵huê¹	noinn5 hue1	99
+noiⁿ⁵gag⁴	noinn5 kak4	99
+noiⁿ⁵guê²	noinn5 kue2	99
+noⁿ⁶	nonn6	99
+noⁿ⁶coiⁿ¹	nonn6 chhoinn1	199
+noⁿ⁶gai⁵	nonn6 kai5	99
+noⁿ⁶kou¹buaⁿ³	nonn6 khou1 puann3	149
+noⁿ⁶gen¹buaⁿ³	nonn6 kurn1 puann3	99
+noⁿ⁶bêh⁴	nonn6 peh4	199
+nou¹	nou1	599
+nou⁵	nou5	599
+nouⁿ¹giaⁿ² do⁶ sng²	nounn1 kiann2 to6 sng2	99
+nouⁿ⁵cai⁵	nounn5 chhai5	99
+nouⁿ⁵giaⁿ²	nounn5 kiann2	399
+nouⁿ⁵giaⁿ²kuan²	nounn5 kiann2 khuan2	149
+nua⁷	nua7	1199
+nuang²	nuang2	1199
+nuaⁿ⁶	nuann6	199
+nuê²	nue2	599
+nui²	nui2	99
+nung³	nung3	399
+neng²	nurng2	1799
+neng⁵	nurng5	899
+neng⁶	nurng6	299
+neng⁶ ring⁵	nurng6 jing5	199
+neng6 ring⁵	nurng6 jing5	198
+o¹	o1	7199
+o¹zo¹	o1 cho1	449
+o¹lo²	o1 lo2	199
+o²	o2	599
+o³	o3	3099
+o⁵	o5	1849
+o⁵zu¹	o5 chu1	149
+o⁵kag⁴giaⁿ³	o5 khak4 kiann3	149
+o⁶	o6	1699
+o⁷	o7	1199
+oh⁴	oh4	1099
+oh⁴tan³	oh4 than3	149
+oh⁴ui¹	oh4 ui1	149
+oh⁸	oh8	699
+oh⁸gou²	oh8 kou2	99
+oi¹	oi1	699
+oi¹diêh⁸	oi1  tieh8	99
+oi²	oi2	699
+oi³	oi3	199
+oi⁵	oi5	599
+oi⁵suêh⁴	oi5 sueh4	99
+oi⁵tua¹	oi5 thua1	199
+oi⁵doi²	oi5 toi2	99
+oi⁵dua³	oi5 tua3	99
+oi⁶	oi6	299
+oi⁶ lan⁵lo²	oi6 lan5 lo2	99
+oi⁶lêng⁵zo³did⁴	oi6  leng5 cho3 tit4	99
+oi⁶ziah⁸	oi6 chiah8	99
+oi⁶did⁴	oi6 tit4	99
+oi⁶doh⁸huê²	oi6 toh8 hue2	99
+oih⁸	oih8	299
+oih⁸soih⁴	oih8 soih4	99
+oiⁿ¹	oinn1	149
+oiⁿ⁵	oinn5	799
+oiⁿ⁵iu⁵	oinn5 iu5	149
+og⁴	ok4	4799
+ong¹	ong1	1799
+ong³	ong3	1299
+ong⁶	ong6	599
+ong⁷	ong7	599
+oⁿ³	onn3	499
+oⁿ⁶	onn6	99
+ou¹	ou1	1399
+ou¹ lam²	ou1 lam2	99
+ou1 lam²	ou1 lam2	98
+ou¹ nam²	ou1 nam2	99
+ou1 nam²	ou1 nam2	98
+ou¹bhag⁸	ou1 bak8	99
+ou¹huan¹	ou1 huan1	149
+ou¹he⁵	ou1 hur5	99
+ou¹iu⁵	ou1 iu5	99
+ou¹min⁷nang⁵	ou1 min7 nang5	149
+ou¹niⁿ⁵	ou1 ninn5	99
+ou¹ou¹	ou1 ou1	99
+ou¹bou³	ou1 pou3	99
+ou¹bou³oi⁵	ou1 pou3 oi5	99
+ou¹tng⁵	ou1 thng5	99
+ou²	ou2	599
+ou⁵	ou5	1299
+ou⁷	ou7	699
+ou⁷ hib⁴	ou7 hip4	99
+ba¹	pa1	5999
+ba¹lag⁴	pa1 lak4	199
+ba¹lag⁴ bho⁵	pa1 lak4 bo5	99
+ba¹lag⁴ ê⁶gua³ ia⁷ m⁶zai¹	pa1 lak4 e6 kua3 ia7 m6 chai1	149
+ba²	pa2	2499
+ba³	pa3	2999
+ba⁶	pa6	599
+ba⁶zêh⁴	pa6 cheh4	199
+ba⁷	pa7	599
+bah⁴oh⁴	pah4 oh4	99
+bai¹	pai1	1199
+bai²	pai2	1999
+bai³	pai3	799
+bai³a¹gong¹	pai3 a1 kong1	99
+bai³id⁴	pai3 it4	99
+bai³ri⁶	pai3 ji6	99
+bai³lag⁸	pai3 lak8	99
+bai³lau⁶ia⁵	pai3 lau6 ia5	99
+bai³ngou⁶	pai3 ngou6	99
+bai³ngou⁶ ua² ba¹lag⁴ dng²lai⁵	pai3 ngou6 ua2 pa1 lak4 tng2  lai5	99
+bai³saⁿ¹	pai3 sann1	99
+bai³saⁿ¹ sin¹sêⁿ¹ le² min²êng⁷ lai⁵	pai3 sann1 sin1 senn1 lur2 min2 eng7 lai5	186
+bai³si³	pai3 si3	99
+bai³si³ ua² m⁶do⁶	pai3 si3 ua2 m6 to6	149
+bai³siang⁶di³nang⁵	pai3 siang6 ti3 nang5	149
+bai³toh⁴	pai3 thoh4	99
+bai⁵	pai5	3099
+bai⁵ciang⁵	pai5 chhiang5	149
+bai⁵huê⁵	pai5 hue5	149
+bai⁵rid⁸	pai5 jit8	99
+bai⁵niⁿ⁵	pai5 ninn5	99
+bai⁵bi²	pai5 pi2	99
+bai⁵si⁵	pai5 si5	99
+bai⁵dng²	pai5 tng2	199
+bai⁷	pai7	699
+baiⁿ²	painn2	199
+baiⁿ⁵	painn5	199
+baiⁿ⁷	painn7	399
+bag⁴	pak4	3399
+bag⁴go¹guê²	pak4 ko1 kue2	299
+bag⁴puê⁵	pak4 phue5	99
+bag⁴boiⁿ⁵	pak4 poinn5	149
+bag⁸	pak8	1099
+bag⁸zun⁵	pak8 chun5	199
+bag⁸zun⁵ gai⁵ri⁷	pak8 chun5 kai5 ji7	99
+ban¹	pan1	199
+ban²	pan2	99
+ban⁵ghi⁵	pan5 gi5	99
+ban⁷	pan7	499
+ban⁷tau⁵	pan7 thau5	399
+bang¹	pang1	9199
+bang¹do¹	pang1 to1	99
+bang¹do¹ dog⁴diêh⁸ tih⁴dêng¹ kih⁴ke³	pang1 to1 tok4  tieh8 thih4 teng1 khih4 khur3	149
+bang¹doi¹	pang1 toi1	99
+bang²	pang2	7799
+bang²ka¹liam⁵	pang2 kha1 liam5	186
+bang³	pang3	1199
+bang³ i¹ ke³	pang3 i1 khur3	99
+bang³ziê²	pang3  chie2	99
+bang³ang⁵	pang3 ang5	99
+bang³cin¹	pang3 chhin1	99
+bang³huê²	pang3 hue2	99
+bang³gê²	pang3 ke2	99
+bang³sêⁿ¹zê³	pang3 senn1 che3	99
+bang³sêⁿ¹siou³	pang3 senn1 siou3	99
+bang³diou³	pang3 tiou3	99
+bang⁵	pang5	1999
+bang⁶	pang6	2999
+bang⁷	pang7	199
+bad⁴	pat4	274
+bad⁸giaⁿ²	pat8 kiann2	149
+bau¹	pau1	6599
+bau¹go²	pau1 ko2	199
+bau¹niaⁿ²	pau1 niann2	199
+bau²	pau2	2999
+bau³	pau3	99
+bau⁶	pau6	1999
+bê²	pe2	699
+bê⁵	pe5	5099
+bê⁶	pe6	599
+bê⁶bho²	pe6 bo2	99
+bê⁷	pe7	199
+bêh⁴	peh4	3099
+bêh⁴ngou⁶ gai⁵ ziⁿ⁵	peh4 ngou6 kai5 chinn5	99
+bêh⁴sêⁿ³	peh4 senn3	299
+bêh⁴sêⁿ³ o¹lo² zi²gai⁵ guaⁿ¹hu²	peh4 senn3 o1 lo2 chi2 kai5 kuann1 hu2	99
+bêh⁸	peh8	1299
+bêh⁸cai³	peh8 chhai3	99
+bêh⁸ziaⁿ²bho⁵bhi⁷	peh8 chiann2 bo5 bi7	99
+bêh⁸huan⁵	peh8 huan5	99
+bêh⁸huad⁴	peh8 huat4	99
+bêh⁸huad⁴ gai⁵cau²	peh8 huat4 kai5 chhau2	99
+bêh⁸in⁵	peh8 in5	99
+bêh⁸iu⁵	peh8 iu5	99
+bêh⁸lah⁸	peh8 lah8	99
+bêh⁸liou⁷si¹	peh8 liou7 si1	99
+bêh⁸nêg⁸	peh8 nek8	99
+bêh⁸niⁿ⁵	peh8 ninn5	99
+bêh⁸bou³	peh8 pou3	99
+bêh⁸dêg⁴zua²	peh8 tek4 chua2	99
+bêh⁸tih⁴	peh8 thih4	99
+bêh⁸tih⁴ab⁸	peh8 thih4 ap8	99
+bêh⁸tih⁴gong²	peh8 thih4 kong2	99
+bêh⁸tng⁵	peh8 thng5	99
+bêh⁸uê⁷	peh8 ue7	199
+bêg⁴	pek4	4999
+bêg⁴cêg⁴	pek4 chhek4	99
+bêng¹	peng1	199
+bêng²	peng2	2099
+bêng³	peng3	799
+bêng⁵	peng5	499
+bêng⁶	peng6	4199
+bêⁿ³	penn3	1199
+bêⁿ⁵	penn5	999
+bêⁿ⁵iêⁿ⁷	penn5 ienn7	399
+bêⁿ⁵daⁿ¹	penn5 tann1	149
+bêⁿ⁷	penn7	999
+pa¹	pha1	1199
+pa¹dêng³	pha1 teng3	99
+pa⁶	pha6	699
+pah⁴	phah4	2399
+pah⁴ ka¹cng¹boiⁿ²	phah4 kha1 chhng1 poinn2	186
+pah⁴ tiam²tiam²	phah4 thiam2 thiam2	149
+pah⁴cêng³	phah4 chheng3	149
+pah⁴zua²bai⁵	phah4 chua2 pai5	149
+pah⁴ham⁵lam⁵sud⁸	phah4 ham5 lam5 sut8	149
+pah⁴ga¹ki³	phah4 ka1 khi3	149
+pah⁴kang¹	phah4 khang1	299
+pah⁴giab⁴	phah4 kiap4	186
+pah⁴guaⁿ¹si¹	phah4 kuann1 si1	299
+pah⁴lah⁸	phah4 lah8	149
+pah⁴nang⁵	phah4 nang5	186
+pah⁴oh⁴	phah4 oh4	299
+pah⁴pog⁴	phah4 phok4	149
+pah⁴pou³	phah4 phou3	149
+pah⁴sng³	phah4 sng3	373
+pah⁴dang⁵ sai¹bê⁶	phah4 tang5 sai1 pe6	299
+pah⁴tih⁴	phah4 thih4	149
+pah⁴do²	phah4 to2	299
+pai²	phai2	299
+pai²giaⁿ²	phai2 kiann2	99
+pai³	phai3	4299
+paiⁿ⁷	phainn7	199
+pag⁴	phak4	2599
+pag⁴loh⁸ke¹	phak4  loh8 khur1	99
+pag⁴gu¹	phak4 ku1	99
+pag⁸	phak8	3299
+pang¹	phang1	1899
+pang¹cai³	phang1 chhai3	99
+pang¹zui²	phang1 chui2	99
+pang¹hiêh⁸	phang1 hieh8	99
+pang¹siu⁷	phang1 siu7	99
+pang²	phang2	699
+pang³	phang3	1799
+pang⁵	phang5	10899
+pang⁵pai³	phang5 phai3	199
+pang⁵bou³	phang5 pou3	199
+pang⁷	phang7	699
+paⁿ³	phann3	1299
+paⁿ³ca⁵	phann3 chha5	99
+pau¹	phau1	2999
+pau²	phau2	599
+pau³	phau3	1799
+pau³tai⁵	phau3 thai5	99
+pau⁵	phau5	3699
+pau⁶	phau6	599
+pê³	phe3	599
+pêg⁴	phek4	9199
+pêng¹	pheng1	1699
+pêng²	pheng2	499
+pêng³	pheng3	1799
+pêng⁵	pheng5	8299
+pêng⁵an¹	pheng5 an1	299
+pêng⁵hua⁵	pheng5 hua5	99
+pêng⁵iu²	pheng5 iu2	199
+pêng⁵gê³	pheng5 ke3	99
+pêng⁵siêⁿ⁵	pheng5 sienn5	99
+pêng⁵duaⁿ¹	pheng5 tuann1	199
+pêⁿ¹pah⁴	phenn1 phah4	99
+pêⁿ⁵	phenn5	2399
+pi¹	phi1	1899
+pi²	phi2	5499
+pi³	phi3	3599
+pi³siêⁿ³	phi3 sienn3	99
+pi⁵	phi5	2499
+pi⁶	phi6	599
+piah⁴	phiah4	1199
+piag⁴	phiak4	499
+piag⁸	phiak8	99
+pian¹gou¹	phian1 kou1	199
+piang¹	phiang1	4999
+piang³	phiang3	2199
+piaⁿ¹li⁵	phiann1 li5	299
+piaⁿ¹li⁵gud⁴	phiann1 li5 kut4	99
+piaⁿ³	phiann3	599
+piaⁿ³gim¹	phiann3 kim1	199
+piaⁿ⁵	phiann5	599
+piau¹	phiau1	7199
+piau⁵	phiau5	399
+piê³	phie3	199
+piê⁵	phie5	199
+piê⁶	phie6	199
+piêg⁴	phiek4	99
+piên³	phien3	299
+piên³nang⁵	phien3 nang5	149
+piên³nang⁵giaⁿ¹	phien3 nang5 kiann1	149
+piêng¹	phieng1	999
+piêng³	phieng3	399
+pih⁴	phih4	199
+pig⁴	phik4	999
+pin⁵diou³	phin5 tiou3	99
+ping²	phing2	2199
+ping⁵	phing5	4199
+piⁿ¹	phinn1	299
+piⁿ⁶	phinn6	99
+piⁿ⁷	phinn7	899
+piⁿ⁷hun¹	phinn7 hun1	199
+piⁿ⁷kang¹	phinn7 khang1	99
+pio³	phio3	399
+pio⁵	phio5	399
+pio⁶	phio6	399
+piou¹	phiou1	3599
+piou⁵	phiou5	199
+pid⁴puê³	phit4 phue3	99
+piu³	phiu3	599
+piu³ciu²	phiu3 chhiu2	99
+piu⁵	phiu5	1199
+po²	pho2	2399
+po⁵	pho5	1199
+po⁶	pho6	799
+poh⁴	phoh4	699
+poh⁴tau⁵	phoh4 thau5	99
+poi¹	phoi1	899
+poi¹guan²	phoi1 kuan2	99
+poi¹puê⁵	phoi1 phue5	299
+poi¹sin³	phoi1 sin3	99
+poi¹daⁿ¹	phoi1 tann1	149
+poiⁿ⁷	phoinn7	1299
+poiⁿ⁷se⁷	phoinn7 sur7	99
+pog⁴	phok4	6599
+pog⁴pa⁶	phok4 pha6	99
+pog⁴pi²	phok4 phi2	99
+pong²	phong2	299
+pong³	phong3	1299
+pong³piê⁶	phong3 phie6	99
+pong⁵	phong5	2399
+pou¹	phou1	1299
+pou¹ziêh⁸	phou1 chieh8	99
+pou¹din⁵	phou1 tin5	99
+pou²	phou2	7799
+pou²tiⁿ¹ê⁶	phou2 thinn1 e6	99
+pou²tiⁿ¹ka¹ê⁶	phou2 thinn1 kha1 e6	186
+pou³	phou3	999
+pou³ pah⁴ked⁴nang⁵	phou3 phah4  khurt4 nang5	186
+pou³guiⁿ⁷	phou3 kuinn7	99
+pou³lou⁷	phou3 lou7	99
+pou³tau⁵	phou3 thau5	99
+pou⁶	phou6	599
+pou⁶giaⁿ²	phou6 kiann2	149
+pu⁵	phu5	4999
+pu⁵ki²lai⁵	phu5  khi2 lai5	99
+pu⁵to⁵	phu5 tho5	99
+pu⁵to⁵ ho²zo³ziu²	phu5 tho5 ho2 cho3 chiu2	99
+pu⁵to⁵guaⁿ¹	phu5 tho5 kuann1	99
+pu⁵dua⁷huang¹	phu5 tua7 huang1	99
+pua²	phua2	599
+pua³	phua3	999
+pua³cui³cui³	phua3 chhui3 chhui3	99
+pua³ziⁿ⁵	phua3 chinn5	99
+pua³gê¹giaⁿ²	phua3 ke1 kiann2	249
+pua³giaⁿ³	phua3 kiann3	99
+pua³bêⁿ⁷	phua3 penn7	199
+pua³bou³	phua3 pou3	99
+pua³siêⁿ³	phua3 sienn3	99
+pua³diou³	phua3 tiou3	99
+pua⁵	phua5	599
+puah⁴	phuah4	2499
+puag⁴	phuak4	499
+puan⁵biⁿ¹	phuan5 pinn1	99
+puang¹	phuang1	3499
+puang³	phuang3	3499
+puang⁵	phuang5	2999
+puaⁿ¹	phuann1	1199
+puaⁿ⁶	phuann6	599
+puê¹	phue1	1199
+puê³	phue3	699
+puê⁵	phue5	2199
+puê⁵siêⁿ¹	phue5 sienn1	99
+puê⁶	phue6	699
+puê⁶ m⁶moⁿ² soi² kah⁴ghiab⁸	phue6 m6 monn2 soi2 khah4 giap8	149
+puêh⁸	phueh8	799
+puêh⁸gou²	phueh8 kou2	99
+puêh⁸oiⁿ⁵uê⁷	phueh8 oinn5 ue7	149
+puêh⁸uê⁷	phueh8 ue7	99
+puêg⁴	phuek4	99
+puêng¹	phueng1	699
+puêng³	phueng3	699
+puêng⁵	phueng5	599
+puh⁴	phuh4	599
+pui²	phui2	599
+pui³	phui3	1299
+pui³nuaⁿ⁶	phui3 nuann6	99
+pun¹	phun1	99
+pun³	phun3	199
+pun⁵	phun5	99
+pung¹	phung1	1799
+pung³	phung3	1799
+pung⁵	phung5	1799
+bi¹	pi1	5699
+bi¹muaⁿ⁵iu⁵	pi1 muann5 iu5	99
+bi²	pi2	7899
+bi²ziaⁿ³	pi2 chiann3	99
+bi²ho²	pi2 ho2	99
+bi²ru⁶	pi2 ju6	99
+bi³	pi3	6099
+bi³iu⁶	pi3 iu6	99
+bi⁵	pi5	3599
+bi⁵bê⁵	pi5 pe5	199
+bi⁶	pi6	11999
+bi⁶go³	pi6 ko3	199
+bi⁷	pi7	1199
+biah⁴	piah4	1299
+biag⁸	piak8	1899
+biang¹	piang1	3999
+biang²	piang2	2499
+biang³	piang3	799
+biang³diou³	piang3 tiou3	199
+biang⁶	piang6	3499
+biaⁿ¹	piann1	1499
+biaⁿ¹sng¹	piann1 sng1	149
+biaⁿ¹sng¹ si⁶ ngan⁵zai⁶	piann1 sng1 si6 ngan5 chai6	149
+biaⁿ¹tng⁵	piann1 thng5	149
+biaⁿ²	piann2	1299
+biaⁿ²iêh⁸	piann2 ieh8	99
+biaⁿ³	piann3	1199
+biau²	piau2	1999
+biê¹	pie1	1299
+biê²	pie2	199
+biê²zê²muêⁿ⁷	pie2 che2 muenn7	199
+biê²zi²muêⁿ⁷	pie2 chi2 muenn7	99
+biê²hiaⁿ¹di⁶	pie2 hiann1 ti6	299
+biê³	pie3	499
+biê³zêg⁴	pie3 chek4	99
+biê³bêh⁴	pie3 peh4	99
+biê³bêh⁸	pie3 peh8	99
+biêg⁸	piek8	199
+biên³	pien3	199
+biên⁶lun⁶	pien6 lun6	99
+biên⁶boh⁴	pien6 poh4	99
+biêng¹	pieng1	399
+biêng²	pieng2	499
+biêng³	pieng3	199
+biêng⁶	pieng6	699
+bih⁴	pih4	599
+big⁴	pik4	1999
+big⁴lih⁸	pik4 lih8	99
+big⁸	pik8	4399
+bin¹dng³	pin1 tng3	99
+bing¹	ping1	4999
+bing²	ping2	1799
+bing³	ping3	4299
+biⁿ¹	pinn1	2099
+biⁿ³	pinn3	299
+biⁿ⁵	pinn5	99
+biⁿ⁶	pinn6	699
+bio¹	pio1	1999
+bio²	pio2	399
+bio³	pio3	799
+biou²	piou2	999
+biou²mêng⁵	piou2 meng5	199
+bid⁴gê³	pit4 ke3	99
+biu¹	piu1	599
+bng¹	png1	299
+bng²	png2	1199
+bng²ziⁿ⁵	png2 chinn5	199
+bng²hun⁷	png2 hun7	199
+bng²lai⁵	png2 lai5	99
+bng²di⁷nang⁵	png2 ti7 nang5	149
+bng⁶	png6	99
+bng⁷ maiⁿ³bu⁵ kah⁴miⁿ⁵	png7 mainn3 pu5 khah4 minn5	99
+bng⁷cng⁵	png7 chhng5	99
+bng⁷liab⁸	png7 liap8	99
+bo¹	po1	4199
+bo¹li⁵	po1 li5	199
+bo¹li⁵zun¹	po1 li5 chun1	99
+bo¹li⁵ki³	po1 li5 khi3	99
+bo¹li⁵buê¹	po1 li5 pue1	99
+bo²	po2	1299
+bo²ho⁷	po2 ho7	99
+bo²iu⁶	po2 iu6	99
+bo²gê¹	po2 ke1	99
+bo²gê¹ri⁷	po2 ke1 ji7	99
+bo²gê¹guan²	po2 ke1 kuan2	99
+bo²niaⁿ²	po2 niann2	199
+bo²buê³	po2 pue3	99
+bo³	po3	699
+bo³zai¹	po3 chai1	199
+bo³ciu⁵	po3 chhiu5	199
+bo³hiang³duaⁿ¹	po3 hiang3 tuann1	99
+bo⁵	po5	599
+bo⁵ho³	po5 ho3	99
+bo⁵ho³iu⁵	po5 ho3 iu5	99
+bo⁷	po7	599
+bo⁷ ho³	po7 ho3	99
+bo7 ho³	po7 ho3	98
+boh⁴	poh4	1299
+boh⁸	poh8	3299
+boh⁸ ho³	poh8 ho3	99
+boh8 ho³	poh8 ho3	98
+boih⁴	poih4	1299
+boih⁸	poih8	99
+boiⁿ¹	poinn1	99
+boiⁿ²	poinn2	599
+boiⁿ²lin³dng²	poinn2 lin3 tng2	99
+boiⁿ⁵	poinn5	549
+bog⁴	pok4	599
+bog⁴kuê³ sin¹sêⁿ¹	pok4 khue3 sin1 senn1	99
+bog⁸	pok8	1199
+bong²	pong2	599
+bong⁵	pong5	1199
+bong⁷	pong7	1199
+bou¹	pou1	1399
+bou¹tau⁵	pou1 thau5	99
+bou²	pou2	2399
+bou²hoiⁿ⁵	pou2 hoinn5	99
+bou²iêh⁸	pou2 ieh8	99
+bou²oi⁵	pou2 oi5	99
+bou²tau⁵	pou2 thau5	99
+bou³	pou3	1299
+bou³ciêh⁴	pou3 chhieh4	99
+bou³cui³	pou3 chhui3	99
+bou³lou⁷	pou3 lou7	99
+bou³pang⁵	pou3 phang5	99
+bou³pid⁴	pou3 phit4	99
+bou³do⁷	pou3 to7	99
+bou⁵	pou5	599
+bou⁶	pou6	599
+bou⁷	pou7	1799
+bu¹	pu1	1799
+bu³	pu3	2599
+bu³gai⁵nang⁵ li¹ cêng⁷siê¹	pu3  kai5 nang5 li1 chheng7 sie1	149
+bu⁵	pu5	1499
+bu⁵ lan⁵lo² siê¹zui²	pu5 lan5 lo2 sie1 chui2	99
+bu⁵ziah⁸	pu5 chiah8	99
+bu⁵hia¹	pu5 hia1	199
+bu⁶	pu6	1199
+bu⁶zêng²	pu6 cheng2	99
+bu⁶lang⁵	pu6 lang5	99
+bu⁷goi¹giaⁿ²	pu7 koi1 kiann2	186
+bua³	pua3	1299
+bua³gi¹	pua3 ki1	99
+bua³siêⁿ³	pua3 sienn3	99
+buah⁴	puah4	1299
+buah⁸	puah8	99
+buah⁸ziⁿ⁵	puah8 chinn5	99
+buah⁸ziⁿ⁵ si⁶ m⁶moⁿ² se⁷	puah8 chinn5 si6 m6 monn2 sur7	149
+buah⁸zua²bai⁵	puah8 chua2 pai5	99
+buah⁸giou²	puah8 kiou2	99
+buah⁸buê¹	puah8 pue1	99
+buah⁸dau²	puah8 tau2	99
+buah⁸tang²	puah8 thang2	99
+buag⁸	puak8	7499
+buan⁶huan²	puan6 huan2	99
+buan⁶ngêg⁸	puan6 ngek8	99
+buang⁶	puang6	499
+buaⁿ¹	puann1	1399
+buaⁿ³	puann3	699
+buaⁿ³mêⁿ⁵	puann3 menn5	149
+buaⁿ³tiⁿ¹	puann3 thinn1	99
+buaⁿ⁵	puann5	799
+buaⁿ⁵ zêg⁸iêⁿ⁷ ziah⁸liou² diêh⁸uaⁿ⁷	puann5 chek8 ienn7 chiah8 liou2 tieh8 uann7	99
+buaⁿ⁵giaⁿ²	puann5 kiann2	149
+buaⁿ⁵siou³	puann5 siou3	99
+buaⁿ⁵uaⁿ²	puann5 uann2	99
+buaⁿ⁵uaⁿ² ziah⁸liou² diêh⁸soi²	puann5 uann2 chiah8 liou2 tieh8 soi2	99
+buaⁿ⁶	puann6	199
+buê¹	pue1	1299
+buê³	pue3	1799
+buê⁵	pue5	3899
+buê⁵hoiⁿ⁵	pue5 hoinn5	99
+buê⁶	pue6	8999
+buê⁷	pue7	699
+buêg⁸	puek8	1499
+buêng⁶	pueng6	99
+bui¹	pui1	2399
+bui³	pui3	1799
+bui⁵	pui5	2099
+bui⁷	pui7	699
+bug⁴	puk4	1799
+bun¹	pun1	299
+bun¹kui¹	pun1 khui1	99
+bun¹ua²toiⁿ²	pun1 ua2 thoinn2	149
+bun²niaⁿ²	pun2 niann2	99
+bun²se⁶	pun2 sur6	99
+bun²dêng²	pun2 teng2	99
+bun³	pun3	99
+bun³gi¹	pun3 ki1	99
+bun³bê⁵	pun3 pe5	99
+bun³dau²	pun3 tau2	99
+bun⁵ saⁿ¹ê⁷lo⁷	pun5 sann1 e7  lo7	99
+bun⁵hi¹hu⁵	pun5 hi1 hu5	99
+bun⁵huang¹	pun5 huang1	99
+bun⁵guê³	pun5 kue3	99
+bun⁵bi¹	pun5 pi1	199
+bung¹	pung1	899
+bung²	pung2	1199
+bung³	pung3	1799
+bung⁷	pung7	199
+beng²	purng2	299
+bud⁴zi²	put4 chi2	99
+bud⁴hau³	put4 hau3	99
+bud⁴guê³	put4 kue3	99
+bud⁴lêng⁵	put4 leng5	199
+bud⁴lun⁶	put4 lun6	99
+sa¹	sa1	1799
+sa¹ dê⁵	sa1 te5	199
+sa1 dê⁵	sa1 te5	198
+sa³	sa3	599
+sa⁶	sa6	1199
+sah⁸	sah8	199
+sah⁸ziu²	sah8 chiu2	99
+sai¹	sai1	4499
+sai¹ kia¹	sai1 khia1	199
+sai1 kia¹	sai1 khia1	198
+sai¹ bê⁶	sai1 pe6	199
+sai1 bê⁶	sai1 pe6	198
+sai¹ê⁶	sai1 e6	99
+sai¹ghu⁵	sai1 gu5	99
+sai¹kia¹	sai1 khia1	199
+sai¹kia¹ziⁿ⁵	sai1 khia1 chinn5	99
+sai¹gog⁴zua²	sai1 kok4 chua2	99
+sai¹gog⁴nang⁵ hauⁿ³ziah⁸ go¹lê⁵cai³	sai1 kok4 nang5 haunn3 chiah8 ko1 le5 chhai3	149
+sai¹gong¹	sai1 kong1	99
+sai¹bê⁶	sai1 pe6	99
+sai¹boiⁿ⁵	sai1 poinn5	149
+sai¹sim¹	sai1 sim1	99
+sai¹se⁷	sai1 sur7	99
+sai²	sai2	2499
+sai²ziⁿ⁵	sai2 chinn5	99
+sai²êng⁷	sai2 eng7	199
+sai²ghu⁵	sai2 gu5	99
+sai²iu⁵	sai2 iu5	99
+sai²iu⁵ sai¹bê⁶	sai2 iu5 sai1 pe6	99
+sai²gau¹	sai2 kau1	199
+sai²buah⁴	sai2 puah4	99
+sai³	sai3	4199
+sai⁶	sai6	699
+sai⁶biaⁿ²	sai6 piann2	99
+saiⁿ¹	sainn1	199
+sag⁴	sak4	4099
+sam¹	sam1	2599
+sam¹bai⁵	sam1 pai5	99
+sam¹bud⁴si⁵	sam1 put4 si5	99
+sam²	sam2	999
+san¹	san1	99
+san¹hu⁵	san1 hu5	99
+san²	san2	199
+san²gud⁴lag⁸nêg⁸	san2 kut4 lak8 nek8	99
+sang¹	sang1	7599
+sang¹sêⁿ¹	sang1 senn1	99
+sang²	sang2	999
+sang³	sang3	3899
+sang³piaⁿ³	sang3 phiann3	99
+sang³sng¹	sang3 sng1	199
+saⁿ¹	sann1	3299
+saⁿ¹ghuêh⁸ iou²zuah⁸	sann1  gueh8 iou2 chuah8	99
+saⁿ¹zab⁸	sann1 chap8	199
+saⁿ¹ghuêh⁸	sann1 gueh8	99
+saⁿ¹gag⁴	sann1 kak4	99
+saⁿ¹gêⁿ¹	sann1 kenn1	99
+saⁿ¹gêⁿ¹ buaⁿ³mêⁿ⁵	sann1 kenn1 puann3 menn5	149
+saⁿ¹gêⁿ¹ buaⁿ³mêⁿ⁵ maiⁿ³ke³kau²	sann1 kenn1 puann3 menn5 mainn3 khur3 khau2	149
+saⁿ¹ka¹ iⁿ⁵cng⁵	sann1 kha1 inn5 chhng5	196
+saⁿ¹kou³	sann1 khou3	299
+saⁿ¹ge¹	sann1 kur1	99
+saⁿ¹li²	sann1 li2	99
+saⁿ¹ng²	sann1 ng2	299
+saⁿ¹bau¹ do⁶ziê²	sann1 pau1 to6 chie2	99
+saⁿ¹bêh⁴	sann1 peh4	199
+saⁿ¹sêⁿ¹	sann1 senn1	99
+saⁿ¹diou³	sann1 tiou3	99
+saⁿ¹do⁷	sann1 to7	99
+sab⁴	sap4	2499
+sap⁸ cia¹	sap8 chhia1	399
+sap8 cia¹	sap8 chhia1	398
+sad⁴	sat4	199
+sad⁴bin³	sat4 pin3	199
+sau¹	sau1	4299
+sau¹guan²	sau1 kuan2	99
+sau³	sau3	3199
+sau³huê¹zui²	sau3 hue1 chui2	99
+sau³siu²	sau3 siu2	199
+sau³soi¹cêⁿ¹	sau3 soi1 chhenn1	99
+sê¹	se1	1799
+sê¹su¹giaⁿ²	se1 su1 kiann2	149
+sê⁵	se5	599
+sêg⁴	sek4	23199
+sêg⁴zui²	sek4 chui2	99
+sêg⁴i⁵	sek4 i5	99
+sêg⁴liou⁷	sek4 liou7	99
+sêg⁴diou³	sek4 tiou3	99
+sêg⁸	sek8	1499
+sên¹ gou¹	sen1 kou1	199
+sên1 gou¹	sen1 kou1	198
+sêng¹	seng1	9499
+sêng¹gi⁵	seng1 ki5	99
+sêng¹li²	seng1 li2	399
+sêng¹li² riêd⁸	seng1 li2 jiet8	149
+sêng¹li²nang⁵	seng1 li2 nang5	149
+sêng²	seng2	99
+sêng³	seng3	1199
+sêng³ buê¹	seng3 pue1	199
+sêng3 buê¹	seng3 pue1	198
+sêng³dng⁵	seng3 tng5	199
+sêng⁵	seng5	4099
+sêng⁵ciu⁷	seng5 chhiu7	99
+sêng⁵hiêⁿ¹	seng5 hienn1	99
+sêng⁵sid⁸	seng5 sit8	199
+sêng⁶	seng6	1799
+sêng⁷	seng7	99
+sêⁿ¹	senn1	2399
+sêⁿ¹huang¹	senn1 huang1	99
+sêⁿ¹rid⁸	senn1 jit8	99
+sêⁿ¹giaⁿ²	senn1 kiann2	149
+sêⁿ¹giaⁿ²bho²	senn1 kiann2 bo2	149
+sêⁿ¹muêh⁸	senn1 mueh8	199
+sêⁿ¹san¹	senn1 san1	99
+sêⁿ¹sêng⁵	senn1 seng5	99
+sêⁿ¹se⁷	senn1 sur7	99
+sêⁿ¹tuê⁵	senn1 thue5	99
+sêⁿ¹uê¹	senn1 ue1	99
+sêⁿ²	senn2	699
+sêⁿ³	senn3	1499
+sêⁿ³cêng⁵	senn3 chheng5	99
+si¹	si1	6999
+si¹ i¹gai⁵	si1 i1 kai5	99
+si¹bhi²	si1 bi2	99
+si¹guê¹	si1 kue1	99
+si¹suaⁿ³	si1 suann3	99
+si¹diu⁵ lin⁵dng⁷	si1 tiu5 lin5 tng7	99
+si¹ui⁵	si1 ui5	99
+si²	si2	6999
+si²ghu⁵	si2 gu5	99
+si²gau²	si2 kau2	99
+si³	si3	2499
+si³cêng⁵	si3 chheng5	99
+si³ziⁿ¹	si3 chinn1	99
+si³zoiⁿ² daⁿ³bho⁵	si3 choinn2 tann3 bo5	99
+si³gan¹	si3 kan1	199
+si³gan¹ gai⁵ nang⁵ si⁶ ag⁴	si3 kan1 kai5 nang5 si6 ak4	149
+si³gêⁿ¹	si3 kenn1	99
+si³kui³	si3 khui3	99
+si³bang¹	si3 pang1	199
+si³bang¹ cng⁵	si3 pang1 chhng5	149
+si³suaⁿ³	si3 suann3	99
+si³tau⁵	si3 thau5	99
+si⁵	si5	3899
+si⁵zêng¹	si5 cheng1	199
+si⁵zêng¹tui⁷	si5 cheng1 thui7	99
+si⁵zoih⁴ diêh⁸ bai³a¹gong¹	si5 choih4 tieh8 pai3 a1 kong1	99
+si⁵lêng⁶	si5 leng6	99
+si⁵biê¹	si5 pie1	99
+si⁵sin⁵	si5 sin5	99
+si⁵diou³	si5 tiou3	299
+si⁶	si6	4499
+si⁶ cu³bhi⁸ zai⁶	si6 chhu3 bi8 chai6	99
+si⁶ ziêⁿ³sêⁿ¹	si6 chienn3 senn1	99
+si⁶ i¹	si6 i1	99
+si⁶ ngia²zai⁶	si6 ngia2 chai6	99
+si⁶mih⁴	si6 mih4	99
+si⁷	si7	4199
+si⁷ iu⁵	si7 iu5	199
+si7 iu⁵	si7 iu5	198
+si⁷iu⁵	si7 iu5	99
+si⁷iu⁵gê³	si7 iu5 ke3	99
+si⁷iu⁵gê³ bang³ din³dang¹	si7 iu5 ke3 pang3 tin3 tang1	149
+sia¹	sia1	99
+sia²	sia2	1399
+sia²ri⁷	sia2 ji7	99
+sia²ri⁷cng⁵ kêg⁴gai⁵	sia2 ji7 chhng5 khek4  kai5	149
+sia³	sia3	4999
+sia³zuê⁶	sia3 chue6	299
+sia⁵	sia5	2399
+sia⁵bhun⁵	sia5 bun5	99
+sia⁵gho⁷hun²	sia5 go7 hun2	99
+sia⁵gho⁷iⁿ⁵	sia5 go7 inn5	99
+sia⁵mag⁸ziou²	sia5 mak8 chiou2	99
+sia⁵sud⁸	sia5 sut8	99
+sia⁶	sia6	599
+sia⁷	sia7	2499
+sia⁷ziⁿ³	sia7 chinn3	99
+siah⁴	siah4	1899
+siah⁴boh⁸	siah4 poh8	99
+siah⁸	siah8	599
+siag⁴	siak4	2999
+siag⁸	siak8	799
+siam¹	siam1	499
+siam¹ su¹	siam1 su1	99
+siam1 su¹	siam1 su1	98
+siam²	siam2	2199
+siam⁵	siam5	2899
+siang¹	siang1	10599
+siang¹ho² pêng⁵iu²	siang1 ho2 pheng5 iu2	99
+siang¹huan²	siang1 huan2	99
+siang¹bang¹	siang1 pang1	99
+siang¹biêd⁸	siang1 piet8	99
+siang¹sêg⁸gai⁵nang⁵	siang1 sek8  kai5 nang5	149
+siang¹sin³	siang1 sin3	199
+siang¹dang⁵	siang1 tang5	99
+siang¹dui³	siang1 tui3	99
+siang²	siang2	8599
+siang³	siang3	2599
+siang⁵	siang5	8299
+siang⁶	siang6	8099
+siang⁶ciaⁿ²	siang6 chhiann2	99
+siang⁶ho²	siang6 ho2	199
+siang⁶di³	siang6 ti3	199
+siang⁶dua⁷	siang6 tua7	99
+siaⁿ¹	siann1	999
+siaⁿ³	siann3	699
+siaⁿ³ze¹	siann3 chur1	99
+siaⁿ³huê⁶	siann3 hue6	99
+siaⁿ³sin⁵	siann3 sin5	99
+siaⁿ⁵	siann5	1399
+siaⁿ⁵ si⁶ dua⁷zai⁶	siann5 si6 tua7 chai6	99
+siaⁿ⁵ghua⁷	siann5 gua7	99
+siaⁿ⁵mng⁵	siann5 mng5	99
+siaⁿ⁷	siann7	599
+siab⁴	siap4	1349
+siab⁸	siap8	3199
+siau¹	siau1	9999
+siau²	siau2	1799
+siau²gau²	siau2 kau2	99
+siau³	siau3	1599
+siau⁶	siau6	3199
+siê¹	sie1	799
+siê¹ ziêh⁴ mung⁷	sie1 chieh4 mung7	99
+siê1 ziêh4 mung⁷	sie1 chieh4 mung7	98
+siê¹ hu⁶	sie1 hu6	99
+siê1 hu⁶	sie1 hu6	98
+siê¹ gang⁷	sie1 kang7	99
+siê1 gang⁷	sie1 kang7	98
+siê¹ mê⁷	sie1 me7	99
+siê1 mê⁷	sie1 me7	98
+siê¹ su¹	sie1 su1	99
+siê1 su¹	sie1 su1	98
+siê¹a³	sie1 a3	149
+siê¹zêⁿ¹	sie1 chenn1	199
+siê¹ziab⁴	sie1 chiap4	99
+siê¹ziêh⁴mng⁷	sie1 chieh4 mng7	99
+siê¹ziⁿ³	sie1 chinn3	199
+siê¹zuang⁶diêh⁸	sie1 chuang6  tieh8	99
+siê¹hiêⁿ¹	sie1 hienn1	149
+siê¹hu⁶	sie1 hu6	99
+siê¹giⁿ³	sie1 kinn3	99
+siê¹go³	sie1 ko3	199
+siê¹lun⁵	sie1 lun5	199
+siê¹mêⁿ⁷	sie1 menn7	199
+siê¹pah⁴	sie1 phah4	299
+siê¹sid⁴	sie1 sit4	99
+siê¹su¹	sie1 su1	99
+siê¹sua³	sie1 sua3	99
+siê¹dang⁵	sie1 tang5	199
+siê¹dau³	sie1 tau3	149
+siê¹tai⁵	sie1 thai5	299
+siê¹toi³	sie1 thoi3	99
+siê¹dui³	sie1 tui3	99
+siê¹uaⁿ⁷	sie1 uann7	99
+siê²	sie2	99
+siê²bho⁷	sie2 bo7	199
+siê²kua²	sie2 khua2	99
+siê²kua²se⁷	sie2 khua2 sur7	99
+siê²nng⁵	sie2 nng5	99
+siêh⁴	sieh4	399
+siêh⁸ liu⁵	sieh8 liu5	99
+siêh8 liu⁵	sieh8 liu5	98
+siêh⁸liu⁵	sieh8 liu5	99
+siêg⁴	siek4	299
+siêm¹	siem1	299
+siêm¹ su¹	siem1 su1	99
+siêm1 su¹	siem1 su1	98
+siêm²	siem2	499
+siêm⁵	siem5	699
+siên¹hu⁵	sien1 hu5	99
+siên²	sien2	99
+siên⁶zi²	sien6 chi2	99
+siêng¹	sieng1	399
+siêng²	sieng2	1499
+siêng³	sieng3	399
+siêng⁵	sieng5	499
+siêng⁶	sieng6	1199
+siêⁿ¹	sienn1	1299
+siêⁿ¹diêh⁸	sienn1  tieh8	399
+siêⁿ¹huang¹	sienn1 huang1	99
+siêⁿ¹hun⁵	sienn1 hun5	199
+siêⁿ¹kau²	sienn1 khau2	99
+siêⁿ¹nang⁵	sienn1 nang5	149
+siêⁿ²	sienn2	299
+siêⁿ²gêh⁴	sienn2 keh4	99
+siêⁿ³	sienn3	899
+siêⁿ⁵	sienn5	1099
+siêⁿ⁵siêⁿ⁵	sienn5 sienn5	299
+siêⁿ⁶	sienn6	599
+siêⁿ⁷	sienn7	199
+siêb⁴	siep4	299
+siêb⁸	siep8	799
+siêd⁴cud⁴	siet4 chhut4	99
+siêd⁴lib⁸	siet4 lip8	199
+sih⁴	sih4	1199
+sih⁸	sih8	1199
+sih⁸bng²	sih8 png2	99
+sih⁸suh⁸	sih8 suh8	99
+sig⁴	sik4	1299
+sig⁸	sik8	1599
+sik⁸ lag⁸	sik8 lak8	199
+sik8 lag⁸	sik8 lak8	198
+sim¹	sim1	2199
+sim¹ bu⁶	sim1 pu6	199
+sim1 bu⁶	sim1 pu6	198
+sim¹guaⁿ¹	sim1 kuann1	99
+sim¹guaⁿ¹tau⁵	sim1 kuann1 thau5	299
+sim¹sêⁿ³	sim1 senn3	99
+sim¹sin⁵ m⁶diaⁿ³	sim1 sin5 m6 tiann3	149
+sim¹sin⁵ m⁶diaⁿ⁷	sim1 sin5 m6 tiann7	149
+sim¹se⁷	sim1 sur7	99
+sim¹se⁷ zoi⁷	sim1 sur7 choi7	99
+sim¹dong⁵dong⁵	sim1 tong5 tong5	99
+sim²	sim2	4399
+sim²mng⁷	sim2 mng7	99
+sim⁵	sim5	1999
+sim⁶	sim6	499
+sim⁶ moh⁴	sim6 moh4	399
+sim6 moh⁴	sim6 moh4	398
+sin¹	sin1	199
+sin¹bhun⁶	sin1 bun6	99
+sin¹bhun⁶zua²	sin1 bun6 chua2	99
+sin¹cêng⁷	sin1 chheng7	99
+sin¹hun⁷ zang³	sin1 hun7 chang3	99
+sin¹hun⁷ giaⁿ⁷	sin1 hun7 kiann7	99
+sin¹hun⁷ nam²	sin1 hun7 nam2	99
+sin¹hun⁷ paⁿ³	sin1 hun7 phann3	99
+sin¹iêh⁴	sin1 ieh4	99
+sin¹nang⁵	sin1 nang5	399
+sin¹nang⁵dia¹	sin1 nang5 tia1	299
+sin¹niêⁿ⁵	sin1 nienn5	199
+sin¹bu⁶	sin1 pu6	199
+sin¹sêⁿ¹	sin1 senn1	399
+sin¹sêⁿ¹ aiⁿ³ sia²ri⁷ le² lai⁵ bhua⁵bhag⁸	sin1 senn1 ainn3 sia2 ji7 lur2 lai5 bua5 bak8	149
+sin¹sêⁿ¹ le² maⁿ³ki² za²zê⁷lai⁵	sin1 senn1 lur2 mann3 khi2 cha2  che7 lai5	149
+sin¹si¹	sin1 si1	199
+sin¹doi²saⁿ¹	sin1 toi2 sann1	99
+sin³	sin3	499
+sin³guan¹	sin3 kuan1	149
+sin³guan¹ do⁶ gag⁴ziêh⁸	sin3 kuan1 to6 kak4 chieh8	149
+sin³puê⁵	sin3 phue5	199
+sin⁵	sin5	99
+sin⁵hu⁶	sin5 hu6	99
+sin⁵kam¹	sin5 kham1	199
+sin⁵mêng⁵	sin5 meng5	99
+sin⁵si¹	sin5 si1	99
+sin⁷	sin7	99
+sing¹	sing1	5999
+sing¹ sêⁿ¹	sing1 senn1	199
+sing1 sêⁿ¹	sing1 senn1	198
+sing²	sing2	1099
+sing³	sing3	2999
+sing⁵	sing5	4899
+sing⁶	sing6	99
+sing⁷	sing7	499
+siⁿ³	sinn3	799
+sio¹	sio1	499
+sio¹ zioh⁴ mung⁷	sio1 chioh4 mung7	99
+sio1 zioh4 mung⁷	sio1 chioh4 mung7	98
+sio¹ hu⁶	sio1 hu6	99
+sio1 hu⁶	sio1 hu6	98
+sio¹ gang⁷	sio1 kang7	99
+sio1 gang⁷	sio1 kang7	98
+sio¹ mê⁷	sio1 me7	99
+sio1 mê⁷	sio1 me7	98
+sio¹ su¹	sio1 su1	99
+sio1 su¹	sio1 su1	98
+sio²	sio2	99
+sioh⁴	sioh4	399
+sioh⁸ liu⁵	sioh8 liu5	99
+sioh8 liu⁵	sioh8 liu5	98
+siog⁸	siok8	99
+siong⁵	siong5	399
+sioⁿ¹	sionn1	1599
+sioⁿ²	sionn2	399
+sioⁿ³	sionn3	799
+sioⁿ⁵	sionn5	1799
+sioⁿ⁶	sionn6	399
+sioⁿ⁷	sionn7	399
+siou¹	siou1	5299
+siou²	siou2	999
+siou²iaⁿ²	siou2 iann2	99
+siou²li²	siou2 li2	199
+siou³	siou3	999
+siou³ hoiⁿ⁵cêng¹	siou3 hoinn5 chheng1	149
+siou³ uan⁵	siou3 uan5	99
+siou³bhag⁸	siou3 bak8	99
+siou³niⁿ⁵	siou3 ninn5	99
+siou³pou⁶	siou3 phou6	99
+siou⁶	siou6	1599
+sib⁴	sip4	1649
+sib⁸	sip8	2999
+sid⁴iêh⁴	sit4 ieh4	99
+sid⁴loh⁸	sit4 loh8	99
+sid⁴sin³	sit4 sin3	99
+sid⁸	sit8	299
+sid⁸i³	sit8 i3	99
+sid⁸sim¹	sit8 sim1	99
+sid⁸uê⁷ daⁿ³	sit8 ue7 tann3	99
+siu¹	siu1	4199
+siu¹gam¹	siu1 kam1	99
+siu¹pang⁵	siu1 phang5	99
+siu¹sim¹	siu1 sim1	99
+siu¹siou³	siu1 siou3	199
+siu¹sib⁸	siu1 sip8	299
+siu¹dang¹	siu1 tang1	99
+siu¹duaⁿ¹	siu1 tuann1	99
+siu²	siu2	2399
+siu²gua²	siu2 kua2	199
+siu³	siu3	6599
+siu³zai⁵ ziu⁶ gui⁶loh⁸ke³	siu3 chai5 chiu6 kui6  loh8 khur3	99
+siu³zai⁵ do⁶gui⁶ sui⁵si⁵ ziu⁵ ki²lai⁵	siu3 chai5 to6 kui6 sui5 si5 chiu5 khi2  lai5	99
+siu³huê¹	siu3 hue1	199
+siu⁵	siu5	899
+siu⁵zai⁵ ziu⁶ cud⁴ke³	siu5 chai5 chiu6 chhut4  khur3	99
+siu⁶	siu6	1799
+siu⁶iu⁶	siu6 iu6	199
+siu⁶kou²	siu6 khou2	99
+siu⁷	siu7	699
+sng¹	sng1	2599
+sng¹cai³	sng1 chhai3	99
+sng¹gaⁿ¹	sng1 kann1	99
+sng²	sng2	799
+sng³	sng3	1449
+sng³ ziah⁸liou² cui³ cau³	sng3 chiah8 liou2 chhui3 chhau3	99
+sng³bhua⁵	sng3 bua5	186
+sng³hiah⁴	sng3 hiah4	449
+sng³buaⁿ⁵	sng3 puann5	149
+sng³siou³	sng3 siou3	149
+sng³tau⁵	sng3 thau5	99
+so¹	so1	6199
+so¹giaⁿ²	so1 kiann2	149
+so²	so2	2999
+so²hui³	so2 hui3	399
+so²hui³dua⁷	so2 hui3 tua7	99
+so²iⁿ²	so2 inn2	99
+so²si⁵	so2 si5	99
+so²tau⁵	so2 thau5	199
+so³	so3	599
+soh⁴	soh4	2199
+soh⁴ gaⁿ³si⁶ ru²ngan⁵	soh4 kann3 si6 ju2 ngan5	99
+soh⁴bho⁷	soh4 bo7	99
+soh⁴gaⁿ¹	soh4 kann1	99
+soh⁴giaⁿ²	soh4 kiann2	299
+soh⁴soh⁴bêh⁸	soh4 soh4 peh8	99
+soi¹	soi1	1449
+soi²	soi2	1799
+soi² kah⁴ghiab⁸ bhoi⁶siê¹	soi2 khah4 giap8 boi6 sie1	149
+soi²ciu²buê¹	soi2 chhiu2 pue1	99
+soi²êg⁸	soi2 ek8	99
+soi²êg⁸bang⁵	soi2 ek8 pang5	99
+soi²êg⁸bêⁿ⁵	soi2 ek8 penn5	99
+soi²êg⁸tang²	soi2 ek8 thang2	99
+soi²liou² diêh⁸ cid⁴da¹	soi2 liou2 tieh8 chhit4 ta1	99
+soi²loi²	soi2 loi2	99
+soi²min⁷ gai⁵ cng⁵	soi2 min7 kai5 chhng5	149
+soi³	soi3	899
+soi³i⁵	soi3 i5	99
+soi³ri⁷	soi3 ji7	199
+soi³giaⁿ²	soi3 kiann2	149
+soi³gou¹	soi3 kou1	199
+soi³gu⁶	soi3 ku6	99
+soi³guaⁿ¹	soi3 kuann1	99
+soi³siang⁵	soi3 siang5	99
+soih⁴	soih4	599
+soiⁿ¹	soinn1	499
+soiⁿ¹zou²	soinn1 chou2	99
+sog⁴	sok4	11599
+sog⁴gim¹	sok4 kim1	99
+sog⁸	sok8	3799
+sog⁸zuê⁶	sok8 chue6	99
+sog⁸ghe²	sok8 gur2	199
+song¹	song1	1199
+song²	song2	2099
+song²kuai³	song2 khuai3	99
+song³	song3	599
+song⁵	song5	1999
+song⁶	song6	1799
+song⁶se¹	song6 sur1	99
+sou¹	sou1	3099
+sou²	sou2	5399
+sou³	sou3	1199
+su¹	su1	10499
+su²	su2	7899
+su³	su3	7899
+su³lai⁵	su3  lai5	99
+su⁵	su5	2199
+su⁶	su6	5299
+su⁷	su7	99
+sua¹	sua1	2499
+sua¹ mê¹	sua1 me1	199
+sua1 mê¹	sua1 me1	198
+sua¹he⁵	sua1 hur5	199
+sua¹mêⁿ¹	sua1 menn1	99
+sua¹ba³	sua1 pa3	99
+sua²	sua2	799
+suah⁴	suah4	1899
+suah⁴iam⁵	suah4 iam5	99
+suai²	suai2	599
+suaiⁿ⁷	suainn7	699
+suag⁴	suak4	3799
+suan²	suan2	399
+suan⁷	suan7	99
+suang¹	suang1	7199
+suang²	suang2	3499
+suang³	suang3	499
+suang⁵	suang5	1499
+suang⁷	suang7	1999
+suaⁿ¹	suann1	1499
+suaⁿ¹zui²	suann1 chui2	99
+suaⁿ¹iêⁿ⁵	suann1 ienn5	99
+suaⁿ¹gau¹	suann1 kau1	99
+suaⁿ¹kang¹	suann1 khang1	99
+suaⁿ¹kêⁿ¹	suann1 khenn1	99
+suaⁿ¹goi¹	suann1 koi1	149
+suaⁿ¹lai⁶	suann1 lai6	99
+suaⁿ¹nang⁵	suann1 nang5	299
+suaⁿ¹dang¹lai⁵	suann1 tang1 lai5	99
+suaⁿ²	suann2	1199
+suaⁿ²ngiab⁸	suann2 ngiap8	99
+suaⁿ³	suann3	4599
+suaⁿ³soh⁴	suann3 soh4	99
+suaⁿ⁵	suann5	599
+suê¹	sue1	599
+suê¹pi⁵	sue1 phi5	99
+suê¹sab⁴	sue1 sap4	99
+suê³	sue3	4499
+suê³bhu⁶si¹	sue3 bu6 si1	99
+suêh⁴	sueh4	2699
+suêh⁴huê¹zui²	sueh4 hue1 chui2	99
+suêng¹	sueng1	99
+suêng²	sueng2	99
+suêng³	sueng3	99
+suêng⁵	sueng5	299
+suêng⁷	sueng7	399
+suh⁴	suh4	99
+sui¹	sui1	4299
+sui¹riên⁵	sui1 jien5	99
+sui²	sui2	1199
+sui⁵	sui5	8399
+sui⁵si⁵	sui5 si5	99
+sui⁶	sui6	1199
+sui⁷	sui7	1199
+sug⁴	suk4	4799
+sug⁸	suk8	1799
+sun¹bu⁶	sun1 pu6	99
+sun²	sun2	99
+sun²bêⁿ⁷	sun2 penn7	99
+sun⁵	sun5	399
+sun⁶	sun6	299
+sun⁶hah⁸ gai⁵huê³ m⁶moⁿ² un²gai⁵	sun6 hah8 kai5 hue3 m6 monn2 un2  kai5	149
+sun⁶huang¹	sun6 huang1	99
+sun⁶lau⁵	sun6 lau5	99
+sung¹	sung1	2999
+sung²	sung2	2399
+sung³	sung3	2999
+sung⁵	sung5	13799
+sung⁶	sung6	599
+se¹	sur1	6999
+se¹ gê¹	sur1 ke1	199
+se1 gê¹	sur1 ke1	198
+se¹niêⁿ⁵sêng⁵	sur1 nienn5 seng5	99
+se²	sur2	499
+se³	sur3	3499
+se³hog⁴	sur3 hok4	99
+se⁵	sur5	1999
+se⁵dng⁵	sur5 tng5	99
+se⁶	sur6	8499
+se⁶li²	sur6 li2	199
+se⁷	sur7	999
+se⁷ zoi⁷	sur7 choi7	99
+se⁷bhu⁶	sur7 bu6	199
+se⁷zoi⁷	sur7 choi7	99
+se⁷ngiab⁸	sur7 ngiap8	99
+seng¹	surng1	2399
+seng²	surng2	299
+seng³	surng3	899
+sud⁴	sut4	99
+da¹	ta1	199
+da¹gê¹	ta1 ke1	199
+da¹gê¹guaⁿ¹	ta1 ke1 kuann1	99
+da¹guaⁿ¹	ta1 kuann1	199
+da¹bou¹	ta1 pou1	199
+da¹bou¹ ru²zang³ guê³ ze¹niêⁿ⁵	ta1 pou1 ju2 chang3 kue3 chur1 nienn5	174
+da¹bou¹giaⁿ²	ta1 pou1 kiann2	99
+da²	ta2	1199
+da²ban³	ta2 pan3	199
+da²diab⁸	ta2 tiap8	199
+da⁵	ta5	599
+dah⁴	tah4	3299
+dah⁴ he²ziah⁴ nam⁵in¹dang⁵	tah4 hur2 chiah4 nam5 in1 tang5	149
+dah⁴kêh⁴	tah4 kheh4	99
+dah⁴gim¹	tah4 kim1	99
+dah⁴bou³pang⁵	tah4 pou3 phang5	99
+dah⁴buê³	tah4 pue3	99
+dah⁸	tah8	1999
+dah⁸bou³	tah8 pou3	99
+dah⁸dih⁸	tah8 tih8	99
+dai¹	tai1	599
+dai²	tai2	1199
+dai³	tai3	3599
+dai⁶	tai6	4199
+dai⁶cin⁵	tai6 chhin5	199
+dai⁶rin⁵	tai6 jin5	99
+dai⁶gê¹	tai6 ke1	99
+dai⁶gong¹	tai6 kong1	199
+dai⁶gong¹ ho²giaⁿ⁵lo⁷	tai6 kong1 ho2 kiann5  lo7	99
+dai⁷buê⁷	tai7 pue7	99
+daiⁿ⁶	tainn6	199
+daiⁿ⁷	tainn7	599
+dag⁴	tak4	1099
+dag⁴nng⁷	tak4 nng7	99
+dag⁴tau⁵	tak4 thau5	149
+dag⁸	tak8	6699
+dag⁸iêh⁸	tak8 ieh8	99
+dam¹	tam1	1999
+dam¹rin⁷	tam1 jin7	149
+dam¹sêng⁵	tam1 seng5	449
+dam²	tam2	499
+dam³ bhai⁷	tam3 bai7	199
+dam3 bhai⁷	tam3 bai7	198
+dam⁵	tam5	199
+dam⁶	tam6	499
+dan²	tan2	199
+dan³	tan3	99
+dang¹	tang1	9199
+dang¹tiⁿ¹ cin¹zai⁶	tang1  thinn1 chhin1 chai6	99
+dang¹tiⁿ¹ ru²cin³ ziê²	tang1  thinn1 ju2 chhin3 chie2	99
+dang¹tiⁿ¹ kiou¹giaⁿ² nang⁵ si⁶ ci¹cam²	tang1  thinn1 khiou1 kiann2 nang5 si6 chhi1 chham2	186
+dang¹zi³	tang1 chi3	99
+dang¹guê¹	tang1 kue1	99
+dang¹guê¹ ziah⁸liang⁵	tang1 kue1 chiah8 liang5	99
+dang¹guê¹lou⁷	tang1 kue1 lou7	99
+dang¹boiⁿ⁵	tang1 poinn5	149
+dang¹si¹	tang1 si1	199
+dang²	tang2	3299
+dang³	tang3	5499
+dang⁵	tang5	3999
+dang⁵zoiⁿ²	tang5 choinn2	99
+dang⁵ri⁷uêh⁸	tang5 ji7 ueh8	99
+dang⁵gi¹	tang5 ki1	199
+dang⁵mng⁵	tang5 mng5	99
+dang⁵ngen⁵	tang5 ngurn5	99
+dang⁵boh⁸	tang5 poh8	199
+dang⁵sin¹	tang5 sin1	199
+dang⁵suaⁿ³	tang5 suann3	99
+dang⁵uê¹	tang5 ue1	99
+dang⁶	tang6	6299
+dang⁶gê³	tang6 ke3	99
+dang⁶lai⁷	tang6 lai7	99
+dang⁶bêⁿ⁷	tang6 penn7	99
+dang⁶siêⁿ¹	tang6 sienn1	99
+dang⁶dang⁶gng¹	tang6 tang6 kng1	99
+dang⁶daⁿ³	tang6 tann3	149
+dang⁷	tang7	1799
+daⁿ¹	tann1	1349
+daⁿ¹ zêg⁸ziah⁴ gau¹iⁿ² lai⁵	tann1 chek8 chiah4 kau1 inn2 lai5	149
+daⁿ¹ zêg⁸ziah⁴ dêg⁴iⁿ² ua² zo⁶	tann1 chek8 chiah4 tek4 inn2 ua2 cho6	99
+daⁿ¹gê⁵	tann1 ke5	149
+daⁿ¹daⁿ³	tann1 tann3	299
+daⁿ²	tann2	699
+daⁿ³	tann3	1849
+daⁿ³bho⁵	tann3 bo5	99
+daⁿ³zai¹	tann3 chai1	99
+daⁿ³sng²	tann3 sng2	99
+daⁿ³dua⁷uê⁷	tann3 tua7 ue7	99
+daⁿ³uê⁷	tann3 ue7	99
+daⁿ³uê⁷ dêng⁵gu³	tann3 ue7 teng5 ku3	99
+daⁿ⁶	tann6	2399
+daⁿ⁷	tann7	199
+dab⁴	tap4	1999
+dab⁸dab⁸dih⁴	tap8 tap8 tih4	99
+dad⁸	tat8	299
+dad⁸ziⁿ⁵	tat8 chinn5	749
+dau¹	tau1	2999
+dau¹giaⁿ²	tau1 kiann2	149
+dau¹sun¹	tau1 sun1	99
+dau²	tau2	8099
+dau²ziⁿ⁵hang⁵	tau2 chinn5 hang5	99
+dau²doh⁴guiⁿ⁷	tau2 toh4 kuinn7	149
+dau³	tau3	599
+dau⁵	tau5	1299
+dau⁶	tau6	3599
+dau⁶tai⁵	tau6 thai5	99
+dau⁷	tau7	1199
+dau⁷ ring⁵	tau7 jing5	199
+dau7 ring⁵	tau7 jing5	198
+dau⁷iu⁵	tau7 iu5	99
+dê³	te3	99
+dê⁵	te5	599
+dê⁵bhi²	te5 bi2	99
+dê⁵zêng¹	te5 cheng1	99
+dê⁵zi²kou¹	te5 chi2 khou1	99
+dê⁵huê¹	te5 hue1	99
+dê⁵gi²	te5 ki2	149
+dê⁵guan³	te5 kuan3	149
+dê⁵si⁵	te5 si5	99
+dêh⁴	teh4	199
+dêh⁴diêh⁸	teh4  tieh8	99
+dêh⁴gi⁵	teh4 ki5	99
+dêh⁴dang⁶	teh4 tang6	99
+dêg⁴	tek4	2699
+dêg⁴zia³	tek4 chia3	99
+dêg⁴iⁿ²	tek4 inn2	99
+dêg⁴ki³	tek4 khi3	99
+dêg⁴go¹	tek4 ko1	249
+dêg⁴go¹tad⁴	tek4 ko1 that4	149
+dêg⁴bai⁵	tek4 pai5	99
+dêg⁴pau³	tek4 phau3	99
+dêg⁴sun²	tek4 sun2	99
+dêg⁸	tek8	11599
+dêg⁸rong⁵	tek8 jong5	99
+dêng¹	teng1	10899
+dêng¹ cid⁴ m⁶cêng¹ki¹	teng1 chhit4 m6 chheng1 khi1	186
+dêng¹zuaⁿ²	teng1 chuann2	99
+dêng¹hiêⁿ¹	teng1 hienn1	99
+dêng¹ga⁶	teng1 ka6	99
+dêng¹gi¹	teng1 ki1	99
+dêng¹nang⁵	teng1 nang5	99
+dêng¹sim¹	teng1 sim1	99
+dêng¹sim¹ liou²lo⁷	teng1 sim1 liou2  lo7	99
+dêng¹duê³	teng1 tue3	99
+dêng¹duê³gai⁵nang⁵	teng1 tue3  kai5 nang5	149
+dêng¹ui⁷	teng1 ui7	99
+dêng²	teng2	2899
+dêng²siam²	teng2 siam2	99
+dêng³	teng3	6199
+dêng³ bhoi⁶ziah⁸	teng3 boi6 chiah8	149
+dêng³ge²rin⁵	teng3 kur2 jin5	99
+dêng³soh⁴	teng3 soh4	199
+dêng⁵	teng5	2199
+dêng⁶	teng6	3599
+dêng⁷	teng7	99
+dêⁿ³m⁶zai¹	tenn3 m6 chai1	149
+dêⁿ⁷	tenn7	599
+ta¹	tha1	2999
+tah⁴	thah4	1399
+tah⁸	thah8	699
+tai¹	thai1	1499
+tai²	thai2	599
+tai²go¹liou⁵	thai2 ko1 liou5	99
+tai³	thai3	3599
+tai³ze²	thai3 chur2	99
+tai³ia⁵	thai3 ia5	99
+tai³pêng⁵	thai3 pheng5	99
+tai⁵	thai5	4999
+tai⁵ghu⁵	thai5 gu5	99
+tai⁵iaⁿ⁵	thai5 iann5	199
+tai⁵nang⁵	thai5 nang5	149
+tai⁵su¹	thai5 su1	199
+tai⁵de¹	thai5 tur1	149
+tai⁶	thai6	699
+tai⁷	thai7	199
+taiⁿ²	thainn2	299
+tag⁴	thak4	7499
+tag⁸	thak8	899
+tag⁸cim¹ze¹	thak8 chhim1 chur1	99
+tag⁸ze¹nang⁵	thak8 chur1 nang5	149
+tag⁸gêng¹	thak8 keng1	99
+tag⁸dua⁷ze¹	thak8 tua7 chur1	99
+tam¹	tham1	599
+tam¹ziah⁸	tham1 chiah8	99
+tam¹sim¹	tham1 sim1	299
+tam²sêⁿ¹lam¹kou¹	tham2 senn1 lam1 khou1	99
+tam³	tham3	599
+tam³giaⁿ²	tham3 kiann2	149
+tam³mng⁷	tham3 mng7	99
+tam⁵	tham5	8099
+tam⁵pui³	tham5 phui3	99
+tam⁵dang⁷	tham5 tang7	99
+tam⁷	tham7	1499
+tam⁷piu³	tham7 phiu3	99
+tan²	than2	99
+tan³	than3	299
+tang¹	thang1	4299
+tang²	thang2	9899
+tang²buaⁿ⁵	thang2 puann5	99
+tang³	thang3	2699
+tang³guê³	thang3  kue3	99
+tang⁵	thang5	11499
+tang⁵zi²muêⁿ⁷	thang5 chi2 muenn7	99
+tang⁵hiaⁿ¹di⁶	thang5 hiann1 ti6	99
+tang⁵iu⁵	thang5 iu5	99
+tang⁵sun¹sai³	thang5 sun1 sai3	99
+tang⁶	thang6	99
+tang⁶diêh⁸	thang6  tieh8	99
+tang⁷	thang7	299
+tab⁴	thap4	1499
+tab⁸	thap8	499
+tad⁴	that4	199
+tad⁴diêh⁸	that4  tieh8	99
+tad⁴giu⁵	that4 kiu5	149
+tau¹	thau1	5399
+tau¹zau²	thau1 chau2	99
+tau¹iam²	thau1 iam2	99
+tau¹kiêh⁸	thau1 khieh8	199
+tau¹giou¹	thau1 kiou1	99
+tau¹sai²ziⁿ⁵	thau1 sai2 chinn5	99
+tau¹tam³	thau1 tham3	99
+tau¹toiⁿ²	thau1 thoinn2	149
+tau²	thau2	199
+tau²kui³	thau2 khui3	199
+tau³	thau3	1199
+tau³dua⁷huang¹	thau3 tua7 huang1	99
+tau⁵	thau5	6299
+tau⁵ mo⁵	thau5 mo5	199
+tau5 mo⁵	thau5 mo5	198
+tau⁵ pag⁴loh⁸lai⁵	thau5 phak4  loh8 lai5	99
+tau⁵cai²	thau5 chhai2	99
+tau⁵gê¹	thau5 ke1	99
+tau⁵kag⁴	thau5 khak4	99
+tau⁵kag⁴ hin⁵	thau5 khak4 hin5	99
+tau⁵kag⁴ tiaⁿ³	thau5 khak4 thiann3	99
+tau⁵kag⁴cuê²	thau5 khak4 chhue2	99
+tau⁵kag⁴uaⁿ²	thau5 khak4 uann2	99
+tau⁵ge⁵	thau5 kur5	99
+tau⁵lou⁷	thau5 lou7	199
+tau⁵mo⁵	thau5 mo5	99
+tau⁵moⁿ⁵	thau5 monn5	99
+tau⁵nang⁵	thau5 nang5	149
+tau⁵bou³	thau5 pou3	99
+tê⁷	the7	599
+têh⁸	theh8	2399
+têg⁴	thek4	9799
+têng¹	theng1	1949
+têng²	theng2	4799
+têng³	theng3	599
+têng³zau⁶huê³	theng3 chau6 hue3	99
+têng³daⁿ³	theng3 tann3	99
+têng⁵	theng5	11499
+têng⁶	theng6	99
+têⁿ¹	thenn1	1199
+têⁿ¹ke³ zun²tau⁵	thenn1 khur3 chun2 thau5	99
+têⁿ¹ke³ huê²zun⁵biⁿ¹	thenn1 khur3 hue2 chun5 pinn1	99
+ti²	thi2	599
+ti³	thi3	7899
+ti³ki³	thi3 khi3	99
+ti³tau⁵	thi3 thau5	199
+ti³tau⁵giaⁿ²	thi3 thau5 kiann2	149
+ti³do¹	thi3 to1	99
+ti⁵	thi5	4299
+ti⁶	thi6	699
+tiah⁴	thiah4	599
+tiah⁴huê²gi³	thiah4 hue2 ki3	199
+tiag⁴	thiak4	2199
+tiam¹	thiam1	399
+tiam²	thiam2	1999
+tiam³	thiam3	99
+tiam³ka¹	thiam3 kha1	186
+tiam⁵	thiam5	399
+tiang¹	thiang1	599
+tiang²	thiang2	999
+tiang³	thiang3	1199
+tiang⁵	thiang5	5599
+tiaⁿ¹	thiann1	1699
+tiaⁿ¹giⁿ³	thiann1 kinn3	99
+tiaⁿ³	thiann3	199
+tiaⁿ⁵	thiann5	1199
+tiab⁴	thiap4	899
+tiab⁴guê³han⁶ gai⁵ngen⁵	thiap4 kue3 han6 kai5 ngurn5	99
+tiab⁸	thiap8	99
+tiau¹	thiau1	1199
+tiau²	thiau2	1199
+tiau³	thiau3	1999
+tiau³tud⁴	thiau3 thut4	99
+tiau⁵	thiau5	399
+tiau⁶	thiau6	799
+tiê¹	thie1	199
+tiê³	thie3	199
+tiêg⁴	thiek4	399
+tiêm¹	thiem1	99
+tiêm²	thiem2	499
+tiêm⁵	thiem5	99
+tiên¹bhun⁵	thien1 bun5	99
+tiên¹zu²	thien1 chu2	99
+tiên¹zu²ga³	thien1 chu2 ka3	99
+tiên¹gau²	thien1 kau2	99
+tiên¹pêng⁵	thien1 pheng5	99
+tiên¹sêⁿ¹	thien1 senn1	99
+tiêng¹	thieng1	99
+tiêng²	thieng2	99
+tiêng⁵	thieng5	1099
+tiêb⁴	thiep4	199
+tih⁴	thih4	699
+tih⁴zam⁶	thih4 cham6	99
+tih⁴ciam⁵	thih4 chhiam5	99
+tih⁴cui³	thih4 chhui3	99
+tih⁴gab⁴bhuan⁷	thih4 kap4 buan7	99
+tih⁴kiⁿ⁵	thih4 khinn5	99
+tih⁴gun³	thih4 kun3	99
+tih⁴liên⁷	thih4 lien7	99
+tih⁴ngiou¹	thih4 ngiou1	99
+tih⁴bê⁵	thih4 pe5	99
+tih⁴bid⁴	thih4 pit4	99
+tih⁴si⁵	thih4 si5	99
+tih⁴dêng¹	thih4 teng1	99
+tih⁴tui⁵	thih4 thui5	99
+ting⁵	thing5	499
+tiⁿ¹	thinn1	999
+tiⁿ¹ gê¹ lan⁵lo² iu⁵	thinn1 ke1 lan5 lo2 iu5	99
+tiⁿ¹ la⁵lan⁵gng¹	thinn1 la5 lan5 kng1	99
+tiⁿ¹ê⁶	thinn1 e6	199
+tiⁿ¹ê⁶ si⁶ kuah⁴	thinn1 e6 si6 khuah4	149
+tiⁿ¹gng¹	thinn1 kng1	199
+tiⁿ¹sai³	thinn1 sai3	99
+tiⁿ¹si²	thinn1 si2	99
+tiⁿ¹si²uaⁿ⁶	thinn1 si2 uann6	99
+tiⁿ¹si⁵	thinn1 si5	299
+tiⁿ¹si⁵ cou¹siab⁴	thinn1 si5 chhou1 siap4	149
+tiⁿ¹si⁵ ho²	thinn1 si5 ho2	99
+tiⁿ¹si⁵ ho²lo⁷	thinn1 si5 ho2  lo7	99
+tiⁿ¹si⁵ m⁶moⁿ²	thinn1 si5 m6 monn2	149
+tiⁿ¹si⁵ ou¹am³	thinn1 si5 ou1 am3	99
+tiⁿ¹dêng² gai⁵se⁷	thinn1 teng2 kai5 sur7	99
+tiⁿ¹dng⁵	thinn1 tng5	99
+tiⁿ⁵	thinn5	99
+tiⁿ⁷	thinn7	199
+tiⁿ⁷saⁿ¹ iêh⁸gui²	thinn7 sann1 ieh8 kui2	99
+tio¹	thio1	399
+tio³	thio3	399
+tiog⁴	thiok4	1799
+tiou¹	thiou1	599
+tiou²	thiou2	599
+tiou³	thiou3	1099
+tiou⁵	thiou5	299
+tiou⁶	thiou6	499
+tid⁴to⁵	thit4 tho5	299
+tid⁴to⁵muêh⁸	thit4 tho5 mueh8	199
+tiu¹	thiu1	799
+tiu¹hun¹	thiu1 hun1	99
+tiu¹giam²	thiu1 kiam2	99
+tiu¹tiaⁿ³	thiu1 thiann3	99
+tiu²	thiu2	899
+tiu³	thiu3	599
+tiu⁵	thiu5	4199
+tng¹	thng1	399
+tng¹si⁵	thng1 si5	99
+tng³	thng3	699
+tng³ saⁿ¹kou³	thng3 sann1 khou3	99
+tng³diêh⁸	thng3  tieh8	99
+tng³ciah⁴ka¹	thng3 chhiah4 kha1	186
+tng³ziah⁴ka¹lêg⁴	thng3 chiah4 kha1 lek4	99
+tng³têh⁴têh⁴	thng3 theh4 theh4	99
+tng⁵	thng5	699
+tng⁵zui²	thng5 chui2	199
+tng⁵ka³	thng5 kha3	99
+tng⁵guan³	thng5 kuan3	149
+tng⁵liou⁷	thng5 liou7	99
+tng⁷	thng7	299
+tng⁷zi²	thng7 chi2	99
+to¹	tho1	699
+to²	tho2	3199
+to²dang³	tho2 tang3	99
+to²tan³	tho2 than3	99
+to³	tho3	2199
+to³kui¹	tho3 khui1	99
+to³sêg⁴	tho3 sek4	199
+to³dng⁵	tho3 tng5	99
+to⁵	tho5	9099
+toh⁴	thoh4	4299
+toh⁸	thoh8	599
+toi¹	thoi1	599
+toi²	thoi2	199
+toi²tiab⁴	thoi2 thiap4	199
+toi³	thoi3	999
+toih⁴	thoih4	199
+toiⁿ²	thoinn2	999
+toiⁿ²bho⁵mag⁸	thoinn2 bo5 mak8	149
+toiⁿ²ze¹	thoinn2 chur1	149
+toiⁿ²ze¹bang⁵	thoinn2 chur1 pang5	149
+toiⁿ²huang¹zui² sin¹sêⁿ¹	thoinn2 huang1 chui2 sin1 senn1	299
+toiⁿ²kin¹	thoinn2 khin1	299
+toiⁿ²m⁶ziêⁿ⁶	thoinn2 m6 chienn6	186
+toiⁿ²siaⁿ³pua⁵	thoinn2 siann3 phua5	149
+toiⁿ²dong⁶	thoinn2 tong6	299
+tog⁴	thok4	1199
+tog⁴ziaⁿ²	thok4 chiann2	99
+tong¹	thong1	599
+tong¹zai¹	thong1 chai1	99
+tong¹huang¹	thong1 huang1	99
+tong¹se⁷	thong1 sur7	99
+tong²	thong2	2399
+tong³	thong3	1199
+tong⁵	thong5	13199
+tong⁵sêng¹	thong5 seng1	99
+tou²	thou2	1199
+tou²miaⁿ⁵	thou2 miann5	199
+tou²tam⁵	thou2 tham5	199
+tou²uê⁷	thou2 ue7	99
+tou³	thou3	2749
+tou³sia³	thou3 sia3	99
+tou⁵	thou5	1399
+tou⁵ bhoi⁷bui⁵	thou5 boi7 pui5	149
+tou⁵hun²	thou5 hun2	99
+tou⁵iu⁵	thou5 iu5	99
+tou⁵ka¹	thou5 kha1	186
+tou⁵ka¹ zêg⁸gai⁵ loi²bai³ diêh⁸ soi² zêg⁸ê⁷	thou5 kha1 chek8 kai5 loi2 pai3 tieh8 soi2 chek8 e7	186
+tou⁵ka¹ gai⁵ ang⁵zng¹ pua³	thou5 kha1 kai5 ang5 chng1 phua3	186
+tou⁵muêⁿ⁵	thou5 muenn5	99
+tou⁵pou²si¹	thou5 phou2 si1	99
+tou⁵tuaⁿ³	thou5 thuann3	99
+tou⁵tuaⁿ³ loh⁸ zoi⁷zoi⁷	thou5 thuann3 loh8 choi7 choi7	99
+tou⁵tuaⁿ³sai²	thou5 thuann3 sai2	199
+tou⁷ diam²giaⁿ² cin³zui²	thou7 tiam2 kiann2 chhin3 chui2	186
+tu⁵	thu5	6199
+tua¹	thua1	899
+tua⁷	thua7	99
+tuah⁴	thuah4	699
+tuan⁵	thuan5	99
+tuan⁵do⁶li²	thuan5 to6 li2	199
+tuan⁵do⁶li²gai⁵nang⁵	thuan5 to6 li2  kai5 nang5	149
+tuang⁵	thuang5	2999
+tuaⁿ¹	thuann1	1799
+tuaⁿ³	thuann3	1899
+tuê¹	thue1	599
+tuêng⁵	thueng5	599
+tuh⁴	thuh4	599
+tui¹	thui1	899
+tui²	thui2	699
+tui⁵	thui5	1799
+tui⁷	thui7	599
+tug⁴	thuk4	2999
+tun¹	thun1	99
+tun¹loh⁸ke³	thun1  loh8 khur3	99
+tung¹	thung1	1799
+tung²	thung2	599
+tung⁵	thung5	2999
+teng¹	thurng1	299
+teng³	thurng3	599
+teng⁵	thurng5	599
+teng⁷	thurng7	299
+tud⁴	thut4	99
+tud⁴zêh⁴	thut4 cheh4	99
+tud⁴ha³	thut4 ha3	99
+di¹	ti1	6599
+di¹hu²	ti1 hu2	99
+di¹da⁵	ti1 ta5	199
+di¹du¹	ti1 tu1	99
+di¹du¹si¹	ti1 tu1 si1	199
+di²	ti2	8399
+di²de⁵au⁶ gad⁴kiam³	ti2 tur5 au6 kat4 khiam3	99
+di³	ti3	5399
+di³iaⁿ⁵	ti3 iann5	99
+di⁵	ti5	999
+di⁵zêg⁸gai⁵	ti5 chek8 kai5	99
+di⁵gai⁵	ti5 kai5	299
+di⁵go³	ti5 ko3	99
+di⁵si⁵	ti5 si5	99
+di⁵diang⁵	ti5 tiang5	99
+di⁵diang⁵gai⁵	ti5 tiang5 kai5	99
+di⁶	ti6	5399
+di⁶ze²	ti6 chur2	99
+di⁷	ti7	1499
+di⁷ dau⁷	ti7 tau7	199
+di7 dau⁷	ti7 tau7	198
+di⁷ghêg⁸	ti7 gek8	99
+di⁷hng¹	ti7 hng1	99
+di⁷gai³	ti7 kai3	199
+di⁷ka¹	ti7 kha1	373
+di⁷li²	ti7 li2	99
+di⁷dau⁷	ti7 tau7	99
+di⁷dou⁵	ti7 tou5	99
+dia¹	tia1	599
+diah⁴	tiah4	2099
+diah⁸	tiah8	599
+diah⁸bhi²	tiah8 bi2	99
+diag⁴	tiak4	10599
+diag⁸	tiak8	2299
+diam¹	tiam1	3299
+diam²	tiam2	1249
+diam²bhau²	tiam2 bau2	99
+diam²zêg⁴	tiam2 chek4	149
+diam²zêng¹	tiam2 cheng1	149
+diam²giaⁿ²	tiam2 kiann2	373
+diam²sim¹	tiam2 sim1	149
+diam³	tiam3	2799
+diam³bhua⁵	tiam3 bua5	149
+diam³pou³	tiam3 phou3	99
+diam⁵	tiam5	899
+diam⁵go¹	tiam5 ko1	99
+diam⁵liou⁷	tiam5 liou7	99
+diam⁶	tiam6	499
+diam⁷diam⁷	tiam7 tiam7	299
+dian²	tian2	99
+diang¹	tiang1	3299
+diang¹si⁵	tiang1 si5	99
+diang²	tiang2	5599
+diang³	tiang3	699
+diang⁵	tiang5	199
+diang⁶	tiang6	5099
+diaⁿ¹diêh⁸	tiann1 tieh8	99
+diaⁿ²	tiann2	799
+diaⁿ⁵	tiann5	1199
+diaⁿ⁶	tiann6	599
+diaⁿ⁷	tiann7	699
+diaⁿ⁷zuê⁶	tiann7 chue6	299
+diaⁿ⁷ngen⁵	tiann7 ngurn5	99
+diaⁿ⁷si² zuê⁶	tiann7 si2 chue6	99
+diaⁿ⁷diêh⁸	tiann7 tieh8	199
+diab⁸	tiap8	2799
+diau¹	tiau1	5599
+diau¹kiag⁴	tiau1 khiak4	99
+diau¹dun³	tiau1 tun3	99
+diau³	tiau3	1599
+diau⁵	tiau5	399
+diau⁵diau⁵	tiau5 tiau5	99
+diau⁵did⁸	tiau5 tit8	199
+diau⁶	tiau6	1199
+diau⁷	tiau7	1199
+diê⁵	tie5	199
+diê⁵ ghe²	tie5 gur2	199
+diê5 ghe²	tie5 gur2	198
+diêh⁴	tieh4	399
+diêh⁸	tieh8	599
+diêh⁸ za²zê⁷	tieh8 cha2  che7	99
+diêh⁸ lêng⁵ngua⁷ bhoi² zêg⁸gai⁵ sin¹gai⁵	tieh8 leng5 ngua7 boi2 chek8 kai5 sin1  kai5	149
+diêh⁸ suan² ciⁿ¹gai⁵	tieh8 suan2 chhinn1  kai5	99
+diêh⁸ e⁶gau³	tieh8 ur6 kau3	99
+diêh⁸huê²siê¹	tieh8 hue2 sie1	99
+diêh⁸miaⁿ⁷	tieh8 miann7	99
+diêh⁸pah⁴ i¹ gau³ log⁴log⁴	tieh8 phah4 i1 kau3 lok4 lok4	149
+diêh⁸sua¹	tieh8 sua1	99
+diêg⁴	tiek4	2199
+diêg⁸	tiek8	399
+diêm¹	tiem1	799
+diêm²	tiem2	99
+diêm³	tiem3	599
+diêm⁵	tiem5	199
+diêm⁶	tiem6	199
+diên²	tien2	99
+diên⁶bo³	tien6 po3	99
+diên⁶bo³suaⁿ³	tien6 po3 suann3	99
+diêng¹	tieng1	499
+diêng²	tieng2	1099
+diêng⁶	tieng6	999
+diêⁿ¹	tienn1	499
+diêⁿ¹kuan¹tau³	tienn1 khuan1 thau3	99
+diêⁿ³	tienn3	899
+diêⁿ³dou²	tienn3 tou2	99
+diêⁿ⁵	tienn5	199
+diêⁿ⁶	tienn6	399
+diêⁿ⁶m²	tienn6 m2	99
+diêⁿ⁶m²pua⁵	tienn6 m2 phua5	199
+diêⁿ⁶nang⁵	tienn6 nang5	249
+diêb⁸	tiep8	699
+diêd⁸	tiet8	99
+diêd⁸nng²	tiet8 nng2	99
+dih⁴	tih4	1899
+dih⁴giaⁿ²	tih4 kiann2	99
+dih⁴lad⁸zai⁶	tih4 lat8 chai6	99
+dih⁸	tih8	599
+dih⁸giaⁿ²	tih8 kiann2	149
+dih⁸lad⁸	tih8 lat8	99
+dig⁴	tik4	999
+dik⁴ zo⁶	tik4 cho6	199
+dik4 zo⁶	tik4 cho6	198
+dig⁸	tik8	499
+dim¹	tim1	3099
+dim³	tim3	999
+dim⁵	tim5	1199
+dim⁵sin³	tim5 sin3	99
+dim⁶	tim6	499
+din¹bai⁵	tin1 pai5	99
+din¹do³	tin1 to3	299
+din¹do³dau²	tin1 to3 tau2	149
+din¹do³tau⁵	tin1 to3 thau5	149
+din²dang⁶	tin2 tang6	99
+din³lou⁷	tin3 lou7	149
+din³dang¹	tin3 tang1	299
+din⁵	tin5	99
+din⁵bai⁵	tin5 pai5	99
+ding¹	ting1	599
+ding³	ting3	599
+ding⁵	ting5	1199
+ding⁶	ting6	99
+ding⁷	ting7	499
+diⁿ⁵	tinn5	999
+diⁿ⁵ka¹	tinn5 kha1	186
+diⁿ⁶	tinn6	199
+dio⁵	tio5	399
+dio⁵ ghu²	tio5 gu2	99
+dio5 ghu²	tio5 gu2	98
+dio⁵ ghe²	tio5 gur2	299
+dio5 ghe²	tio5 gur2	298
+dio⁶	tio6	299
+dioh⁴	tioh4	799
+dioh⁸	tioh8	399
+diong¹	tiong1	99
+diong³	tiong3	99
+dioⁿ¹	tionn1	799
+dioⁿ³	tionn3	1599
+dioⁿ⁵	tionn5	399
+dioⁿ⁶	tionn6	499
+diou¹	tiou1	2949
+diou³	tiou3	999
+diou³am⁶	tiou3 am6	199
+diou³guê¹	tiou3 kue1	99
+diou³bang³ saⁿ¹diou³	tiou3 pang3 sann1 tiou3	99
+diou³tang²	tiou3 thang2	99
+diou⁵	tiou5	399
+diou⁶	tiou6	599
+diou⁶zuan¹	tiou6 chuan1	99
+diou⁷	tiou7	699
+did⁴	tit4	99
+did⁴diêh⁸	tit4  tieh8	99
+did⁴zo⁶diêh⁸	tit4 cho6  tieh8	99
+did⁴zuê⁶	tit4 chue6	99
+did⁴zuê⁶diêh⁸nang⁵	tit4 chue6  tieh8 nang5	149
+did⁴i³	tit4 i3	99
+did⁴li⁶	tit4 li6	199
+did⁴bng⁷	tit4 png7	99
+did⁸	tit8	499
+did⁸tau³	tit8 thau3	99
+diu¹	tiu1	1199
+diu²	tiu2	3599
+diu⁵	tiu5	599
+diu⁶	tiu6	2999
+diu⁷	tiu7	199
+dng¹	tng1	1299
+dng²	tng2	99
+dng³	tng3	499
+dng³zu²	tng3 chu2	99
+dng³piê³	tng3 phie3	99
+dng³pou³	tng3 phou3	99
+dng⁵	tng5	1599
+dng⁵iⁿ²	tng5 inn2	99
+dng⁵miaⁿ⁷	tng5 miann7	99
+dng⁵nang⁵ zi²gai⁵ su⁷ m⁶hiou²	tng5 nang5 chi2 kai5 su7 m6 hiou2	186
+dng⁵nang⁵ gai⁵ ziên³zun⁵ long²zong² dim⁵ke³	tng5 nang5 kai5 chien3 chun5 long2 chong2 tim5  khur3	149
+dng⁵nang⁵ gai⁵ ze¹niêⁿ⁵ ziê²ziê² bad⁴ri⁷	tng5 nang5 kai5 chur1 nienn5 chie2 chie2 pat4 ji7	196
+dng⁵nang⁵ gang²giu³ lui⁵gong¹ m⁶dui³	tng5 nang5 kang2 kiu3 lui5 kong1 m6 tui3	186
+dng⁵saⁿ¹	tng5 sann1	99
+dng⁵suaⁿ¹	tng5 suann1	99
+dng⁶	tng6	399
+dng⁶cui³	tng6 chhui3	149
+dng⁶kui³	tng6 khui3	199
+dng⁷	tng7	1099
+dng⁷oi⁵	tng7 oi5	99
+do¹	to1	3099
+do¹cê¹ ia⁷ si⁶ ziêⁿ³sêⁿ¹	to1 chhe1 ia7 si6 chienn3 senn1	99
+do¹gê³	to1 ke3	99
+do¹kag⁴	to1 khak4	99
+do¹giaⁿ²	to1 kiann2	149
+do¹nêg⁸	to1 nek8	99
+do²	to2	2099
+do²diêⁿ³	to2 tienn3	99
+do³	to3	1399
+do³ciu²	to3 chhiu2	99
+do³ziu²	to3 chiu2	99
+do³iu⁵	to3 iu5	99
+do³boiⁿ²	to3 poinn2	99
+do³dah⁸	to3 tah8	99
+do³diou³	to3 tiou3	99
+do⁵	to5	4199
+do⁶	to6	1999
+do⁶ zi²go³ gau³ he²go³	to6 chi2 ko3 kau3 hur2 ko3	99
+do⁶ zou²gê¹ zêg⁸niⁿ⁵ cun¹tiⁿ¹ si⁶ siang⁶ho²	to6 chou2 ke1 chek8 ninn5 chhun1  thinn1 si6 siang6 ho2	99
+do⁶ zou²gê¹ hê⁷tiⁿ¹ bho⁵ ziê² hiêⁿ³ruah⁸	to6 chou2 ke1 he7  thinn1 bo5 chie2 hienn3 juah8	149
+do⁶ hai²giⁿ⁵ u⁶ dua⁷ziêh⁸	to6 hai2 kinn5 u6 tua7 chieh8	99
+do⁶ sun⁶hah⁸ gêh⁴biah⁴	to6 sun6 hah8 keh4 piah4	99
+do⁶ziê² ho²sai⁷ zêg⁸diêⁿ¹ si³bang¹ cng⁵	to6 chie2 ho2 sai7 chek8 tienn1 si3 pang1 chhng5	149
+do⁶zun⁵	to6 chun5	99
+do⁶hiê² gai⁵ pou³ guiⁿ⁵dua⁷	to6 hie2 kai5 phou3 kuinn5 tua7	99
+do⁶he²go⁷ su¹iaⁿ⁵	to6 hur2  ko7 su1 iann5	99
+do⁶li²	to6 li2	99
+do⁷	to7	1999
+doh⁴	toh4	3849
+doh⁸	toh8	1699
+doh⁸ki²lai⁵	toh8  khi2 lai5	99
+doh⁸huê²	toh8 hue2	99
+doi¹	toi1	799
+doi²	toi2	699
+doi²ze²	toi2 chur2	99
+doi⁵	toi5	1399
+doi⁵ziⁿ⁵	toi5 chinn5	199
+doi⁶	toi6	299
+doiⁿ²	toinn2	99
+doiⁿ²zu²	toinn2 chu2	99
+doiⁿ²koi³	toinn2 khoi3	99
+doiⁿ⁶	toinn6	699
+doiⁿ⁶bhuê²	toinn6 bue2	99
+doiⁿ⁶id⁴	toinn6 it4	99
+doiⁿ⁶id⁴ho²	toinn6 it4 ho2	99
+doiⁿ⁶ri⁶	toinn6 ji6	99
+doiⁿ⁷	toinn7	1599
+doiⁿ⁷ca⁵	toinn7 chha5	99
+dog⁴	tok4	5199
+dog⁴co⁷	tok4 chho7	249
+dog⁴gang¹	tok4 kang1	99
+dog⁸	tok8	8999
+dom⁶	tom6	599
+dong¹	tong1	3599
+dong¹gim¹	tong1 kim1	99
+dong¹gog⁴	tong1 kok4	99
+dong¹gog⁴ gah⁴ ho⁵lan⁵sê¹ siê¹tai⁵	tong1 kok4 kah4 ho5 lan5 se1 sie1 thai5	99
+dong¹ngou²	tong1 ngou2	99
+dong¹ban⁷	tong1 pan7	99
+dong¹bo²	tong1 po2	99
+dong¹sim¹	tong1 sim1	99
+dong¹did⁸	tong1 tit8	199
+dong²	tong2	1199
+dong³	tong3	3799
+dong³êⁿ⁵	tong3 enn5	99
+dong³m⁶diou⁵	tong3 m6 tiou5	149
+dong⁶	tong6	1799
+dong⁶gag⁴	tong6 kak4	99
+dong⁷	tong7	599
+dou¹	tou1	1199
+dou²	tou2	999
+dou² bhoi⁶siou¹	tou2 boi6 siou1	149
+dou² kun³	tou2 khun3	99
+dou² lau⁷	tou2 lau7	99
+dou²zai⁵	tou2 chai5	99
+dou²iê¹	tou2 ie1	99
+dou²siab⁴	tou2 siap4	149
+dou²tiaⁿ³	tou2 thiann3	99
+dou³	tou3	599
+dou³ciu⁵	tou3 chhiu5	99
+dou³huru⁶	tou3 huru6	99
+dou⁵	tou5	1899
+dou⁵bun³	tou5 pun3	199
+dou⁶	tou6	4199
+dou⁷	tou7	1999
+dou⁷zun⁵	tou7 chun5	99
+du¹	tu1	3299
+du²	tu2	2499
+du³	tu3	599
+du³ze¹	tu3 chur1	99
+du⁵	tu5	1399
+du⁷	tu7	99
+dua³	tua3	899
+dua³ha³	tua3 ha3	99
+dua⁶	tua6	799
+dua⁷	tua7	899
+dua⁷au⁶rid⁸	tua7  au6 jit8	99
+dua⁷nang⁵	tua7  nang5	149
+dua⁷am⁶gui¹	tua7 am6 kui1	99
+dua⁷ang⁵	tua7 ang5	99
+dua⁷ca⁵	tua7 chha5	99
+dua⁷cai³	tua7 chhai3	99
+dua⁷cai⁵hu³	tua7 chhai5 hu3	99
+dua⁷cêng³	tua7 chheng3	199
+dua⁷cu³	tua7 chhu3	99
+dua⁷ziêh⁸	tua7 chieh8	99
+dua⁷zih⁸	tua7 chih8	99
+dua⁷zui²	tua7 chui2	99
+dua⁷ze⁵	tua7 chur5	99
+dua⁷hai²	tua7 hai2	99
+dua⁷hai² gai⁵ zui² nam⁵	tua7 hai2 kai5 chui2 nam5	99
+dua⁷huang¹	tua7 huang1	199
+dua⁷huê²	tua7 hue2	99
+dua⁷i⁵	tua7 i5	99
+dua⁷gê¹	tua7 ke1	99
+dua⁷gê¹guaⁿ¹	tua7 ke1 kuann1	99
+dua⁷gou¹	tua7 kou1	199
+dua⁷gu⁶	tua7 ku6	99
+dua⁷guaⁿ¹	tua7 kuann1	99
+dua⁷lau⁵nang⁵	tua7 lau5 nang5	149
+dua⁷mng⁵	tua7 mng5	99
+dua⁷ng⁵	tua7 ng5	99
+dua⁷oh⁸	tua7 oh8	99
+dua⁷siaⁿ¹	tua7 siann1	199
+dua⁷se⁷	tua7 sur7	99
+dua⁷tang²	tua7 thang2	99
+dua⁷tau⁵lo²	tua7 thau5 lo2	99
+dua⁷dou²lab⁴	tua7 tou2 lap4	99
+duah⁴	tuah4	699
+duang¹	tuang1	999
+duang³	tuang3	1499
+duang⁶	tuang6	2499
+duang⁷	tuang7	199
+duaⁿ¹	tuann1	1499
+duaⁿ¹nang⁵	tuann1 nang5	299
+duaⁿ¹dêng¹	tuann1 teng1	99
+duaⁿ¹dêng⁵	tuann1 teng5	99
+duaⁿ³	tuann3	599
+duaⁿ⁵	tuann5	599
+duaⁿ⁶	tuann6	899
+duaⁿ⁷	tuann7	99
+duê³	tue3	1499
+duê⁶	tue6	599
+duêng¹	tueng1	199
+duêng³	tueng3	299
+duêng⁶	tueng6	499
+dui¹	tui1	799
+dui²	tui2	899
+dui²huang¹	tui2 huang1	99
+dui³	tui3	1599
+dui³ziê² guê³	tui3 chie2 kue3	99
+dui³liên⁵	tui3 lien5	99
+dui³min⁷	tui3 min7	99
+dui³dêg⁸	tui3 tek8	99
+dui³tau⁵	tui3 thau5	99
+dui³duaⁿ¹	tui3 tuann1	99
+dui⁵	tui5	1199
+dui⁵iê¹	tui5 ie1	99
+dui⁶	tui6	1799
+dui⁷	tui7	1199
+dug⁸	tuk8	2399
+dun¹	tun1	299
+dun¹huê³bang⁵	tun1 hue3 pang5	99
+dun³ciu²	tun3 chhiu2	99
+dun⁶	tun6	99
+dun⁶buah⁴	tun6 puah4	99
+dung¹	tung1	9599
+dung²	tung2	1799
+dung³	tung3	599
+dung⁵	tung5	1199
+dung⁶	tung6	3599
+de¹	tur1	649
+de¹ liou⁵	tur1 liou5	149
+de¹bhah⁴	tur1 bah4	149
+de¹bho²	tur1 bo2	149
+de¹gau² kim⁵siu³	tur1 kau2 khim5 siu3	149
+de¹go¹	tur1 ko1	149
+de¹guaⁿ¹sêg⁴	tur1 kuann1 sek4	149
+de¹lo⁵	tur1 lo5	149
+de¹nêg⁸	tur1 nek8	149
+de⁵	tur5	1099
+de⁵huab⁴	tur5 huap4	99
+de⁵tau⁵	tur5 thau5	99
+de⁵diou⁷	tur5 tiou7	99
+de⁵dng⁶	tur5 tng6	99
+de⁷	tur7	699
+deng¹	turng1	1199
+deng²	turng2	199
+deng³	turng3	499
+deng⁵	turng5	1399
+deng⁶	turng6	699
+deng⁶ cui³	turng6 chhui3	199
+deng6 cui³	turng6 chhui3	198
+deng⁷	turng7	1199
+u¹	u1	11499
+u¹^ ziaⁿ⁵niⁿ⁵	u1^ chiann5 ninn5	99
+u²	u2	3299
+u² zui²	u2 chui2	199
+u2 zui²	u2 chui2	198
+u²lêng⁵	u2 leng5	99
+u²moⁿ⁵	u2 monn5	99
+u²sê¹	u2 se1	99
+u³	u3	3199
+u⁵	u5	6599
+u⁶	u6	2099
+u⁶ gê¹ lan⁵lo²	u6 ke1 lan5 lo2	99
+u⁶ ngou⁶gai⁵ diaⁿ⁷diaⁿ⁷	u6 ngou6 kai5 tiann7 tiann7	99
+u⁶ziⁿ⁵	u6 chinn5	99
+u⁶zuê⁶	u6 chue6	99
+u⁶êng⁷	u6 eng7	99
+u⁶hau³	u6 hau3	99
+u⁶iaⁿ²	u6 iann2	99
+u⁶gai⁵ aiⁿ³si²lo⁷	u6 kai5 ainn3 si2  lo7	99
+u⁶gai⁵ ze¹niêⁿ⁵ ru²ghau⁵ guê³ da¹bou¹	u6 kai5 chur1 nienn5 ju2 gau5 kue3 ta1 pou1	195
+u⁶gai⁵ goi¹ dua⁷ suaⁿ¹tau⁵ gai⁵ goi¹ zoi⁷ a¹	u6 kai5 koi1 tua7 suann1 thau5 kai5 koi1 choi7 a1	99
+u⁶gai⁵ pou³ saⁿ¹si³ in⁵ guiⁿ⁵	u6 kai5 phou3 sann1 si3 in5 kuinn5	99
+u⁶gai⁵ dêg⁴sun² kou²	u6 kai5 tek4 sun2 khou2	99
+u⁶gan¹siab⁸	u6 kan1 siap8	99
+u⁶lad⁸	u6 lat8	199
+u⁶lêng⁵ui⁵	u6 leng5 ui5	99
+u⁶loi²	u6 loi2	99
+u⁶niⁿ⁵huê³	u6 ninn5 hue3	99
+u⁶bou²	u6 pou2	99
+u⁶si³tau⁵	u6 si3 thau5	99
+u⁶sim¹se⁷	u6 sim1 sur7	99
+u⁶sin¹hun⁷	u6 sin1 hun7	99
+u⁶daⁿ²	u6 tann2	99
+u⁶to¹	u6 tho1	99
+u⁷	u7	199
+ua¹	ua1	5399
+ua²	ua2	799
+ua² aiⁿ³ siang⁶dêng²ho²gai⁵	ua2 ainn3 siang6 teng2 ho2  kai5	99
+ua² aiⁿ³ soi²êg⁸	ua2 ainn3 soi2 ek8	99
+ua² aiⁿ³ ti³tau⁵	ua2 ainn3 thi3 thau5	99
+ua² aiⁿ³ziah⁸	ua2 ainn3 chiah8	99
+ua² aiⁿ³zo³ lan⁵gan¹	ua2 ainn3 cho3 lan5 kan1	99
+ua² aiⁿ³hê⁶huê³	ua2 ainn3 he6 hue3	99
+ua² aiⁿ³ke³ bai³lau⁶ia⁵	ua2 ainn3 khur3 pai3 lau6 ia5	99
+ua² aiⁿ³giê³ sai¹bê⁶ lai⁵ siu¹sib⁸	ua2 ainn3 kie3 sai1 pe6 lai5 siu1 sip8	149
+ua² aiⁿ³guê³huan¹	ua2 ainn3 kue3 huan1	149
+ua² aiⁿ³buaⁿ¹	ua2 ainn3 puann1	99
+ua² aiⁿ³sng³ le² hiah⁴	ua2 ainn3 sng3 lur2 hiah4	186
+ua² aiⁿ³dah⁴ gab⁴ban²	ua2 ainn3 tah4 kap4 pan2	99
+ua² am¹bou¹ huê²	ua2 am1 pou1 hue2	149
+ua² bho⁵	ua2 bo5	99
+ua² bhoi⁶sia²	ua2 boi6 sia2	149
+ua² za¹rid⁸ zêng⁵lai⁵; ua² za¹rid⁸ u⁶lai⁵	ua2 cha1 jit8 cheng5  lai5; ua2 cha1 jit8 u6  lai5	99
+ua² za¹rid⁸ m⁶gi³did⁴ gah⁴ le² daⁿ³	ua2 cha1 jit8 m6 ki3 tit4 kah4 lur2 tann3	186
+ua² za¹mêⁿ⁵ tang³mêⁿ⁵ bhoi⁶ud⁸	ua2 cha1 menn5 thang3 menn5 boi6 ut8	186
+ua² za² m⁶bad⁴ lai⁵ziê²	ua2 cha2 m6 pat4 lai5  chie2	195
+ua² zai¹ i¹ do⁶ di⁵go³ kia⁶ki²	ua2 chai1 i1 to6 ti5 ko3 khia6 khi2	99
+ua² zêg⁸sin¹ lau⁵guaⁿ⁷	ua2 chek8 sin1 lau5 kuann7	99
+ua² ciaⁿ² i¹	ua2 chhiann2 i1	99
+ua² zi²gai⁵ loi²bai³ m⁶oiⁿ⁵ zai⁶	ua2 chi2 kai5 loi2 pai3 m6 oinn5 chai6	186
+ua² zi²gai⁵ di⁷hng¹ m⁶sêg⁸	ua2 chi2 kai5 ti7 hng1 m6 sek8	149
+ua² ziu⁶ liah⁸ i¹ ke³ ghê⁵mng⁵go⁷	ua2 chiu6 liah8 i1 khur3 ge5 mng5  ko7	99
+ua² zua⁷zua⁷ lai⁵gau³ cuê⁷ le² m⁶do⁶	ua2 chua7 chua7 lai5 kau3 chhue7 lur2 m6 to6	196
+ua² ê⁶gai⁵ghuêh⁸ aiⁿ³dng²	ua2 e6 kai5 gueh8 ainn3 tng2	99
+ua² hiou²	ua2 hiou2	99
+ua² rid⁸dau³ aiⁿ³ke³ koih⁴nang⁵ciaⁿ²	ua2 jit8 tau3 ainn3 khur3 khoih4 nang5 chhiann2	149
+ua² ga¹gi⁷ aiⁿ³êng⁷	ua2 ka1 ki7 ainn3 eng7	99
+ua² gah⁴ zi²goiⁿ¹ zab⁸gang²hang² gau¹guan¹ zoi⁷	ua2 kah4 chi2 koinn1 chap8 kang2 hang2 kau1 kuan1 choi7	149
+ua² gai⁵ ciu²zoiⁿ² lau⁵huêh⁴	ua2 kai5 chhiu2 choinn2 lau5 hueh4	99
+ua² gai⁵ bang⁵ zo³êng⁷ so²	ua2 kai5 pang5 cho3 eng7 so2	99
+ua² gai⁵ tau⁵moⁿ⁵ dng⁵lo⁷	ua2 kai5 thau5 monn5 tng5  lo7	99
+ua² gai⁵ dou² zi²gua¹rid⁸ siab⁴zai⁶	ua2 kai5 tou2 chi2 kua1 jit8 siap4 chai6	149
+ua² ki²lai⁵ toiⁿ²	ua2 khi2  lai5 thoinn2	149
+ua² gi³did⁴ le²	ua2 ki3 tit4 lur2	149
+ua² giaⁿ²rid⁸ nang⁵ m⁶moⁿ²	ua2 kiann2 jit8 nang5 m6 monn2	186
+ua² giaⁿ²rid⁸ tang³rid⁸ do⁶ lai⁷	ua2 kiann2 jit8 thang3 jit8 to6 lai7	99
+ua² lai⁵	ua2 lai5	99
+ua² lai⁵ke³ ui¹guan² kiêh⁸iêh⁸	ua2 lai5 khur3 ui1 kuan2 khieh8 ieh8	99
+ua² lan⁵lo² guaⁿ⁵iêh⁸ bun¹ le² ziah⁸	ua2 lan5 lo2 kuann5 ieh8 pun1 lur2 chiah8	149
+ua² li¹ m⁶zai¹	ua2 li1 m6 chai1	149
+ua² m⁶zai¹	ua2 m6 chai1	299
+ua² m⁶hiou²	ua2 m6 hiou2	149
+ua² m⁶hiou² kia⁵de⁷	ua2 m6 hiou2 khia5 tur7	149
+ua² m⁶ke³	ua2 m6 khur3	149
+ua² m⁶bad⁴ i¹	ua2 m6 pat4 i1	195
+ua² m⁶sin³ le²	ua2 m6 sin3 lur2	186
+ua² maⁿ³ki² gai⁵ se⁷ zoi⁷zai⁷	ua2 mann3 khi2 kai5 sur7 choi7 chai7	99
+ua² mêⁿ⁵niⁿ⁵ aiⁿ³dng²ke³	ua2 menn5 ninn5 ainn3 tng2  khur3	99
+ua² niⁿ⁵niⁿ⁵ diêh⁸dng²ke³	ua2 ninn5 ninn5 tieh8 tng2  khur3	99
+ua² bêⁿ⁷ u⁶ saⁿ¹gai⁵ loi²bai³	ua2 penn7 u6 sann1 kai5 loi2 pai3	99
+ua² bun¹ i¹ pah⁴	ua2 pun1 i1 phah4	149
+ua² si⁶ koih⁴nang⁵ uang²kud⁴	ua2 si6 khoih4  nang5 uang2 khut4	149
+ua² siang⁶ êng¹gog⁴nang⁵	ua2 siang6 eng1 kok4 nang5	186
+ua² siêⁿ⁶ la⁶a¹	ua2 sienn6 la6  a1	99
+ua² tiaⁿ¹ m⁶giⁿ³	ua2 thiann1 m6 kinn3	149
+ua² tiaⁿ¹giⁿ³ i¹ kau³	ua2 thiann1 kinn3 i1 khau3	99
+ua² toiⁿ² lah⁸rih⁸ ziu⁶zai¹	ua2 thoinn2 lah8 jih8 chiu6 chai1	149
+ua² diêh⁸hiam⁵ le²	ua2 tieh8 hiam5 lur2	186
+ua² do⁶ zi²go³	ua2 to6 chi2 ko3	99
+ua² do⁶ poi¹ ua² gai² zng²gah⁴	ua2 to6 phoi1 ua2 kai2 chng2 kah4	99
+ua² do⁶ sia²ri⁷	ua2 to6 sia2 ji7	99
+ua² do⁶hiê² u⁶ zêg⁸goiⁿ¹	ua2 to6 hie2 u6 chek8 koinn1	99
+ua² u⁶	ua2 u6	99
+ua²zun⁵biⁿ¹	ua2 chun5 pinn1	99
+uah⁸	uah8	799
+uah⁸dong⁶	uah8 tong6	99
+uai¹	uai1	1099
+uag⁴	uak4	799
+uag⁸	uak8	4499
+uan¹	uan1	249
+uan¹ciu⁵	uan1 chhiu5	299
+uan¹gê¹	uan1 ke1	349
+uan¹lai⁵ uan¹ke³	uan1 lai5 uan1 khur3	99
+uan⁵	uan5	99
+uan⁵gu³	uan5 ku3	199
+uan⁵niêⁿ⁵	uan5 nienn5	149
+uan⁵sui¹	uan5 sui1	99
+uang¹	uang1	3599
+uang¹kug⁴	uang1 khuk4	99
+uang²	uang2	9699
+uang²kud⁴	uang2 khut4	99
+uang³	uang3	499
+uang⁵	uang5	7499
+uang⁵bho⁷	uang5 bo7	99
+uang⁵hou⁶	uang5 hou6	199
+uang⁵gêng¹	uang5 keng1	99
+uang⁵lai⁵	uang5 lai5	99
+uang⁵lai⁵ si⁶ ho²zai⁶	uang5 lai5 si6 ho2 chai6	99
+uang⁵bo²	uang5 po2	99
+uang⁵siang⁶	uang5 siang6	99
+uang⁶	uang6	599
+uaⁿ¹	uann1	1199
+uaⁿ¹uê³	uann1 ue3	99
+uaⁿ²	uann2	1899
+uaⁿ²gong¹	uann2 kong1	99
+uaⁿ³	uann3	1399
+uaⁿ³cng⁵	uann3 chhng5	149
+uaⁿ³giaⁿ⁶	uann3 kiann6	199
+uaⁿ⁶	uann6	599
+uaⁿ⁷	uann7	499
+uaⁿ⁷ saⁿ¹kou³	uann7 sann1 khou3	99
+uaⁿ⁷saⁿ¹kou³	uann7 sann1 khou3	99
+uad⁴	uat4	99
+uê¹	ue1	1299
+uê¹giaⁿ²	ue1 kiann2	149
+uê³	ue3	4899
+uê⁶	ue6	2399
+uê⁷	ue7	1599
+uê⁷ang¹giaⁿ²	ue7 ang1 kiann2	299
+uê⁷siêⁿ³	ue7 sienn3	99
+uêh⁴	ueh4	599
+uêh⁸	ueh8	1899
+uêh⁸zuê⁷	ueh8 chue7	99
+uêh⁸ho⁷	ueh8 ho7	99
+uêh⁸huê¹ho⁷	ueh8 hue1 ho7	99
+uêg⁴	uek4	199
+uêg⁸	uek8	1599
+uêng¹	ueng1	599
+uêng²	ueng2	1899
+uêng³	ueng3	699
+uêng⁵	ueng5	4299
+uêng⁶	ueng6	399
+ui¹	ui1	3099
+ui¹ bhoi⁶ho²	ui1 boi6 ho2	149
+ui¹ oh⁴ho²	ui1 oh4 ho2	149
+ui¹guan²	ui1 kuan2	99
+ui¹sêng¹	ui1 seng1	99
+ui²	ui2	13899
+ui³	ui3	1399
+ui³cin³	ui3 chhin3	99
+ui³si²	ui3 si2	99
+ui³siou²li²	ui3 siou2 li2	99
+ui⁵	ui5	4399
+ui⁵dêng²	ui5 teng2	99
+ui⁶	ui6	599
+ui⁷	ui7	1899
+uiⁿ³	uinn3	99
+ug⁴	uk4	6599
+ug⁸	uk8	99
+un¹ziang³	un1 chiang3	199
+un²	un2	299
+un² zai¹lo⁷	un2 chai1  lo7	99
+un² gai⁵ hiêⁿ¹li² bho⁵	un2 kai5 hienn1 li2 bo5	149
+un² gai⁵ hiêⁿ¹li² zng¹lêng²	un2 kai5 hienn1 li2 chng1 leng2	186
+un² kia⁵ do¹cê¹	un2 khia5 to1 chhe1	99
+un² maiⁿ³	un2 mainn3	199
+un² si⁶ ia⁵sou¹ga³	un2 si6 ia5 sou1 ka3	99
+un²gai⁵ ze¹niêⁿ⁵ long²zong² bad⁴ri⁷	un2  kai5 chur1 nienn5 long2 chong2 pat4 ji7	196
+un²gai⁵ long²zong² si⁶ ziaⁿ³ siang⁷hai²gai⁵	un2  kai5 long2 chong2 si6 chiann3 siang7 hai2  kai5	99
+un²dng³	un2 tng3	99
+un³	un3	99
+un⁵un⁵	un5 un5	99
+un⁷	un7	99
+ung¹	ung1	3599
+ung²	ung2	2499
+ung³	ung3	1199
+ung⁵	ung5	4799
+ung⁶	ung6	4199
+ung⁷	ung7	2399
+e¹	ur1	199
+e²	ur2	999
+e³	ur3	3999
+e⁵	ur5	5999
+e⁶	ur6	3599
+e⁶bi⁶	ur6 pi6	99
+e⁷	ur7	999
+eng¹	urng1	699
+eng²	urng2	299
+ud⁴dng²tau⁵	ut4 tng2 thau5	99
+ud⁸	ut8	199
+ud⁸bang⁵	ut8 pang5	99

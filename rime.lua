@@ -1,3 +1,6 @@
--- PUJ 末尾自動加空格
--- 在 engine/filters 補加 - lua_filter@puj_spacer
-en_spacer = require("puj_spacer")
+local puj_filter_mod = require('puj_filter')
+puj_filter = puj_filter_mod[2]
+puj_caps_tracker = puj_filter_mod[1].processor
+local dp_filter_mod = require('dp_filter')
+dp_filter = dp_filter_mod[2]
+dp_caps_tracker = dp_filter_mod[1].processor

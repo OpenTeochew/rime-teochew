@@ -1,7 +1,8 @@
-# default.custom.yaml
+# Rime default settings customization
+# Generated from merged.csv - do not edit manually
 
 patch:
   schema_list:
-    - schema: teochew
     - schema: teochew_puj
-    - schema: luna_pinyin
+    - schema: teochew_dp
+  "menu/page_size": 6

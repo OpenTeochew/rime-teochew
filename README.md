@@ -63,26 +63,22 @@ cp -f rime-teochew-master/*.lua ~/Library/Rime
 
 ### 切換輸入方案
 
-按 `F4` 或 `Ctrl+`` 選擇以下方案：
+按 `F4` 或 `` Ctrl+` `` 選擇以下方案：
 
 - `teochew_puj`：白話字輸入
 - `teochew_dp`：潮州話拼音輸入
 - `teochew`：漢字佮羅馬字混合輸入
 
-### 輸入規則
+### 輸入規則（以 PUJ 為例）
 
 1. **聲調免拍**：無需輸入聲調數字
    - `lai` → 來
-
 2. **鼻化韻**：使用 `nn` 表示鼻化
    - `ainn` → aiⁿ
-
 3. **特殊韻母**：使用 `ur` 表示 ṳ
    - `lur` → lṳ́（汝）
-
 4. **連字符**：無需輸入連字符
    - `chiahte` → chia̍h-tê（食茶）
-
 5. **簡拼支持**：支持首字母簡拼
    - `lh` → 汝好
 
@@ -119,14 +115,14 @@ cp -f rime-teochew-master/*.lua ~/Library/Rime
 3. [潮州白話字 - 維基百科](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)
 4. [Rime 輸入法引擎](https://rime.im/)
 5. [潮語拼音輸入法](https://github.com/kahaani/dieghv)
-6. [dataset](https://github.com/hokkien-writing/dataset)
+6. [hokkien-writing/dataset](https://github.com/hokkien-writing/dataset)
 
 ## 貢獻
 
 歡迎提交 Issue 佮 Pull Request 來改進本項目！
 
 1. 拍字法配置方面，請修改 `*.schema.yaml` 文件
-2. 用字方面，請前往 [dataset](https://github.com/hokkien-writing/dataset) 項目進行修改
+2. 用字方面，請前往 [hokkien-writing/dataset](https://github.com/hokkien-writing/dataset) 項目進行修改
 
 ## 授權
 

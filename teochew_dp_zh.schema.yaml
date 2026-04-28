@@ -3,10 +3,10 @@
 
 schema:
   schema_id: teochew_dp_zh
-  name: 潮州話拼音-普通話
-  version: "20260427.211159"
+  name: 普通話☞潮州話·拼音
+  version: "20260428.231302"
   author:
-    - Hokkien Writing Project
+    - Hokkien Writing Project(https://github.com/hokkien-writing)
 
 engine:
   processors:

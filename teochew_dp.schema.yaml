@@ -3,10 +3,10 @@
 
 schema:
   schema_id: teochew_dp
-  name: 潮州話拼音
-  version: "20260427.211159"
+  name: 潮州話·拼音
+  version: "20260428.231302"
   author:
-    - Hokkien Writing Project
+    - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
     - teochew_dp_en
     - teochew_dp_zh
@@ -53,7 +53,7 @@ engine:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-!~`
-  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " -"
   algebra:
     - xform/^g/gh/

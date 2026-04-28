@@ -1,7 +1,7 @@
 -- Rime Lua module: dp_filter (contains both processor and filter)
 -- Generated from scripts/export_rime.py - do not edit manually
 
--- Comprehensive mapping of syllable codes to 潮州話拼音 handwriting
+-- Comprehensive mapping of syllable codes to 潮州話·拼音 handwriting
 local SYLLABLE_MAP = {
     ["a"] = "a¹",
     ["a1"] = "a¹",

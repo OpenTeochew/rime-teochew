@@ -3,10 +3,10 @@
 
 schema:
   schema_id: teochew_puj
-  name: 潮州白話字
-  version: "20260427.211159"
+  name: 潮州話·白話字
+  version: "20260428.231302"
   author:
-    - Hokkien Writing Project
+    - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
     - teochew_puj_en
     - teochew_puj_zh
@@ -53,13 +53,14 @@ engine:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-!~`
-  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " -"
   algebra:
     - derive/ /-/
     - derive/[1-8]//
-    - derive/ch/ts/
-    - derive/chh/tsh/
+    - derive/^ch/ts/
+    - derive/^chh/tsh/
+    - derive/^j/z/
     - derive/oinn/ainn/
     - derive/nn//
     - derive/a/A/

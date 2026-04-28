@@ -67,7 +67,6 @@ cp -f rime-teochew-master/*.lua ~/Library/Rime
 
 - `teochew_puj`：白話字輸入
 - `teochew_dp`：潮州話拼音輸入
-- `teochew`：漢字佮羅馬字混合輸入
 
 ### 輸入規則（以 PUJ 為例）
 

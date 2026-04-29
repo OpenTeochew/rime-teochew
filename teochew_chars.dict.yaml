@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: teochew_chars
-version: "20260428.231302"
+version: "20260429.234501"
 sort: by_weight
 ...
 
@@ -1075,7 +1075,7 @@ sort: by_weight
 匠	chhionn7	400
 搶	chhionn7	400
 鍬	chhiou1	200
-𢲵	chhiou1	100
+𢲵	chhiou1	200
 俏	chhiou2	200
 嘲	chhiou2	200
 峭	chhiou2	200
@@ -8932,7 +8932,7 @@ sort: by_weight
 迫	pek4	800
 逼	pek4	600
 鉍	pek4	100
-𤇢	pek4	100
+𤇢	pek4	200
 乒	peng1	100
 檳	peng1	100
 匾	peng2	100
@@ -12298,7 +12298,7 @@ s	sur7	150
 第	toinn6	700
 殿	toinn7	500
 靛	toinn7	500
-𠕆	toinn7	450
+𠕆	toinn7	550
 𠕇	toinn7	400
 剁	tok4	100
 斫	tok4	1100

@@ -2,7 +2,7 @@
 # Generated from merged.csv - English reverse lookup
 ---
 name: teochew_puj_en
-version: "20260428.231302"
+version: "20260429.234501"
 sort: by_weight
 ...
 
@@ -1295,7 +1295,7 @@ bùn	creep through a gap	50
 天光 (thiⁿ-kng)	daybreak dawn	100
 搶目 (chhiēⁿ-ma̍k)	dazzle	100
 映目 (iàng-ma̍k)	dazzle	100
-In-n̄g (in-n̄g)	dazzle	100
+in-n̄g	dazzle	50
 過去 (kùe--khṳ̀)	dead	100
 過世 (kùe-sì)	dead	100
 死 (sí)	dead	100
@@ -4694,6 +4694,7 @@ niouⁿ	tickle	50
 沉 (tîm)	to sink	100
 開藥機 (khui ie̍k-kúi)	to start engine	100
 掠舵 (lia̍h-tũa)	to steer	100
+𢲵 (chhiou)	to stir	100
 䌜 (nn̂g)	to stitch	100
 關藥機 (kueⁿ ie̍h-kúi)	to stop engine	100
 除 (tṳ̂)	to subtract	100

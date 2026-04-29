@@ -2,8 +2,9 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260428.231302"
+version: "20260429.234501"
 sort: by_weight
+use_preset_vocabulary: true
 import_tables:
   - teochew_chars
   - teochew
@@ -1072,7 +1073,6 @@ in sĩ gūa-nâng; i--nâng sĩ gūa-nâng	in1 si6 gua7 nang5; i1  nang5 si6 gua
 in-chi	in1 chi1	99
 in-kè	in1 ke3	99
 in-nîⁿ	in1 ninn5	99
-in-n̄g	in1 ng7	99
 in-tâng	in1 tang5	449
 in-uan khit-khek	in1 uan1 khit4 khek4	99
 in-ûi	in1 ui5	99

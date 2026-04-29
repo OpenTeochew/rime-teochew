@@ -6141,6 +6141,8 @@ local LATIN_UPPER = {
     ["ā"] = "Ā", ["ē"] = "Ē", ["ĩ"] = "Ĩ", ["ī"] = "Ī",
     ["ń"] = "Ń", ["ō"] = "Ō", ["ũ"] = "Ũ", ["ū"] = "Ū",
     ["ǹ"] = "Ǹ", ["ḿ"] = "Ḿ", ["ṳ"] = "Ṳ", ["ẽ"] = "Ẽ",
+    ["ǎ"] = "Ǎ", ["ě"] = "Ě", ["ǐ"] = "Ǐ", ["ǒ"] = "Ǒ", ["ǔ"] = "Ǔ",
+    ["ǖ"] = "Ǖ", ["ǘ"] = "Ǘ", ["ǚ"] = "Ǚ", ["ǜ"] = "Ǜ",
 }
 
 local function capitalize_first(text)
@@ -6169,7 +6171,8 @@ local function processor(key, env)
         return 2
     end
 
-    if kc >= 65 and kc <= 90 then
+    local is_uppercase_letter = (kc >= 65 and kc <= 90) or (kc >= 97 and kc <= 122 and (key:shift() or key:caps()))
+    if is_uppercase_letter then
         _caps_mask = _caps_mask .. "U"
     elseif (kc >= 97 and kc <= 122) or (kc >= 48 and kc <= 57) or kc == 45 then
         _caps_mask = _caps_mask .. "_"
@@ -6202,6 +6205,9 @@ local function filter(translation, env)
     local caps = _caps_mask
     local has_caps = caps:sub(1, 1) == "U"
 
+    local latin_items = {}
+    local han_items = {}
+
     for cand in translation:iter() do
         if is_han_char(cand.text) then
             local comment = cand.comment or ""
@@ -6211,7 +6217,11 @@ local function filter(translation, env)
             hw = hw:gsub("   ", "--")
             hw = hw:gsub("  ", "-")
             cand.comment = hw
-            yield(cand)
+            if has_caps then
+                table.insert(han_items, cand)
+            else
+                yield(cand)
+            end
         else
             local comment = cand.comment or ""
             local hw_parts = {}
@@ -6232,12 +6242,26 @@ local function filter(translation, env)
                 new_text = capitalize_first(new_text)
             end
             if new_text ~= cand.text then
-                yield(ShadowCandidate(cand, cand.type, new_text, ""))
+                local c = ShadowCandidate(cand, cand.type, new_text, "")
+                if has_caps then
+                    table.insert(latin_items, c)
+                else
+                    yield(c)
+                end
             else
                 cand.comment = ""
-                yield(cand)
+                if has_caps then
+                    table.insert(latin_items, cand)
+                else
+                    yield(cand)
+                end
             end
         end
+    end
+
+    if has_caps then
+        for _, c in ipairs(latin_items) do yield(c) end
+        for _, c in ipairs(han_items) do yield(c) end
     end
 end
 

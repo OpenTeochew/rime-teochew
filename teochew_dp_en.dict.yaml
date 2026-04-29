@@ -2,7 +2,7 @@
 # Generated from merged.csv - English reverse lookup
 ---
 name: teochew_dp_en
-version: "20260428.231302"
+version: "20260429.234501"
 sort: by_weight
 ...
 
@@ -1295,7 +1295,7 @@ bhun³	creep through a gap	50
 天光 (tiⁿ¹gng¹)	daybreak dawn	100
 搶目 (ciêⁿ⁷mag⁸)	dazzle	100
 映目 (iang³mag⁸)	dazzle	100
-In-n̄g (in¹ng⁷)	dazzle	100
+in¹ng⁷	dazzle	50
 過去 (guê³ke³)	dead	100
 過世 (guê³si³)	dead	100
 死 (si²)	dead	100
@@ -4694,6 +4694,7 @@ an⁵	tight as rope	50
 沉 (dim⁵)	to sink	100
 開藥機 (kui¹ iêg⁸gui²)	to start engine	100
 掠舵 (liah⁸dua⁶)	to steer	100
+𢲵 (ciou¹)	to stir	100
 䌜 (nng⁵)	to stitch	100
 關藥機 (guêⁿ¹ iêh⁸gui²)	to stop engine	100
 除 (de⁵)	to subtract	100

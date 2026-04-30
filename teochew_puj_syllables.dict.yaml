@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_puj_syllables
-version: "20260429.234501"
+version: "20260430.223547"
 sort: by_weight
 ...
 
@@ -194,6 +194,8 @@ bùng	bung3	1
 bûng	bung5	1
 bũng	bung6	1
 būng	bung7	1
+but	but4	1
+bu̍t	but8	1
 tsa	cha1	1
 tsá	cha2	1
 tsà	cha3	1
@@ -544,12 +546,16 @@ tshùaⁿ	chhuann3	1
 tshûaⁿ	chhuann5	1
 tshũaⁿ	chhuann6	1
 tshūaⁿ	chhuann7	1
+tshuat	chhuat4	1
+tshua̍t	chhuat8	1
 tshue	chhue1	1
 tshúe	chhue2	1
 tshùe	chhue3	1
 tshûe	chhue5	1
 tshũe	chhue6	1
 tshūe	chhue7	1
+tshueh	chhueh4	1
+tshue̍h	chhueh8	1
 tshuek	chhuek4	1
 tshue̍k	chhuek8	1
 tshueng	chhueng1	1
@@ -634,6 +640,8 @@ chiàu	chiau3	1
 chiâu	chiau5	1
 chiãu	chiau6	1
 chiāu	chiau7	1
+chiauh	chiauh4	1
+chiau̍h	chiauh8	1
 chie	chie1	1
 chié	chie2	1
 chiè	chie3	1
@@ -670,6 +678,8 @@ chiẽⁿ	chienn6	1
 chiēⁿ	chienn7	1
 chiep	chiep4	1
 chie̍p	chiep8	1
+chiet	chiet4	1
+chie̍t	chiet8	1
 chih	chih4	1
 chi̍h	chih8	1
 chik	chik4	1
@@ -806,6 +816,8 @@ tsùaⁿ	chuann3	1
 tsûaⁿ	chuann5	1
 tsũaⁿ	chuann6	1
 tsūaⁿ	chuann7	1
+tsuat	chuat4	1
+tsua̍t	chuat8	1
 tsue	chue1	1
 tsúe	chue2	1
 tsùe	chue3	1
@@ -856,6 +868,8 @@ tsṳ̀ng	churng3	1
 tsṳ̂ng	churng5	1
 tsṳ̃ng	churng6	1
 tsṳ̄ng	churng7	1
+tsut	chut4	1
+tsu̍t	chut8	1
 e	e1	1
 é	e2	1
 è	e3	1
@@ -1516,6 +1530,12 @@ iùⁿ	iunn3	1
 iûⁿ	iunn5	1
 iũⁿ	iunn6	1
 iūⁿ	iunn7	1
+je	je1	1
+jé	je2	1
+jè	je3	1
+jê	je5	1
+jẽ	je6	1
+jē	je7	1
 jek	jek4	1
 je̍k	jek8	1
 jeng	jeng1	1
@@ -1670,6 +1690,8 @@ zuàng	juang3	1
 zuâng	juang5	1
 zuãng	juang6	1
 zuāng	juang7	1
+zuat	juat4	1
+zua̍t	juat8	1
 zue	jue1	1
 zúe	jue2	1
 zùe	jue3	1
@@ -1756,6 +1778,12 @@ kàⁿ	kann3	1
 kâⁿ	kann5	1
 kãⁿ	kann6	1
 kāⁿ	kann7	1
+kao	kao1	1
+káo	kao2	1
+kào	kao3	1
+kâo	kao5	1
+kão	kao6	1
+kāo	kao7	1
 kap	kap4	1
 ka̍p	kap8	1
 kat	kat4	1
@@ -1878,6 +1906,8 @@ khiàng	khiang3	1
 khiâng	khiang5	1
 khiãng	khiang6	1
 khiāng	khiang7	1
+khiap	khiap4	1
+khia̍p	khiap8	1
 khiat	khiat4	1
 khia̍t	khiat8	1
 khiau	khiau1	1
@@ -1896,6 +1926,12 @@ khièm	khiem3	1
 khiêm	khiem5	1
 khiẽm	khiem6	1
 khiēm	khiem7	1
+khien	khien1	1
+khién	khien2	1
+khièn	khien3	1
+khiên	khien5	1
+khiẽn	khien6	1
+khiēn	khien7	1
 khieng	khieng1	1
 khiéng	khieng2	1
 khièng	khieng3	1
@@ -1908,6 +1944,8 @@ khièⁿ	khienn3	1
 khiêⁿ	khienn5	1
 khiẽⁿ	khienn6	1
 khiēⁿ	khienn7	1
+khiet	khiet4	1
+khie̍t	khiet8	1
 khih	khih4	1
 khi̍h	khih8	1
 khik	khik4	1
@@ -2188,6 +2226,8 @@ kiẽⁿ	kienn6	1
 kiēⁿ	kienn7	1
 kiep	kiep4	1
 kie̍p	kiep8	1
+kiet	kiet4	1
+kie̍t	kiet8	1
 kih	kih4	1
 ki̍h	kih8	1
 kik	kik4	1
@@ -2342,6 +2382,8 @@ kùaⁿ	kuann3	1
 kûaⁿ	kuann5	1
 kũaⁿ	kuann6	1
 kūaⁿ	kuann7	1
+kuat	kuat4	1
+kua̍t	kuat8	1
 kue	kue1	1
 kúe	kue2	1
 kùe	kue3	1
@@ -2514,6 +2556,12 @@ liàu	liau3	1
 liâu	liau5	1
 liãu	liau6	1
 liāu	liau7	1
+lie	lie1	1
+lié	lie2	1
+liè	lie3	1
+liê	lie5	1
+liẽ	lie6	1
+liē	lie7	1
 liek	liek4	1
 lie̍k	liek8	1
 liem	liem1	1
@@ -2634,6 +2682,8 @@ luàng	luang3	1
 luâng	luang5	1
 luãng	luang6	1
 luāng	luang7	1
+luat	luat4	1
+lua̍t	luat8	1
 luek	luek4	1
 lue̍k	luek8	1
 lueng	lueng1	1
@@ -2828,6 +2878,8 @@ miòu	miou3	1
 miôu	miou5	1
 miõu	miou6	1
 miōu	miou7	1
+mit	mit4	1
+mi̍t	mit8	1
 miu	miu1	1
 miú	miu2	1
 miù	miu3	1
@@ -2888,6 +2940,8 @@ mùaⁿ	muann3	1
 mûaⁿ	muann5	1
 mũaⁿ	muann6	1
 mūaⁿ	muann7	1
+muat	muat4	1
+mua̍t	muat8	1
 mue	mue1	1
 múe	mue2	1
 mùe	mue3	1
@@ -2924,6 +2978,8 @@ mùng	mung3	1
 mûng	mung5	1
 mũng	mung6	1
 mūng	mung7	1
+mut	mut4	1
+mu̍t	mut8	1
 na	na1	1
 ná	na2	1
 nà	na3	1
@@ -3114,6 +3170,8 @@ ngiẽng	ngieng6	1
 ngiēng	ngieng7	1
 ngiep	ngiep4	1
 ngie̍p	ngiep8	1
+ngiet	ngiet4	1
+ngie̍t	ngiet8	1
 ngim	ngim1	1
 ngím	ngim2	1
 ngìm	ngim3	1
@@ -3138,6 +3196,10 @@ ngò	ngo3	1
 ngô	ngo5	1
 ngõ	ngo6	1
 ngō	ngo7	1
+ngoh	ngoh4	1
+ngo̍h	ngoh8	1
+ngoih	ngoih4	1
+ngoi̍h	ngoih8	1
 ngoiⁿ	ngoinn1	1
 ngóiⁿ	ngoinn2	1
 ngòiⁿ	ngoinn3	1
@@ -3200,6 +3262,8 @@ ngṳ̀ng	ngurng3	1
 ngṳ̂ng	ngurng5	1
 ngṳ̃ng	ngurng6	1
 ngṳ̄ng	ngurng7	1
+ngṳt	ngurt4	1
+ngṳ̍t	ngurt8	1
 ni	ni1	1
 ní	ni2	1
 nì	ni3	1
@@ -3468,6 +3532,8 @@ pàu	pau3	1
 pâu	pau5	1
 pãu	pau6	1
 pāu	pau7	1
+pauh	pauh4	1
+pau̍h	pauh8	1
 pe	pe1	1
 pé	pe2	1
 pè	pe3	1
@@ -3512,6 +3578,12 @@ phãiⁿ	phainn6	1
 phāiⁿ	phainn7	1
 phak	phak4	1
 pha̍k	phak8	1
+phan	phan1	1
+phán	phan2	1
+phàn	phan3	1
+phân	phan5	1
+phãn	phan6	1
+phān	phan7	1
 phang	phang1	1
 pháng	phang2	1
 phàng	phang3	1
@@ -3912,6 +3984,8 @@ pùaⁿ	puann3	1
 pûaⁿ	puann5	1
 pũaⁿ	puann6	1
 pūaⁿ	puann7	1
+puat	puat4	1
+pua̍t	puat8	1
 pue	pue1	1
 púe	pue2	1
 pùe	pue3	1
@@ -4036,6 +4110,8 @@ sèⁿ	senn3	1
 sêⁿ	senn5	1
 sẽⁿ	senn6	1
 sēⁿ	senn7	1
+set	set4	1
+se̍t	set8	1
 si	si1	1
 sí	si2	1
 sì	si3	1
@@ -4534,8 +4610,16 @@ thiẽng	thieng6	1
 thiēng	thieng7	1
 thiep	thiep4	1
 thie̍p	thiep8	1
+thiet	thiet4	1
+thie̍t	thiet8	1
 thih	thih4	1
 thi̍h	thih8	1
+thin	thin1	1
+thín	thin2	1
+thìn	thin3	1
+thîn	thin5	1
+thĩn	thin6	1
+thīn	thin7	1
 thing	thing1	1
 thíng	thing2	1
 thìng	thing3	1
@@ -4894,6 +4978,12 @@ tũa	tua6	1
 tūa	tua7	1
 tuah	tuah4	1
 tua̍h	tuah8	1
+tuan	tuan1	1
+tuán	tuan2	1
+tuàn	tuan3	1
+tuân	tuan5	1
+tuãn	tuan6	1
+tuān	tuan7	1
 tuang	tuang1	1
 tuáng	tuang2	1
 tuàng	tuang3	1
@@ -4950,6 +5040,8 @@ tṳ̀ng	turng3	1
 tṳ̂ng	turng5	1
 tṳ̃ng	turng6	1
 tṳ̄ng	turng7	1
+tut	tut4	1
+tu̍t	tut8	1
 u	u1	1
 ú	u2	1
 ù	u3	1

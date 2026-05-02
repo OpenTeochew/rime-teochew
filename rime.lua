@@ -1,3 +1,12 @@
+local bp_filter_mod = require('bp_filter')
+bp_filter = bp_filter_mod[2]
+bp_caps_tracker = bp_filter_mod[1].processor
+local tl_filter_mod = require('tl_filter')
+tl_filter = tl_filter_mod[2]
+tl_caps_tracker = tl_filter_mod[1].processor
+local poj_filter_mod = require('poj_filter')
+poj_filter = poj_filter_mod[2]
+poj_caps_tracker = poj_filter_mod[1].processor
 local puj_filter_mod = require('puj_filter')
 puj_filter = puj_filter_mod[2]
 puj_caps_tracker = puj_filter_mod[1].processor

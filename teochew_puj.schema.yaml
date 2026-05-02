@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_puj
   name: 潮州話·白話字
-  version: "20260502.153036"
+  version: "20260502.203228"
   author:
     - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:

@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_dp
-version: "20260502.153036"
+version: "20260502.203228"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:

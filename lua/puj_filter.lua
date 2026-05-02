@@ -6324,13 +6324,44 @@ local function is_han_char(text)
     return false
 end
 
+local function synth_from_input(input)
+    local synth = ""
+    local si = 1
+    while si <= #input do
+        local tok = input:match("^[%w]+", si)
+        if tok then
+            local hw = SYLLABLE_MAP[tok:lower()]
+            if not hw then return nil end
+            synth = synth .. hw
+            si = si + #tok
+        else
+            local sep = input:match("^[^%w]+", si)
+            if sep then synth = synth .. sep; si = si + #sep
+            else synth = synth .. input:sub(si, si); si = si + 1 end
+        end
+    end
+    return synth
+end
+
 local function filter(translation, env)
     local ctx = env.engine.context
     local caps = _caps_mask
     local has_caps = caps:sub(1, 1) == "U"
+    local input = ctx.input or ""
+    local has_digits = input:match("%d") ~= nil
+    local latin_first = has_caps or has_digits
 
-    local latin_items = {}
+    local input_syl_count = 0
+    if has_digits then
+        for _ in input:gmatch("[%w]+") do
+            input_syl_count = input_syl_count + 1
+        end
+    end
+
+    local latin_full = {}
+    local latin_partial = {}
     local han_items = {}
+    local han_partial = {}
 
     for cand in translation:iter() do
         if is_han_char(cand.text) then
@@ -6341,41 +6372,91 @@ local function filter(translation, env)
             hw = hw:gsub("   ", "--")
             hw = hw:gsub("  ", "-")
             cand.comment = hw
-            if has_caps then
-                table.insert(han_items, cand)
+            if latin_first then
+                if has_digits and cand._end - cand.start >= #input then
+                    local code_count = 0
+                    for _ in comment:gmatch("[%w]+") do
+                        code_count = code_count + 1
+                    end
+                    if code_count == input_syl_count then
+                        table.insert(han_items, cand)
+                    else
+                        table.insert(han_partial, cand)
+                    end
+                else
+                    table.insert(han_items, cand)
+                end
             else
                 yield(cand)
             end
         else
             local comment = cand.comment or ""
-            local hw_parts = {}
+            local codes = {}
             for code in comment:gmatch("[%w]+") do
-                local hw = SYLLABLE_MAP[code:lower()]
-                if hw then
-                    table.insert(hw_parts, hw)
+                table.insert(codes, code:lower())
+            end
+            local syl_mismatch = has_digits and #codes ~= input_syl_count
+            local new_text = ""
+            local i = 1
+            local code_idx = 1
+            local valid = true
+            while i <= #input do
+                local token = input:match("^[%w]+", i)
+                if token then
+                    local hw = nil
+                    local ci = code_idx
+                    while ci <= #codes do
+                        hw = SYLLABLE_MAP[codes[ci]]
+                        if hw then
+                            code_idx = ci + 1
+                            break
+                        end
+                        ci = ci + 1
+                    end
+                    if not hw then
+                        hw = SYLLABLE_MAP[token:lower()]
+                    end
+                    if not hw then
+                        valid = false
+                        break
+                    end
+                    new_text = new_text .. hw
+                    i = i + #token
                 else
-                    hw_parts = {}
-                    break
+                    local sep = input:match("^[^%w]+", i)
+                    if sep then
+                        new_text = new_text .. sep
+                        i = i + #sep
+                    else
+                        new_text = new_text .. input:sub(i, i)
+                        i = i + 1
+                    end
                 end
             end
-            local new_text = cand.text
-            if #hw_parts > 0 then
-                new_text = table.concat(hw_parts, "-")
-            end
+            if not valid then new_text = cand.text end
             if has_caps then
                 new_text = capitalize_first(new_text)
             end
+            local is_full = cand._end - cand.start >= #input and not syl_mismatch
             if new_text ~= cand.text then
                 local c = ShadowCandidate(cand, cand.type, new_text, "")
-                if has_caps then
-                    table.insert(latin_items, c)
+                if latin_first then
+                    if is_full then
+                        table.insert(latin_full, c)
+                    else
+                        table.insert(latin_partial, c)
+                    end
                 else
                     yield(c)
                 end
             else
                 cand.comment = ""
-                if has_caps then
-                    table.insert(latin_items, cand)
+                if latin_first then
+                    if is_full then
+                        table.insert(latin_full, cand)
+                    else
+                        table.insert(latin_partial, cand)
+                    end
                 else
                     yield(cand)
                 end
@@ -6383,9 +6464,35 @@ local function filter(translation, env)
         end
     end
 
-    if has_caps then
-        for _, c in ipairs(latin_items) do yield(c) end
+    if latin_first then
+        if #latin_full == 0 and has_digits then
+            local synth = synth_from_input(input)
+            if synth then
+                if has_caps then synth = capitalize_first(synth) end
+                local shadowed = false
+                for _, hc in ipairs(han_items) do
+                    if hc._end - hc.start >= #input then
+                        local c = ShadowCandidate(hc, hc.type, synth, "")
+                        c.quality = hc.quality + 1000
+                        table.insert(latin_full, 1, c)
+                        shadowed = true
+                        break
+                    end
+                end
+                if not shadowed then
+                    local c = Candidate("synth", 0, #input, synth, "")
+                    c.quality = 1000
+                    table.insert(latin_full, 1, c)
+                end
+            end
+        end
+        table.sort(han_items, function(a, b)
+            return (a._end - a.start) > (b._end - b.start)
+        end)
+        for _, c in ipairs(latin_full) do yield(c) end
         for _, c in ipairs(han_items) do yield(c) end
+        for _, c in ipairs(latin_partial) do yield(c) end
+        for _, c in ipairs(han_partial) do yield(c) end
     end
 end
 

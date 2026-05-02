@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: teochew_chars
-version: "20260502.203228"
+version: "20260502.225055"
 sort: by_weight
 ...
 
@@ -178,10 +178,9 @@ sort: by_weight
 蜜	bek8	50
 米	bi2	122
 氼	bi3	100
-味	bi7	116
+味	bi7	117
 未	bi7	106
 氼	bi7	102
-味	bi8	100
 描	bie5	102
 瞄	bie5	102
 廟	bie7	103
@@ -2101,7 +2100,7 @@ sort: by_weight
 絕	choh8	107
 齊	choi5	102
 㩼	choi6	101
-㩼	choi7	140
+㩼	choi7	141
 節	choih4	114
 截	choih8	108
 指	choinn2	110
@@ -8940,13 +8939,23 @@ sort: by_weight
 㜷	nenn1	50
 嬭	nenn1	100
 嗡	ng1	104
-秧	ng1	100
-䘼	ng2	104
+恩	ng1	52
+摁	ng1	52
+秧	ng1	106
+蒽	ng1	52
+䘼	ng2	56
+姆	ng2	51
+尹	ng2	52
+秧	ng2	51
+隱	ng2	53
 仰	ng3	100
-磺	ng5	101
-黃	ng5	108
+磺	ng5	107
+隍	ng5	57
+黃	ng5	114
 黄	ng5	101
-嗯	ng7	100
+嗯	ng6	55
+㕶	ng7	55
+嗯	ng7	106
 㦙	nga3	102
 厓	ngai5	55
 呆	ngai5	106
@@ -9508,21 +9517,6 @@ sort: by_weight
 繆	niu5	55
 繆	niu6	55
 謬	niu6	106
-恩	nk1	52
-摁	nk1	52
-秧	nk1	55
-蒽	nk1	52
-䘼	nk2	51
-姆	nk2	51
-尹	nk2	52
-秧	nk2	51
-隱	nk2	53
-磺	nk5	55
-隍	nk5	57
-黃	nk5	55
-嗯	nk6	55
-㕶	nk7	55
-嗯	nk7	55
 女	nng2	107
 蝡	nng2	52
 蠕	nng2	52

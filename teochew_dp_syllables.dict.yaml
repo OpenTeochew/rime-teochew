@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_dp_syllables
-version: "20260502.203228"
+version: "20260502.225055"
 sort: by_weight
 ...
 
@@ -3362,8 +3362,6 @@ niu³	niu3	1
 niu⁵	niu5	1
 niu⁶	niu6	1
 niu⁷	niu7	1
-ng⁴	nk4	1
-ng⁸	nk8	1
 nng¹	nng1	1
 nng²	nng2	1
 nng³	nng3	1

@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_dp
-version: "20260502.203228"
+version: "20260502.225055"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -475,11 +475,11 @@ cin¹nang⁵	chhin1 nang5	151
 cin¹ziaⁿ⁵	chhin1 chiann5	99
 cin¹ziaⁿ⁶	chhin1 chiann6	99
 ciou⁵têng⁵	chhiou5 theng5	100
-ciu2 ng²	chhiu2 nk2	48
+ciu2 ng²	chhiu2 ng2	48
 ciu2 ung²	chhiu2 ung2	48
 ciu3 ki²	chhiu3 khi2	49
 ciu² maiⁿ³tang⁶diêh⁸	chhiu2 mainn3 thang6  tieh8	99
-ciu² ng²	chhiu2 nk2	49
+ciu² ng²	chhiu2 ng2	49
 ciu² ung²	chhiu2 ung2	49
 ciu²bou³	chhiu2 pou3	99
 ciu²diu⁵	chhiu2 tiu5	99
@@ -2025,11 +2025,11 @@ lim⁵si⁵	lim5 si5	99
 lin³ziⁿ⁵	lin3 chinn5	99
 lin⁵gen⁶	lin5 kurn6	99
 liou⁷li²	liou7 li2	99
-liu5 ng⁵	liu5 nk5	49
+liu5 ng⁵	liu5 ng5	49
 liu²pang⁷	liu2 phang7	99
 liu³buah⁸	liu3 puah8	99
 liu³loh⁸ke³	liu3  loh8 khur3	99
-liu⁵ ng⁵	liu5 nk5	50
+liu⁵ ng⁵	liu5 ng5	50
 liu⁵lian⁵	liu5 lian5	99
 liu⁵ng⁵	liu5 ng5	99
 liu⁵si²	liu5 si2	99
@@ -2174,8 +2174,8 @@ mog⁸se¹	mok8 sur1	99
 mong⁵in¹	mong5 in1	149
 moⁿ⁵gui²	monn5 kui2	99
 moⁿ⁵siⁿ³	monn5 sinn3	99
-mua5 ng²	mua5 nk2	49
-mua⁵ ng²	mua5 nk2	50
+mua5 ng²	mua5 ng2	49
+mua⁵ ng²	mua5 ng2	50
 muaⁿ⁵bou³	muann5 pou3	99
 muaⁿ⁵puê⁵	muann5 phue5	99
 muaⁿ⁵ziah⁴ziou²	muann5 chiah4 chiou2	99
@@ -2800,7 +2800,7 @@ si⁵sin⁵	si5 sin5	99
 si⁵zoih⁴ diêh⁸ bai³a¹gong¹	si5 choih4 tieh8 pai3 a1 kong1	99
 si⁵zêng¹	si5 cheng1	100
 si⁵zêng¹tui⁷	si5 cheng1 thui7	99
-si⁶ cu³bhi⁸ zai⁶	si6 chhu3 bi8 chai6	99
+si⁶ cu³bhi⁷ zai⁶	si6 chhu3 bi7 chai6	99
 si⁶ i¹	si6 i1	99
 si⁶ ngia²zai⁶	si6 ngia2 chai6	99
 si⁶ ziêⁿ³sêⁿ¹	si6 chienn3 senn1	99

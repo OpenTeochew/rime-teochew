@@ -2,7 +2,7 @@
 # Generated from merged.csv - Mandarin reverse lookup
 ---
 name: teochew_dp_zh
-version: "20260502.203228"
+version: "20260502.225055"
 sort: by_weight
 ...
 
@@ -45,6 +45,7 @@ sort: by_weight
 刁難☞刁蹬 (diau¹dun³)	diaonan	100
 刁潑☞刁厥 (diau¹kiag⁴)	diaopo	100
 動手腳☞做骹手 (zo³ka¹ciu²)	dongshoujiao	100
+多☞㩼 (zoi⁷)	duo	100
 剁碎☞剁脞 (dog⁴co⁷)	duosui	100
 獨生子☞單丁 (duaⁿ¹dêng¹)	dushengzi	100
 恩情☞儂情 (nang⁵ciaⁿ⁵)	enqing	100

@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260502.203228"
+version: "20260502.225055"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -323,9 +323,8 @@ chhiôu-thêng	chhiou5 theng5	100
 chhiù khí	chhiu3 khi2	50
 chhiú màiⁿ-thãng--tie̍h	chhiu2 mainn3 thang6  tieh8	99
 chhiú màiⁿ-thãng--tiéh	chhiu2 mainn3 thang6  tieh8	98
-chhiú n̍k	chhiu2 nk2	49
 chhiú úng	chhiu2 ung2	49
-chhiú ńk	chhiu2 nk2	48
+chhiú ńg	chhiu2 ng2	49
 chhiú-chí	chhiu2 chi2	100
 chhiú-huân	chhiu2 huan5	100
 chhiú-kṳn	chhiu2 kurn1	99
@@ -1759,8 +1758,7 @@ liù--lóh-khṳ̀	liu3  loh8 khur3	98
 liù-pua̍h	liu3 puah8	99
 liù-puáh	liu3 puah8	98
 liú-phāng	liu2 phang7	99
-liû n̂k	liu5 nk5	49
-liû n̍k	liu5 nk5	50
+liû n̂g	liu5 ng5	50
 liû-liân	liu5 lian5	99
 liû-n̂g	liu5 ng5	99
 liû-sí	liu5 si2	99
@@ -2084,8 +2082,7 @@ mók-sṳ	mok8 sur1	98
 mông-in	mong5 in1	149
 môⁿ-kúi	monn5 kui2	99
 môⁿ-sìⁿ	monn5 sinn3	99
-mûa n̍k	mua5 nk2	50
-mûa ńk	mua5 nk2	49
+mûa ńg	mua5 ng2	50
 mûaⁿ-chiah-chióu	muann5 chiah4 chiou2	99
 mûaⁿ-phûe	muann5 phue5	99
 mûaⁿ-pòu	muann5 pou3	99
@@ -2983,7 +2980,7 @@ sûi-sî	sui5 si5	99
 sĩ chièⁿ-seⁿ	si6 chienn3 senn1	99
 sĩ i	si6 i1	99
 sĩ ngiá-tsãi	si6 ngia2 chai6	99
-sĩ tshù-bi̍ tsãi	si6 chhu3 bi8 chai6	99
+sĩ tshù-bī tsãi	si6 chhu3 bi7 chai6	99
 sĩ-mih	si6 mih4	99
 sĩm moh	sim6 moh4	101
 sī iû	si7 iu5	50

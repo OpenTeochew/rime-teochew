@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_puj_syllables
-version: "20260502.203228"
+version: "20260502.225055"
 sort: by_weight
 ...
 
@@ -3362,8 +3362,6 @@ niù	niu3	1
 niû	niu5	1
 niũ	niu6	1
 niū	niu7	1
-nk	nk4	1
-n̍k	nk8	1
 nng	nng1	1
 nńg	nng2	1
 nǹg	nng3	1

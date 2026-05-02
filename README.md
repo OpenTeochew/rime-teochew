@@ -1,4 +1,4 @@
-# Rime Teochew（潮州話拍字法）
+# 潮州話拍字方案（beta）
 
 ![拍字效果](assets/u-oinn-lai-chiah-te.GIF)
 

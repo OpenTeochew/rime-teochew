@@ -2,9 +2,11 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260503.103034"
+version: "20260503.114623"
 sort: by_weight
 use_preset_vocabulary: true
+min_phrase_weight: 100  # 僅導入八股文中詞頻 >= 100 个詞
+max_phrase_length: 4   # 僅導入 4 字以內个詞
 import_tables:
   - teochew_chars
   - teochew

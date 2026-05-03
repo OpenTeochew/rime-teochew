@@ -2,13 +2,13 @@
 # Generated from merged.csv - Mandarin reverse lookup
 ---
 name: teochew_dp_zh
-version: "20260502.225055"
+version: "20260503.103034"
 sort: by_weight
 ...
 
 襖☞裘 (hiuⁿ⁵)	ao	100
 敗家子☞破家囝 (pua³gê¹giaⁿ²)	baijiazi	100
-白蘿蔔☞菜頭 (cai³tau⁵)	bailuobo	100
+白蘿蔔☞菜頭 (cai³tao⁵)	bailuobo	100
 辦法☞施爲 (si¹ui⁵)	banfa	100
 綁腿☞骹𢅎 (ka¹giau²)	bangtui	100
 半身不遂☞偏枯 (pian¹gou¹)	banshenbusui	100
@@ -32,16 +32,16 @@ sort: by_weight
 抽屜☞格 (gêh⁴)	chouti	100
 抽菸☞食薰 (ziah⁸hun¹)	chouyan	100
 床☞眠床 (min⁵cng⁵)	chuang	100
-廚師☞伙頭 (huê²tau⁵)	chushi	100
-廚師☞火頭 (huê²tau⁵)	chushi	100
+廚師☞伙頭 (huê²tao⁵)	chushi	100
+廚師☞火頭 (huê²tao⁵)	chushi	100
 出眾☞翹楚 (kiau⁵co²)	chuzhong	100
 打嗝☞拍呃 (bah⁴oh⁴)	dage	100
-大官員☞大頭腦 (dua⁷tau⁵lo²)	daguanyuan	100
+大官員☞大頭腦 (dua⁷tao⁵lo²)	daguanyuan	100
 呆☞獃 (ngai⁵)	dai	100
 蛋糕☞粿 (guê²)	dangao	100
 蛋糕☞餜 (guê²)	dangao	100
 擔心☞煩惱 (huan⁵lo²)	danxin	100
-點名☞點卯 (diam²bhau²)	dianming	100
+點名☞點卯 (diam²bhao²)	dianming	100
 刁難☞刁蹬 (diau¹dun³)	diaonan	100
 刁潑☞刁厥 (diau¹kiag⁴)	diaopo	100
 動手腳☞做骹手 (zo³ka¹ciu²)	dongshoujiao	100
@@ -73,8 +73,8 @@ sort: by_weight
 佝僂☞佝腰 (gu¹iê¹)	goulou	100
 佝僂☞痀腰 (gu¹iê¹)	goulou	100
 官少☞阿舍 (a¹sia³)	guanshao	100
-孤寡老人☞孤老 (gou²lau²)	gugualaoren	100
-孤寡老人☞孤老 (gu¹lau²)	gugualaoren	100
+孤寡老人☞孤老 (gou²lao²)	gugualaoren	100
+孤寡老人☞孤老 (gu¹lao²)	gugualaoren	100
 龜裂☞𤷗裂 (big⁴lih⁸)	guilie	100
 過節☞做節 (zo³zoih⁴)	guojie	100
 過生日☞做生日 (zo³sêⁿ¹rid⁸)	guoshengri	100
@@ -109,16 +109,16 @@ sort: by_weight
 炕☞匟床 (kang³cng⁵)	kang	100
 坎坷☞嵁硈 (kam⁵kiad⁸)	kanke	100
 烤☞煏 (bêg⁴)	kao	100
-靠背椅☞交椅 (gau¹iⁿ²)	kaobeiyi	100
+靠背椅☞交椅 (gao¹iⁿ²)	kaobeiyi	100
 客人☞人客 (nang⁵kêh⁴)	keren	100
 客人☞儂客 (nang⁵kêh⁴)	keren	100
 狂☞𤞚 (siau²)	kuang	100
-狂犬☞𤞚狗 (siau²gau²)	kuangquan	100
+狂犬☞𤞚狗 (siau²gao²)	kuangquan	100
 睏倦☞目澀 (mag⁸siab⁴)	kunjuan	100
 褲腿☞褲骹 (kou³ka¹)	kutui	100
 辣椒☞薟椒 (hiam¹ziê¹)	lajiao	100
 烙☞烙 (luah⁴)	lao	100
-老闆☞頭家 (tau⁵gê¹)	laoban	100
+老闆☞頭家 (tao⁵gê¹)	laoban	100
 老婆☞母 (bhou²)	laopo	100
 老婆☞𡚸 (bhou²)	laopo	100
 老婆☞𡜿 (bhou²)	laopo	100
@@ -134,12 +134,12 @@ sort: by_weight
 媽媽☞阿姨 (a¹ai⁵)	mama	100
 媽媽☞阿𡟓 (a¹ai⁵)	mama	100
 燜☞熻 (hib⁴)	men	100
-門後☞門扇後 (mng⁵siⁿ³au⁶)	menhou	100
+門後☞門扇後 (mng⁵siⁿ³ao⁶)	menhou	100
 棉襖☞棉裘 (miⁿ⁵hiuⁿ⁵)	mianao	100
 面黃肌瘦☞黃𦅇瘦㾪 (ng⁵sng¹sou²san²)	mianhuangjishou	100
 面子☞儂情 (nang⁵cêng⁵)	mianzi	100
 面子☞人情 (nang⁵cêng⁵)	mianzi	100
-名聲☞名頭 (miaⁿ¹tau⁵)	mingsheng	100
+名聲☞名頭 (miaⁿ¹tao⁵)	mingsheng	100
 名譽☞名色 (miaⁿ¹sêg⁴)	mingyu	100
 米湯☞飲 (am²)	mitang	100
 陌生人☞生分儂 (cêⁿ¹hun⁷nang⁵)	moshengren	100
@@ -152,13 +152,13 @@ sort: by_weight
 男孩☞丈夫囝 (da¹bou¹giaⁿ²)	nanhai	100
 (男孩)生殖器☞脧 (zui⁶)	nanhaishengzhiqi	100
 男人☞丈夫 (da¹bou¹)	nanren	100
-能幹☞𠢕 (ghau⁵)	nenggan	100
+能幹☞𠢕 (ghao⁵)	nenggan	100
 能力☞能爲 (lêng⁵ui⁵)	nengli	100
 黏稠☞滒 (go¹)	nianchou	100
 娘家☞外家 (ghua⁷gê¹)	niangjia	100
-年輕☞後生 (hau⁶sêⁿ¹)	nianqing	100
+年輕☞後生 (hao⁶sêⁿ¹)	nianqing	100
 女人☞諸娘 (ze¹niêⁿ⁵)	nvren	100
-嘔吐☞嘔噦 (au²uêh⁴)	outu	100
+嘔吐☞嘔噦 (ao²uêh⁴)	outu	100
 怕☞驚 (giaⁿ¹)	pa	100
 怕☞畏 (ui³)	pa	100
 膀胱☞尿脬 (riê⁷pa¹)	pangguang	100
@@ -171,10 +171,10 @@ sort: by_weight
 婆婆☞大家 (da¹gê¹)	popo	100
 婆婆☞大家 (dua⁷gê¹)	popo	100
 鋪蓋☞鋪陳 (pou¹din⁵)	pugai	100
-前額☞額頭 (hiah⁸tau⁵)	qiane	100
+前額☞額頭 (hiah⁸tao⁵)	qiane	100
 嗆☞錯 (coh⁴)	qiang	100
 前脛骨☞骹臁 (ka¹niam⁵)	qianjinggu	100
-起床☞早起 (zau²ki²)	qichuang	100
+起床☞早起 (zao²ki²)	qichuang	100
 乞丐☞乞食 (ked⁴ziah⁸)	qigai	100
 勤勞☞力 (lad⁸)	qinlao	100
 親戚☞親情 (cin¹ziaⁿ⁶)	qinqi	100
@@ -212,7 +212,7 @@ sort: by_weight
 (貪)吃☞䭄 (zi³)	tanchi	100
 通情達理☞世情 (si³cêng⁵)	tongqingdali	100
 痛心☞衋心 (gêg⁴sim¹)	tongxin	100
-頭髮☞頭毛 (tau⁵mo⁵)	toufa	100
+頭髮☞頭毛 (tao⁵mo⁵)	toufa	100
 禿頂☞禿掌 (tog⁴ziaⁿ²)	tuding	100
 腿☞骹 (ka¹)	tui	100
 駝背☞腰佝 (iê¹gu¹)	tuobei	100
@@ -225,7 +225,7 @@ sort: by_weight
 萎靡☞衰疲 (suê¹pi⁵)	weimi	100
 萎靡☞衰颯 (suê¹sab⁴)	weimi	100
 穩妥☞條直 (diau⁵did⁸)	wentuo	100
-污垢☞垢圿 (gau²goih⁴)	wugou	100
+污垢☞垢圿 (gao²goih⁴)	wugou	100
 瞎☞青盲 (cêⁿ¹mêⁿ⁵)	xia	100
 下巴☞下頦 (ê⁶hai⁵)	xiaba	100
 香☞芳 (pang¹)	xiang	100
@@ -247,7 +247,7 @@ sort: by_weight
 炫耀☞展 (dian²)	xuanyao	100
 眼睫毛☞目眥毛 (mag⁸ci³mo⁵)	yanjiemao	100
 眼淚☞目汁 (mag⁸zab⁴)	yanlei	100
-(醃製)蘿蔔條☞菜頭槁 (cai³tau⁵kau²)	yanzhiluobotiao	100
+(醃製)蘿蔔條☞菜頭槁 (cai³tao⁵kao²)	yanzhiluobotiao	100
 夜盲☞雀暝 (ziau²mêⁿ⁵)	yemang	100
 (液體味道)淡☞薄 (boh⁸)	yetiweidaodan	100
 爺爺☞阿公 (a¹gong¹)	yeye	100
@@ -263,7 +263,7 @@ sort: by_weight
 愚蠢☞戇 (gong⁵)	yuchun	100
 岳父☞丈人 (diêⁿ⁶nang⁵)	yuefu	100
 岳母☞丈母 (diêⁿ⁶m²)	yuemu	100
-灶台☞灶頭 (zau³tau⁵)	zaotai	100
+灶台☞灶頭 (zao³tao⁵)	zaotai	100
 責備☞責罪 (zêh⁴zuê⁷)	zebei	100
 責備☞過責 (guê³zêh⁴)	zebei	100
 責罵☞詈 (li⁵)	zema	100
@@ -281,7 +281,7 @@ sort: by_weight
 中暑☞暍着暑 (hiag⁴diêh⁸su²)	zhongshu	100
 粥☞糜 (muêⁿ⁵)	zhou	100
 莊家☞桩家 (zng¹gê¹)	zhuangjia	100
-豬頭肉☞槽頭肉 (zo⁵tau⁵nêg⁸)	zhutourou	100
+豬頭肉☞槽頭肉 (zo⁵tao⁵nêg⁸)	zhutourou	100
 自己人☞家己儂 (ga¹gi⁷nang⁵)	zijiren	100
 子女☞囝 (giaⁿ²)	zinv	100
 走動☞行踏 (giaⁿ⁵dah⁸)	zoudong	100

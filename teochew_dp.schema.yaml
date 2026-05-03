@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_dp
   name: 潮州話·拼音
-  version: "20260502.225055"
+  version: "20260503.103034"
   author:
     - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
@@ -56,27 +56,30 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " -"
   algebra:
-    - xform/^g/gh/
-    - xform/^b/bh/
-    - xform/^j/r/
-    - xform/^chh/c/
-    - xform/^ch/z/
-    - xform/^k(?=[^h])/g/
-    - xform/^kh/k/
-    - xform/^p(?=[^h])/b/
-    - xform/^ph/p/
-    - xform/^t(?=[^h])/d/
-    - xform/^th/t/
-    - xform/ur/v/
-    - xform/p(\d)$/b$1/
-    - xform/t(\d)$/d$1/
-    - xform/k(\d)$/g$1/
     - derive/ /-/
     - derive/[1-8]//
-    - derive/d/g/
-    - derive/([aeiu])n$/$1ng/
+    - xform/^b/bh/
+    - xform/^g/gh/
+    - xform/^j/r/
+    - xform/^k(?=[^h])/g/
+    - xform/^p(?=[^h])/b/
+    - xform/^t(?=[^h])/d/
+    - xform/^ch(?=[^h])/z/
+    - xform/^kh/k/
+    - xform/^ph/p/
+    - xform/^th/t/
+    - xform/^chh/c/
+    - xform/ur/v/
+    - xform/au/ao/
     - derive/oinn/ainn/
+    - derive/ien/ian/
+    - derive/ied/iad/
+    - derive/([aeiu])n$/$1ng/
+    - derive/d$/g/
     - derive/nn//
+    - xform/p$/b/
+    - xform/t$/d/
+    - xform/k$/g/
     - derive/a/A/
     - derive/b/B/
     - derive/c/C/

@@ -8654,11 +8654,8 @@ local function filter(translation, env)
             cand.comment = hw
             if latin_first then
                 if has_digits and cand._end - cand.start >= #input then
-                    local code_count = 0
-                    for _ in comment:gmatch("[%w]+") do
-                        code_count = code_count + 1
-                    end
-                    if code_count == input_syl_count then
+                    local han_syl_count = utf8.len(cand.text) or 0
+                    if han_syl_count == input_syl_count then
                         table.insert(han_items, cand)
                     else
                         table.insert(han_partial, cand)

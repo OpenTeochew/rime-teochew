@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_dp_syllables
-version: "20260504.190221"
+version: "20260527.083142"
 sort: by_weight
 ...
 
@@ -364,6 +364,12 @@ cang³	chhang3	1
 cang⁵	chhang5	1
 cang⁶	chhang6	1
 cang⁷	chhang7	1
+caⁿ¹	chhann1	1
+caⁿ²	chhann2	1
+caⁿ³	chhann3	1
+caⁿ⁵	chhann5	1
+caⁿ⁶	chhann6	1
+caⁿ⁷	chhann7	1
 cab⁴	chhap4	1
 cab⁸	chhap8	1
 cad⁴	chhat4	1
@@ -590,6 +596,12 @@ cua⁶	chhua6	1
 cua⁷	chhua7	1
 cuah⁴	chhuah4	1
 cuah⁸	chhuah8	1
+cuai¹	chhuai1	1
+cuai²	chhuai2	1
+cuai³	chhuai3	1
+cuai⁵	chhuai5	1
+cuai⁶	chhuai6	1
+cuai⁷	chhuai7	1
 cuag⁴	chhuak4	1
 cuag⁸	chhuak8	1
 cuan¹	chhuan1	1
@@ -1608,6 +1620,8 @@ iêⁿ⁶	ienn6	1
 iêⁿ⁷	ienn7	1
 iêb⁴	iep4	1
 iêb⁸	iep8	1
+iêd⁴	iet4	1
+iêd⁸	iet8	1
 ihⁿ¹	ihnn1	1
 ihⁿ²	ihnn2	1
 ihⁿ³	ihnn3	1
@@ -1792,6 +1806,8 @@ rio³	jio3	1
 rio⁵	jio5	1
 rio⁶	jio6	1
 rio⁷	jio7	1
+riog⁴	jiok4	1
+riog⁸	jiok8	1
 riong¹	jiong1	1
 riong²	jiong2	1
 riong³	jiong3	1
@@ -2276,6 +2292,8 @@ kuaⁿ³	khuann3	1
 kuaⁿ⁵	khuann5	1
 kuaⁿ⁶	khuann6	1
 kuaⁿ⁷	khuann7	1
+kuad⁴	khuat4	1
+kuad⁸	khuat8	1
 kuê¹	khue1	1
 kuê²	khue2	1
 kuê³	khue3	1
@@ -2888,6 +2906,12 @@ lua⁶	lua6	1
 lua⁷	lua7	1
 luah⁴	luah4	1
 luah⁸	luah8	1
+luai¹	luai1	1
+luai²	luai2	1
+luai³	luai3	1
+luai⁵	luai5	1
+luai⁶	luai6	1
+luai⁷	luai7	1
 luag⁴	luak4	1
 luag⁸	luak8	1
 luan¹	luan1	1
@@ -3164,6 +3188,12 @@ mouⁿ³	mounn3	1
 mouⁿ⁵	mounn5	1
 mouⁿ⁶	mounn6	1
 mouⁿ⁷	mounn7	1
+mu¹	mu1	1
+mu²	mu2	1
+mu³	mu3	1
+mu⁵	mu5	1
+mu⁶	mu6	1
+mu⁷	mu7	1
 mua¹	mua1	1
 mua²	mua2	1
 mua³	mua3	1
@@ -3172,6 +3202,12 @@ mua⁶	mua6	1
 mua⁷	mua7	1
 muag⁴	muak4	1
 muag⁸	muak8	1
+muan¹	muan1	1
+muan²	muan2	1
+muan³	muan3	1
+muan⁵	muan5	1
+muan⁶	muan6	1
+muan⁷	muan7	1
 muang¹	muang1	1
 muang²	muang2	1
 muang³	muang3	1
@@ -3334,6 +3370,12 @@ ngai⁶	ngai6	1
 ngai⁷	ngai7	1
 ngaih⁴	ngaih4	1
 ngaih⁸	ngaih8	1
+ngaiⁿ¹	ngainn1	1
+ngaiⁿ²	ngainn2	1
+ngaiⁿ³	ngainn3	1
+ngaiⁿ⁵	ngainn5	1
+ngaiⁿ⁶	ngainn6	1
+ngaiⁿ⁷	ngainn7	1
 ngag⁴	ngak4	1
 ngag⁸	ngak8	1
 ngam¹	ngam1	1
@@ -3354,6 +3396,8 @@ ngang³	ngang3	1
 ngang⁵	ngang5	1
 ngang⁶	ngang6	1
 ngang⁷	ngang7	1
+ngab⁴	ngap4	1
+ngab⁸	ngap8	1
 ngao¹	ngau1	1
 ngao²	ngau2	1
 ngao³	ngau3	1
@@ -3362,12 +3406,20 @@ ngao⁶	ngau6	1
 ngao⁷	ngau7	1
 ngaoh⁴	ngauh4	1
 ngaoh⁸	ngauh8	1
+ngaoⁿ¹	ngaunn1	1
+ngaoⁿ²	ngaunn2	1
+ngaoⁿ³	ngaunn3	1
+ngaoⁿ⁵	ngaunn5	1
+ngaoⁿ⁶	ngaunn6	1
+ngaoⁿ⁷	ngaunn7	1
 ngê¹	nge1	1
 ngê²	nge2	1
 ngê³	nge3	1
 ngê⁵	nge5	1
 ngê⁶	nge6	1
 ngê⁷	nge7	1
+ngêh⁴	ngeh4	1
+ngêh⁸	ngeh8	1
 ngêg⁴	ngek4	1
 ngêg⁸	ngek8	1
 ngêng¹	ngeng1	1
@@ -3412,6 +3464,8 @@ ngiaⁿ⁶	ngiann6	1
 ngiaⁿ⁷	ngiann7	1
 ngiab⁴	ngiap4	1
 ngiab⁸	ngiap8	1
+ngiad⁴	ngiat4	1
+ngiad⁸	ngiat8	1
 ngiau¹	ngiau1	1
 ngiau²	ngiau2	1
 ngiau³	ngiau3	1
@@ -3446,18 +3500,32 @@ ngim³	ngim3	1
 ngim⁵	ngim5	1
 ngim⁶	ngim6	1
 ngim⁷	ngim7	1
+ngin¹	ngin1	1
+ngin²	ngin2	1
+ngin³	ngin3	1
+ngin⁵	ngin5	1
+ngin⁶	ngin6	1
+ngin⁷	ngin7	1
 nging¹	nging1	1
 nging²	nging2	1
 nging³	nging3	1
 nging⁵	nging5	1
 nging⁶	nging6	1
 nging⁷	nging7	1
+ngiog⁴	ngiok4	1
+ngiog⁸	ngiok8	1
 ngiou¹	ngiou1	1
 ngiou²	ngiou2	1
 ngiou³	ngiou3	1
 ngiou⁵	ngiou5	1
 ngiou⁶	ngiou6	1
 ngiou⁷	ngiou7	1
+ngiu¹	ngiu1	1
+ngiu²	ngiu2	1
+ngiu³	ngiu3	1
+ngiu⁵	ngiu5	1
+ngiu⁶	ngiu6	1
+ngiu⁷	ngiu7	1
 ngo¹	ngo1	1
 ngo²	ngo2	1
 ngo³	ngo3	1
@@ -3550,6 +3618,8 @@ nguru³	nguru3	1
 nguru⁵	nguru5	1
 nguru⁶	nguru6	1
 nguru⁷	nguru7	1
+ngud⁴	ngut4	1
+ngud⁸	ngut8	1
 ni¹	ni1	1
 ni²	ni2	1
 ni³	ni3	1
@@ -3604,6 +3674,12 @@ niê³	nie3	1
 niê⁵	nie5	1
 niê⁶	nie6	1
 niê⁷	nie7	1
+niên¹	nien1	1
+niên²	nien2	1
+niên³	nien3	1
+niên⁵	nien5	1
+niên⁶	nien6	1
+niên⁷	nien7	1
 niêⁿ¹	nienn1	1
 niêⁿ²	nienn2	1
 niêⁿ³	nienn3	1
@@ -3612,6 +3688,8 @@ niêⁿ⁶	nienn6	1
 niêⁿ⁷	nienn7	1
 niêb⁴	niep4	1
 niêb⁸	niep8	1
+niêd⁴	niet4	1
+niêd⁸	niet8	1
 nih⁴	nih4	1
 nih⁸	nih8	1
 nihⁿ¹	nihnn1	1
@@ -3662,6 +3740,8 @@ niouⁿ³	niounn3	1
 niouⁿ⁵	niounn5	1
 niouⁿ⁶	niounn6	1
 niouⁿ⁷	niounn7	1
+nib⁴	nip4	1
+nib⁸	nip8	1
 niu¹	niu1	1
 niu²	niu2	1
 niu³	niu3	1
@@ -3704,6 +3784,8 @@ noiⁿ³	noinn3	1
 noiⁿ⁵	noinn5	1
 noiⁿ⁶	noinn6	1
 noiⁿ⁷	noinn7	1
+nog⁴	nok4	1
+nog⁸	nok8	1
 noⁿ¹	nonn1	1
 noⁿ²	nonn2	1
 noⁿ³	nonn3	1
@@ -3722,6 +3804,12 @@ nouⁿ³	nounn3	1
 nouⁿ⁵	nounn5	1
 nouⁿ⁶	nounn6	1
 nouⁿ⁷	nounn7	1
+nu¹	nu1	1
+nu²	nu2	1
+nu³	nu3	1
+nu⁵	nu5	1
+nu⁶	nu6	1
+nu⁷	nu7	1
 nua¹	nua1	1
 nua²	nua2	1
 nua³	nua3	1
@@ -3740,6 +3828,8 @@ nuaⁿ³	nuann3	1
 nuaⁿ⁵	nuann5	1
 nuaⁿ⁶	nuann6	1
 nuaⁿ⁷	nuann7	1
+nuad⁴	nuat4	1
+nuad⁸	nuat8	1
 nuê¹	nue1	1
 nuê²	nue2	1
 nuê³	nue3	1
@@ -3772,6 +3862,8 @@ neng³	nurng3	1
 neng⁵	nurng5	1
 neng⁶	nurng6	1
 neng⁷	nurng7	1
+nud⁴	nut4	1
+nud⁸	nut8	1
 o¹	o1	1
 o²	o2	1
 o³	o3	1
@@ -4006,6 +4098,8 @@ piêng³	phieng3	1
 piêng⁵	phieng5	1
 piêng⁶	phieng6	1
 piêng⁷	phieng7	1
+piêd⁴	phiet4	1
+piêd⁸	phiet8	1
 pih⁴	phih4	1
 pih⁸	phih8	1
 pig⁴	phik4	1
@@ -4154,6 +4248,8 @@ pung³	phung3	1
 pung⁵	phung5	1
 pung⁶	phung6	1
 pung⁷	phung7	1
+pud⁴	phut4	1
+pud⁸	phut8	1
 bi¹	pi1	1
 bi²	pi2	1
 bi³	pi3	1
@@ -4732,6 +4828,8 @@ suaⁿ³	suann3	1
 suaⁿ⁵	suann5	1
 suaⁿ⁶	suann6	1
 suaⁿ⁷	suann7	1
+suad⁴	suat4	1
+suad⁸	suat8	1
 suê¹	sue1	1
 suê²	sue2	1
 suê³	sue3	1
@@ -4956,6 +5054,12 @@ ti³	thi3	1
 ti⁵	thi5	1
 ti⁶	thi6	1
 ti⁷	thi7	1
+tia¹	thia1	1
+tia²	thia2	1
+tia³	thia3	1
+tia⁵	thia5	1
+tia⁶	thia6	1
+tia⁷	thia7	1
 tiah⁴	thiah4	1
 tiah⁸	thiah8	1
 tiag⁴	thiak4	1
@@ -5132,6 +5236,12 @@ tua⁶	thua6	1
 tua⁷	thua7	1
 tuah⁴	thuah4	1
 tuah⁸	thuah8	1
+tuai¹	thuai1	1
+tuai²	thuai2	1
+tuai³	thuai3	1
+tuai⁵	thuai5	1
+tuai⁶	thuai6	1
+tuai⁷	thuai7	1
 tuan¹	thuan1	1
 tuan²	thuan2	1
 tuan³	thuan3	1
@@ -5440,6 +5550,8 @@ duaⁿ³	tuann3	1
 duaⁿ⁵	tuann5	1
 duaⁿ⁶	tuann6	1
 duaⁿ⁷	tuann7	1
+duad⁴	tuat4	1
+duad⁸	tuat8	1
 duê¹	tue1	1
 duê²	tue2	1
 duê³	tue3	1

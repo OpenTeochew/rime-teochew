@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_puj
   name: 潮州話·白話字
-  version: "20260504.190221"
+  version: "20260527.083142"
   author:
     - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
@@ -60,8 +60,8 @@ speller:
     - derive/[1-8]//
     - derive/^ch/ts/
     - derive/^j/z/
-    - derive/oinn/ainn/
-    - derive/ien/ian/
+    - derive/oinn$/ainn/
+    - derive/ien$/ian/
     - derive/iet/iat/
     - derive/([aeiu])n$/$1ng/
     - derive/t$/k/

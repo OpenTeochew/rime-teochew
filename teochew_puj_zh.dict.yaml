@@ -2,11 +2,12 @@
 # Generated from merged.csv - Mandarin reverse lookup
 ---
 name: teochew_puj_zh
-version: "20260527.083142"
+version: "20260614.165049"
 sort: by_weight
 ...
 
 襖☞裘 (hiûⁿ)	ao	100
+白話字☞白話字 (pe̍h-uē-jī)	baihuazi	100
 敗家子☞破家囝 (phùa-ke-kiáⁿ)	baijiazi	100
 白蘿蔔☞菜頭 (tshài-thâu)	bailuobo	100
 辦法☞施爲 (si-ûi)	banfa	100
@@ -225,6 +226,8 @@ sort: by_weight
 萎靡☞衰疲 (sue-phî)	weimi	100
 萎靡☞衰颯 (sue-sap)	weimi	100
 穩妥☞條直 (tiâu-ti̍t)	wentuo	100
+握☞拰 (lĩm)	wo	100
+握☞拰 (ngĩm)	wo	100
 污垢☞垢圿 (káu-koih)	wugou	100
 瞎☞青盲 (chheⁿ-mêⁿ)	xia	100
 下巴☞下頦 (ẽ-hâi)	xiaba	100

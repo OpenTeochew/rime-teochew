@@ -3,7 +3,7 @@ set -euo pipefail
 
 cd "$(dirname "$0")"
 
-SOURCE="../dataset/export/rime/rime-teochew"
+SOURCE="../../hokkien-writing/dataset/export/rime/rime-teochew"
 
 if [ ! -d "$SOURCE" ]; then
     echo "Error: source directory $SOURCE not found. Run 'bash build.sh' in dataset first."
@@ -21,7 +21,7 @@ rsync -av --delete \
     --exclude='.gitignore' \
     "$SOURCE/" .
 
-COMMIT_MSG=$(git -C ../dataset log -1 --format='%s')
+COMMIT_MSG=$(git -C ../../hokkien-writing/dataset log -1 --format='%s')
 
 git add -A
 if git diff --cached --quiet; then

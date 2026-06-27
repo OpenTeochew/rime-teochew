@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_puj_syllables
-version: "20260626.004048"
+version: "20260627.180508"
 sort: by_weight
 ...
 
@@ -1318,8 +1318,6 @@ hòi	hoi3	1
 hôi	hoi5	1
 hõi	hoi6	1
 hōi	hoi7	1
-hoih	hoih4	1
-hoi̍h	hoih8	1
 hoiⁿ	hoinn1	1
 hóiⁿ	hoinn2	1
 hòiⁿ	hoinn3	1
@@ -2166,12 +2164,6 @@ khõiⁿ	khoinn6	1
 khōiⁿ	khoinn7	1
 khok	khok4	1
 kho̍k	khok8	1
-khom	khom1	1
-khóm	khom2	1
-khòm	khom3	1
-khôm	khom5	1
-khõm	khom6	1
-khōm	khom7	1
 khong	khong1	1
 khóng	khong2	1
 khòng	khong3	1
@@ -5312,8 +5304,6 @@ tòi	toi3	1
 tôi	toi5	1
 tõi	toi6	1
 tōi	toi7	1
-toih	toih4	1
-toi̍h	toih8	1
 toiⁿ	toinn1	1
 tóiⁿ	toinn2	1
 tòiⁿ	toinn3	1

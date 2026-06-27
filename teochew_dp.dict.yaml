@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_dp
-version: "20260626.004048"
+version: "20260627.180508"
 sort: by_weight
 use_preset_vocabulary: true
 min_phrase_weight: 100  # 僅導入八股文中詞頻 >= 100 个詞
@@ -1345,7 +1345,6 @@ bhêh⁸go²	beh8 ko2	99
 bhêh⁸hun²	beh8 hun2	100
 bhêh⁸hun²guê²	beh8 hun2 kue2	149
 bhêh⁸kng¹	beh8 khng1	99
-bhêh⁸koh⁸	beh8 khoh8	99
 bhêh⁸pou¹	beh8 phou1	99
 bhêh⁸pou¹puê⁵	beh8 phou1 phue5	99
 bhê² bho²	be2 bo2	99
@@ -2163,7 +2162,6 @@ bu⁵ lan⁵lo² siê¹zui²	pu5 lan5 lo2 sie1 chui2	99
 bu⁵am³bng⁷	pu5 am3 png7	99
 bu⁵bng⁷	pu5 png7	100
 bu⁵dê⁵	pu5 te5	100
-bu⁵ged⁸	pu5 kurt8	99
 bu⁵hia¹	pu5 hia1	251
 bu⁵iêh⁸	pu5 ieh8	99
 bu⁵log⁴log⁴	pu5 lok4 lok4	99
@@ -2607,7 +2605,6 @@ ciah⁴bou³	chhiah4 pou3	99
 ciah⁴dao⁶	chhiah4 tau6	99
 ciah⁴diau⁵diau⁵	chhiah4 tiau5 tiau5	99
 ciah⁴diêh⁸ci³	chhiah4 tieh8 chhi3	199
-ciah⁴ga¹lid⁴	chhiah4 ka1 lit4	99
 ciah⁴ghu⁵	chhiah4 gu5	99
 ciah⁴gim¹	chhiah4 kim1	100
 ciah⁴huê¹	chhiah4 hue1	100
@@ -4131,7 +4128,6 @@ daⁿ³uê⁷ man⁷man⁷	tann3 ue7 man7 man7	99
 daⁿ³uê⁷ m⁷bêh⁸did⁸	tann3 ue7 m7 peh8 tit8	149
 daⁿ³uê⁷ m⁷gen²sin²	tann3 ue7 m7 kurn2 sin2	149
 daⁿ³uê⁷ m⁷ziaⁿ³	tann3 ue7 m7 chiann3	149
-daⁿ³uê⁷ o¹o¹giê³	tann3 ue7 o1 o1 kie3	149
 daⁿ³uê⁷ run⁷bou⁷ run⁷bou⁷	tann3 ue7 jun7 pou7 jun7 pou7	99
 daⁿ³uê⁷ run⁷run⁷	tann3 ue7 jun7 jun7	99
 daⁿ³uê⁷ sim⁷a¹sim⁷	tann3 ue7 sim7 a1 sim7	99
@@ -4259,7 +4255,7 @@ diam⁷diam⁷ mid⁸mid⁸	tiam7 tiam7 mit8 mit8	99
 diam⁷diam⁷ soh⁴soh⁴	tiam7 tiam7 soh4 soh4	99
 diam⁷huang¹ zêⁿ⁶nng⁷	tiam7 huang1 chenn6 nng7	99
 diam⁷zêⁿ⁶	tiam7 chenn6	101
-diang¹diang¹giê³	tiang1 tiang1 kie3	449
+diang¹diang¹giê³	tiang1 tiang1 kie3	299
 diang¹si⁵	tiang1 si5	99
 diang⁵si⁵	tiang5 si5	99
 diang⁵si⁵u⁶	tiang5 si5 u6	99
@@ -6760,7 +6756,6 @@ gin²iau³ gai⁵se⁷	kin2 iau3 kai5 sur7	99
 gin²sin¹saⁿ¹	kin2 sin1 sann1	99
 gin²sêⁿ³	kin2 senn3	102
 gin¹niⁿ⁵	kin1 ninn5	100
-gin⁵giaⁿ⁵	kin5 kiann5	100
 giong²ciu²	kiong2 chhiu2	99
 giong²ciu² zag⁴ib⁴	kiong2 chhiu2 chak4 ip4	99
 giong¹gêng³	kiong1 keng3	102
@@ -7229,7 +7224,6 @@ gou³iong²	kou3 iong2	99
 gou³sai¹bê⁶	kou3 sai1 pe6	99
 gou³zun⁵	kou3 chun5	99
 gou¹ ze²	kou1 chur2	99
-gou¹bhao⁷	kou1 bau7	99
 gou¹biê² hiaⁿ¹di⁶	kou1 pie2 hiann1 ti6	99
 gou¹dag⁸	kou1 tak8	100
 gou¹dag⁸siêⁿ³	kou1 tak8 sienn3	101
@@ -8679,7 +8673,7 @@ hiⁿ⁶kang¹gui² ong⁷ong⁷giê³	hinn6 khang1 kui2 ong7 ong7 kie3	149
 hiⁿ⁶lang⁵	hinn6  lang5	100
 hiⁿ⁶sai²	hinn6 sai2	100
 hiⁿ⁶tui⁷	hinn6 thui7	99
-hm⁷hm⁷giê³	hm7 hm7 kie3	301
+hm⁷hm⁷giê³	hm7 hm7 kie3	151
 hngh⁴hngh⁴giê³	hngh4 hngh4 kie3	149
 hngh⁴piⁿ⁷hun¹	hngh4 phinn7 hun1	200
 hnghⁿ¹piⁿ⁷	hnghnn1 phinn7	99
@@ -8741,7 +8735,6 @@ hoh⁴siêⁿ³	hoh4 sienn3	199
 hoh⁴zoi⁷	hoh4 choi7	101
 hoh⁴zoi⁷ rid⁸ bho⁵ag⁴	hoh4 choi7 jit8 bo5 ak4	99
 hoh⁸ziau²	hoh8 chiau2	99
-hoih⁴hoih⁴	hoih4 hoih4	99
 hoi¹diêh⁸	hoi1  tieh8	99
 hoi⁶dua⁷ka¹	hoi6 tua7 kha1	186
 hoiⁿ⁵nang⁵	hoinn5  nang5	99
@@ -9390,7 +9383,6 @@ hu²diêh⁸ nab⁴sab⁴	hu2  tieh8 nap4 sap4	99
 hu²diêh⁸ nah⁴sab⁴	hu2  tieh8 nah4 sap4	199
 hu²diêh⁸ nah⁴sab⁴	hu2 tieh8 nah4 sap4	100
 hu²diêh⁸ nahⁿ¹sab⁴	hu2  tieh8 nahnn1 sap4	99
-hu²hiên³	hu2 hien3	99
 hu²iu⁵	hu2 iu5	99
 hu²lim⁵	hu2 lim5	99
 hu²m⁷ke³	hu2 m7 khur3	149
@@ -9948,7 +9940,6 @@ im¹im¹	im1 im1	100
 im¹liang⁵	im1 liang5	99
 im¹mng⁵	im1 mng5	99
 im¹nang⁵	im1 nang5	99
-im¹tim¹hai⁷	im1 thim1 hai7	99
 im¹un⁷ tiau⁵hua⁵	im1 un7 thiau5 hua5	99
 im⁵ nang⁵ bhou²giaⁿ²	im5 nang5 bou2 kiann2	149
 im⁵ nang⁵ ci¹nng²	im5 nang5 chhi1 nng2	99
@@ -10010,12 +10001,11 @@ in¹diⁿ⁵	in1 tinn5	99
 in¹duan¹	in1 tuan1	101
 in¹dun¹	in1 tun1	149
 in¹gê³	in1 ke3	99
-in¹iang¹iê¹	in1 iang1 ie1	99
 in¹iu⁵	in1 iu5	250
 in¹ng⁷	in1 ng7	99
 in¹niⁿ⁵	in1 ninn5	101
 in¹suaⁿ³	in1 suann3	99
-in¹uan¹ kid⁴kêg⁴	in1 uan1 khit4 khek4	299
+in¹uan¹ kid⁴kêg⁴	in1 uan1 khit4 khek4	199
 in¹ui⁵	in1 ui5	99
 in¹ui⁵ ua² m⁷ke³	in1 ui5 ua2 m7 khur3	149
 in¹ui⁶	in1 ui6	103
@@ -10745,7 +10735,6 @@ ke³gao³	khur3 kau3	99
 ke³gao³ hu³hu³	khur3 kau3 hu3 hu3	99
 ke³ghua⁷ siê¹tai⁵	khur3 gua7 sie1 thai5	99
 ke³ghud⁸	khur3 gut8	99
-ke³gin⁵giaⁿ⁵	khur3 kin5 kiann5	99
 ke³giⁿ³	khur3 kinn3	99
 ke³guaⁿ¹	khur3 kuann1	99
 ke³gu⁷ cong⁵sin¹	khur3 ku7 chhong5 sin1	99
@@ -10857,7 +10846,6 @@ kia⁷kia⁷	khia7 khia7	100
 kib⁴kui³	khip4 khui3	99
 kib⁴sin¹	khip4 sin1	99
 kib⁴sin⁵ do⁶tiaⁿ¹	khip4 sin5 to6 thiann1	99
-kid⁴kog⁴log⁸giê³	khit4 khok4 lok8 kie3	149
 kih⁴ zêg⁸go²	khih4 chek8 ko2	99
 kih⁴cui³	khih4 chhui3	153
 kih⁴kiam³	khih4 khiam3	99
@@ -11108,8 +11096,6 @@ koi¹diêh⁸ puê⁵hu¹	khoi1  tieh8 phue5 hu1	99
 koi¹giaⁿ²	khoi1 kiann2	149
 koi¹giⁿ⁵	khoi1 kinn5	101
 koi¹zui² im¹	khoi1 chui2 im1	99
-koiⁿ⁶diêh⁸	khoinn6  tieh8	99
-kom⁶cê⁶	khom6 chhe6	99
 kong² ziah⁴	khong2 chiah4	99
 kong²ciêh⁴	khong2 chhieh4	100
 kong²ciêh⁴ kui¹pin⁵	khong2 chhieh4 khui1 phin5	99
@@ -11306,7 +11292,6 @@ kud⁴tao⁵ciu⁷	khut4 thau5 chhiu7	99
 kud⁴to⁵	khut4 tho5	99
 kud⁴zoiⁿ² sng³	khut4 choinn2 sng3	149
 kud⁸tao⁵hang⁷	khut8 thau5 hang7	99
-kud⁸tao⁵lou⁷	khut8 thau5 lou7	99
 kui²goi³	khui2 koi3	100
 kui²kiêd⁴	khui2 khiet4	99
 kui²mong⁵gan¹goi³	khui2 mong5 kan1 koi3	99
@@ -11553,7 +11538,6 @@ lam² ring⁵	lam2 jing5	49
 lam²gao¹buah⁸	lam2 kau1 puah8	99
 lam²gin²	lam2 kin2	99
 lam²gin²am⁶	lam2 kin2 am6	99
-lam³bou³	lam3 pou3	99
 lam³iêⁿ⁵	lam3 ienn5	99
 lam³sib⁴	lam3 sip4	151
 lam³tou⁵	lam3 thou5	101
@@ -12735,7 +12719,6 @@ ma²lao²	ma2 lau2	99
 ma¹ma¹hu¹	ma1 ma1 hu1	99
 ma⁵ ziah⁴	ma5 chiah4	99
 ma⁵li⁵	ma5 li5	99
-ma⁶ma⁶zao²	ma6 ma6 chau2	99
 maⁿ²zou²	mann2 chou2	99
 maⁿ³ki²	mann3 khi2	100
 maⁿ³ki² aiⁿ³ iaⁿ⁵lao⁶ia⁵	mann3 khi2 ainn3 iann5 lau6 ia5	99
@@ -14116,7 +14099,6 @@ oh⁸se⁷sid⁸	oh8 sur7 sit8	99
 oh⁸sia²ri⁷	oh8 sia2 ji7	99
 oh⁸sêg⁸	oh8 sek8	99
 oh⁸zun²sin⁵	oh8 chun2 sin5	99
-oih⁸doih⁸	oih8 toih8	99
 oih⁸soih⁴	oih8 soih4	199
 oi²ciu⁷	oi2 chhiu7	100
 oi²oi² lêng²lêng²	oi2 oi2 leng2 leng2	99
@@ -15225,7 +15207,6 @@ sad⁴kang¹	sat4 khang1	100
 sad⁴miⁿ¹	sat4 minn1	100
 sad⁴zun⁵	sat4 chun5	99
 sah⁴diêh⁸huang¹	sah4 tieh8 huang1	99
-sah⁴zo³	sah4  cho3	99
 sah⁴zo³	sah4 cho3	200
 sah⁴zo³ i¹ daⁿ³	sah4 cho3 i1 tann3	99
 sah⁸he⁵	sah8 hur5	99
@@ -15383,12 +15364,10 @@ sang¹hun²	sang1 hun2	99
 sang¹ka¹ puan⁵ki²	sang1 kha1 phuan5 khi2	186
 sang¹kuaⁿ³	sang1 khuann3	149
 sang¹lao¹huan⁵	sang1 lau1 huan5	99
-sang¹lao¹kou¹	sang1 lau1 khou1	99
 sang¹liau⁵	sang1 liau5	99
 sang¹piⁿ³mng⁵	sang1 phinn3 mng5	99
 sang¹siau³	sang1 siau3	99
 sang¹sêⁿ¹	sang1 senn1	100
-sang¹tam²	sang1 tham2	99
 sang¹tam²uê⁷	sang1 tham2 ue7	99
 sang¹tao⁵	sang1 thau5	99
 san²di⁷	san2 ti7	102
@@ -17969,7 +17948,6 @@ ti³tao⁵ sai¹bê⁶	thi3 thau5 sai1 pe6	99
 ti³tao⁵daⁿ³	thi3 thau5 tann3	149
 ti³tao⁵do¹	thi3 thau5 to1	99
 ti³tao⁵giaⁿ²	thi3 thau5 kiann2	149
-ti¹tuad⁴	thi1 thuat4	99
 ti¹ziau²	thi1 chiau2	99
 tiêd⁴doi²	thiet4 toi2	99
 tiên¹ u⁶ guiⁿ⁵	thien1 u6 kuinn5	99
@@ -18123,7 +18101,7 @@ tng⁷guan³dng⁵	thng7 kuan3 tng5	99
 tng⁷rib⁸ke³	thng7  jip8 khur3	99
 tng⁷zi²	thng7 chi2	99
 tog⁴ziaⁿ²	thok4 chiann2	99
-tog⁴ziên³	thok4 chien3	199
+tog⁴ziên³	thok4 chien3	99
 toh⁴gou¹ gai⁵nang⁵	thoh4 kou1 kai5 nang5	199
 toh⁴gou⁶	thoh4 kou6	101
 toh⁴mang⁷	thoh4 mang7	99
@@ -19327,7 +19305,6 @@ zang⁷soh⁴	chang7 soh4	99
 zan³bang⁵	chan3 pang5	100
 zan³giên⁶	chan3 kien6	100
 zan³muiⁿ²	chan3 muinn2	101
-zan¹poiⁿ⁷	chan1 phoinn7	99
 zao² gao³bho⁵kui³ke³	chau2 kau3 bo5 khui3  khur3	99
 zao²bhi⁷	chau2 bi7	99
 zao²bhun⁵ze¹	chau2 bun5 chur1	100
@@ -21580,7 +21557,6 @@ zêⁿ⁶zêⁿ⁶	chenn6 chenn6	101
 ê⁶hai⁵	e6 hai5	103
 ê⁶hai⁵ lo⁵do⁷ lo⁵do⁷	e6 hai5 lo5 to7 lo5 to7	99
 ê⁶hai⁵ to⁷to⁷	e6 hai5 tho7 tho7	99
-ê⁶hai⁵zuh⁴	e6 hai5 chuh4	99
 ê⁶huê⁵	e6 hue5	151
 ê⁶koi¹	e6 khoi1	99
 ê⁶min⁷	e6 min7	101

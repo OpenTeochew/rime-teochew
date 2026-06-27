@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_dp_syllables
-version: "20260626.004048"
+version: "20260627.180508"
 sort: by_weight
 ...
 
@@ -1318,8 +1318,6 @@ hoi³	hoi3	1
 hoi⁵	hoi5	1
 hoi⁶	hoi6	1
 hoi⁷	hoi7	1
-hoih⁴	hoih4	1
-hoih⁸	hoih8	1
 hoiⁿ¹	hoinn1	1
 hoiⁿ²	hoinn2	1
 hoiⁿ³	hoinn3	1
@@ -2166,12 +2164,6 @@ koiⁿ⁶	khoinn6	1
 koiⁿ⁷	khoinn7	1
 kog⁴	khok4	1
 kog⁸	khok8	1
-kom¹	khom1	1
-kom²	khom2	1
-kom³	khom3	1
-kom⁵	khom5	1
-kom⁶	khom6	1
-kom⁷	khom7	1
 kong¹	khong1	1
 kong²	khong2	1
 kong³	khong3	1
@@ -5312,8 +5304,6 @@ doi³	toi3	1
 doi⁵	toi5	1
 doi⁶	toi6	1
 doi⁷	toi7	1
-doih⁴	toih4	1
-doih⁸	toih8	1
 doiⁿ¹	toinn1	1
 doiⁿ²	toinn2	1
 doiⁿ³	toinn3	1

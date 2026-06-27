@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260626.004048"
+version: "20260627.180508"
 sort: by_weight
 ...
 
@@ -840,7 +840,6 @@ Palsy.	kuan3  pien1	100
 下頦	e6  hai5	104
 下頦佗佗	e6  hai5 tho7  tho7	100
 下頦啰袋啰袋	e6  hai5 lo5  to7 lo5  to7	100
-下頦？	e6  hai5  chuh4	100
 下顧	hia6  ku3	100
 不二價	put4  jur6  ke3	100
 不仁	put4  jin5	102
@@ -3838,7 +3837,6 @@ Palsy.	kuan3  pien1	100
 去邪逐疫	khur2  sia5 tok8  mut8	100
 去食桌	khur3  chiah8  toh4	100
 去食棹	khur3  chiah8  toh4	50
-去？行	khur3  kin5  kiann5	100
 参碎物件	chham3  chhui3 mueh8  kiann6	100
 參名	chham1  miann5	102
 參字	chham1  ji7	100
@@ -4497,8 +4495,6 @@ Palsy.	kuan3  pien1	100
 呾話韌哺韌哺	tann3  ue7 jun7  pou7 jun7  pou7	100
 呾話韌韌	tann3  ue7 jun7  jun7	100
 呾話響亮	tann3  ue7 hiang2  liang6	100
-呾話？？叫	tann3  ue7 o1  o1  kie3	100
-呾話？？呌	tann3  ue7 o1  o1  kie3	50
 呾賺	tann3  tann7	102
 呾趣味話	tann3 chhu3  bi7  ue7	100
 呾較太過	tann3 khah4  thai3  kue3	100
@@ -6936,7 +6932,6 @@ Palsy.	kuan3  pien1	100
 孤行寂寞	kou1  hang5 sok4  mok8	100
 孤身	kou1  sin1	100
 孤隻鞋	kou1  chiah4  oi5	100
-孤？	kou1  bau7	100
 孥仔	nounn5  kiann2	55
 孥仔樣	nounn5  kiann2  ienn7	50
 孥仔款	nounn5  kiann2  khuan2	51
@@ -8005,7 +8000,6 @@ Palsy.	kuan3  pien1	100
 店舖	tiam3  phou3	104
 店號	tiam3  ho7	100
 府太爺	hu2  thai3  ia5	101
-府？	hu2  hien3	100
 度式	tou7  sek4	100
 度量	tou7  liang6	101
 度量寬大	tou7  liang6 khuan1  tua7	100
@@ -15445,7 +15439,6 @@ Palsy.	kuan3  pien1	100
 煲零些燒水	pu5 lan5  lo2 sie1  chui2	100
 煲食	pu5  chiah8	100
 煲飯	pu5  png7	101
-煲？	pu5  kurt8	100
 煽聖	sien3  siann3	100
 熁熱	hiap4  juah8	100
 熁爇	hiap4  juah8	50
@@ -15923,7 +15916,6 @@ Palsy.	kuan3  pien1	100
 狗銜風	kau2  kann5  huang1	100
 狹塞	oih8  soih4	100
 狹細	oih8  soih4	100
-狹？	oih8  toih8	100
 猛些	menn2   che7	101
 猛在	menn2  chai6	100
 猛烈	menn2  liet8	103
@@ -21957,7 +21949,6 @@ Palsy.	kuan3  pien1	100
 贖罪	sok8  chue6	105
 贖轉	sok8  tng2	101
 贖轉罪過	sok8  tng2 chue6  kue3	100
-赤尻？	chhiah4  ka1  lit4	100
 赤布	chhiah4  pou3	100
 赤條條	chhiah4  tiau5  tiau5	100
 赤牛	chhiah4  gu5	100
@@ -24157,7 +24148,6 @@ Palsy.	kuan3  pien1	100
 雙響銃	sang1  hiang2  chheng3	101
 雙頭	sang1  thau5	100
 雙骹盤起	sang1  kha1 phuan5  khi2	100
-雙？環	sang1  lau1  khou1	100
 雙𨵿兩意	sang1  kuan1 liang2  i3	53
 雜亂	chap8  luan6	100
 雜冊	chap8  chheh4	100
@@ -24556,7 +24546,6 @@ Palsy.	kuan3  pien1	100
 韭菜花	ku2  chhai3  hue1	100
 音語	im1  gur2	102
 音韻調和	im1  un7 thiau5  hua5	100
-音？害	im1  thim1  hai7	100
 頂个	teng2   kai5	100
 頂位	teng2  ui7	100
 頂好	teng2  ho2	101
@@ -25631,7 +25620,6 @@ Palsy.	kuan3  pien1	100
 麥糠	beh8  khng1	100
 麥麩	beh8  phou1	100
 麥麩皮	beh8  phou1  phue5	100
-麥？	beh8  khoh8	100
 麫包	mi7 pau1	50
 麫包	minn7  pau1	52
 麫包碎	minn7  pau1  chhui3	50
@@ -25828,26 +25816,6 @@ Palsy.	kuan3  pien1	100
 免致到艱苦	mien2 ti3  kau3 kan1  khou2	50
 免錢	mien2  chinn5	50
 免錢	min2  chinn5	50
-？做	sah4   cho3	100
-？布	lam3  pou3	100
-？彎？曲	in1  uan1 khit4  khek4	100
-？戰	thok4  chien3	100
-？着	khoinn6   tieh8	100
-？行	kin5  kiann5	101
-？辦	chan1  phoinn7	100
-？鑔	khom6  chhe6	100
-？頭路	khut8  thau5  lou7	100
-？？	hoih4  hoih4	100
-？？	sang1  tham2	100
-？？	thi1  thuat4	100
-？？叫	hm7  hm7  kie3	100
-？？叫	tiang1  tiang1  kie3	100
-？？呌	hm7  hm7  kie3	50
-？？呌	tiang1  tiang1  kie3	50
-？？腰	in1  iang1  ie1	100
-？？走	ma6  ma6  chau2	100
-？？？叫	khit4  khok4  lok8  kie3	100
-？？？呌	khit4  khok4  lok8  kie3	50
 𠀾了	boi6  liau2	50
 𠀾使	boi6  sai2	50
 𠀾利	boi6  lai7	50
